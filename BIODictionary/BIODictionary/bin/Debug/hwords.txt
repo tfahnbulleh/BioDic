@@ -1,0 +1,256 @@
+habitat
+[L. habitare, to live in]
+The place in which individuals of a particular species can usually be found.
+
+habituation
+[L. habitus, condition]
+A simple kind of learning involving a loss of sensitivity to unimportant stimuli, allowing an animal to conserve time and energy.
+
+half-life
+The average time required for the disappearance or decay of one-half of any amount of a given substance.
+
+haploid cell
+(hap-loyd) [Gk. haploos, single + ploion, vessel]
+A cell containing only one set of chromosomes (n).
+
+Hardy-Weinberg equilibrium
+The steady-state relationship between relative frequencies of two or more alleles in an idealized population; both the allele frequencies and the genotype frequencies will remain constant from generation to generation in a population breeding at random in the absence of evolutionary forces.
+
+Hardy-Weinberg theorem
+An axiom maintaining that the sexual shuffling of genes alone cannot alter the overall genetic makeup of a population.
+
+haustorium pl. haustoria
+In parasitic fungi, a nutrient-absorbing hyphal tip that penetrates the tissues of the host but remains outside the host cell membranes.
+
+Haversian system
+(ha-ver-shun)
+One of many structural units of vertebrate bone, consisting of concentric layers of mineralized bone matrix surrounding lacunae, which contain osteocytes, and a central canal, which contains blood vessels and nerves.
+
+heat
+The total amount of kinetic energy due to molecular motion in a body of matter. Heat is energy in its most random form.
+
+heat of vaporization
+The amount of heat required to change a given amount of a liquid into a gas; 540 calories are required to change 1 gram of liquid water into vapor.
+
+heat-shock protein
+A protein that helps protect other proteins during heat stress, found in plants, animals, and microorganisms.
+
+helper T cell (TH)
+A type of T cell that is required by some B cells to help them make antibodies or that helps other T cells respond to antigens or secrete lymphokines or interleukins.
+
+heme
+[Gk. haima, blood]
+The iron-containing group of heme proteins such as hemoglobin and the cytochromes.
+
+hemoglobin
+(hee-moh-gloh-bin) [Gk. haima, blood + L. globus, a ball]
+An iron-containing protein in red blood cells that reversibly binds oxygen.
+
+hemophilia
+[Gk. haima, blood + philios, friendly]
+A group of hereditary disorders characterized by failure of the blood to clot and consequent excessive bleeding from even minor wounds.
+
+hemolymph
+In invertebrates with an open circulatory system, the body fluid that bathes tissues.
+
+hepatic
+[Gk. hepatikos, liver]
+Pertaining to the liver.
+
+hepatic portal vessel
+A large circulatory channel that conveys nutrient-laden blood from the small intestine to the liver, which regulates the blood's nutrient content.
+
+herbaceous
+(her-bay-shus) [L. herba, grass]
+In plants, nonwoody.
+
+herbivore
+[L. herba, grass + vorare, to devour]
+A heterotrophic animal that eats plants.
+
+heredity
+[L. herres, heredis, heir]
+The transmission of characteristics from parent to offspring.
+
+hermaphrodite
+(her-maf-roh-dite) [Gk. Hermes and Aphrodite]
+An individual that functions as both male and female in sexual reproduction by producing both sperm and eggs.
+
+heterochromatin
+(het-ur-oh-kroh-muh-tin)
+Nontranscribed eukaryotic chromatin that is so highly compacted that it is visible with a light microscope during interphase.
+
+heterochrony
+Evolutionary changes in the timing or rate of development.
+
+heterocyst
+(het-ur-oh-sist)
+A specialized cell that engages in nitrogen fixation on some filamentous cyanobacteria.
+
+heteromorphic
+(het-ur-oh-mor-fik)
+A condition in the life cycle of all modern plants in which the sporophyte and gametophyte generations differ in morphology.
+
+heterosporous
+(het-ur-os-pur-us)
+Referring to plants in which the sporophyte produces two kinds of spores that develop into unisexual gametophytes, either female or male.
+
+heterotroph
+(het-ur-oh-trohf) [Gk. heteros, other, different + trophos, feeder]
+An organism that obtains organic food molecules by eating other organisms or their by-products.
+
+heterozygote
+(het-ur-oh-zy-gote) [Gk. heteros, other + zygotos, a pair]
+A diploid organism that carries two different alleles at one or more genetic loci.
+
+heterozygote advantage
+A mechanism that preserves variation in eukaryotic gene pools by conferring greater reproductive success on heterozygotes over individuals homozygous for any one of the associated alleles.
+
+heterozygous
+(het-ur-oh-zy-gus)
+Having two different alleles for a given genetic character.
+
+hibernation
+[L. hiberna, winter]
+A physiological state that allows survival during long periods of cold temperatures and reduced food supplies, in which metabolism decreases, the heart and respiratory system slow down, and body temperature is maintained at a lower level than normal.
+
+histamine
+(hiss-tuh-meen)
+A substance released by injured cells that causes blood vessels to dilate during an inflammatory response.
+
+histone
+(hiss-tone)
+A small protein with a high proportion of positively charged amino acids that binds to the negatively charged DNA and plays a key role in its chromatin structure.
+
+HIV
+Abbreviation of human immunodeficiency virus, the infectious agent that causes AIDS; HIV is an RNA retrovirus.
+
+holoblastic cleavage
+(hoh-loh-blas-tik)
+A type of cleavage in which there is complete division of the egg, as in eggs having little yolk (sea urchin) or a moderate amount of yolk (frog).
+
+homeobox
+A 180-nucleotide sequence within a homeotic gene encoding the part of the protein that binds to the DNA of the genes regulated by the protein.
+
+homeosis
+Evolutionary alteration in the placement of different body parts.
+
+homeostasis
+(home-ee-oh-stay-sis) [Gk. homos, same or similar + stasis, standing]
+The steady-state physiological condition of the body.
+
+homeotherm
+[Gk. homos, same or similar + therme, heat]
+An organism, such as a bird or mammal, capable of maintaining a stable body temperature independent of the environment.
+
+homeotic genes
+(home-ee-ot-ik)
+Genes that control the overall body plan of animals by controlling the developmental fate of groups of cells.
+
+hominid
+[L. homo, man]
+Humans and closely related primates; includes modern and fossil forms, such as the australopithecines, but not the apes.
+
+hominoid
+[L. homo, man]
+Hominids and the apes.
+
+homologous chromosomes
+(home-ol-uh-gus) [Gk. homologia, agreement]
+Chromosome pairs of the same length, centromere position, and staining pattern that possess genes for the same characters at corresponding loci. One homologous chromosome is inherited from the organism's father, the other from the mother.
+
+homologous structures
+Structures in different species that are similar because of common ancestry.
+
+homology
+[Gk. homologia, agreement]
+Similarity in characteristics resulting from a shared ancestry.
+
+homosporous
+(home-os-pur-us)
+Referring to plants in which a single type of spore develops into a bisexual gametophyte having both male and female sex organs.
+
+homozygote
+[Gk. homos, same or similar + zygotos, a pair]
+A diploid organism that carries identical alleles at one or more genetic loci.
+
+homozygous
+(home-oh-zy-gus)
+Having two identical alleles for a given trait.
+
+hormone
+[Gk. hormaein, to excite]
+One of many types of circulating chemical signals in all multicellular organisms that are formed in specialized cells, travel in body fluids, and coordinate the various parts of the organism by interacting with target cells.
+
+host
+(1) An organism on or in which a parasite lives. (2) A recipient of grafted tissue.
+
+Human Genome Project
+An international collaborative effort to map and sequence the DNA of the entire human genome.
+
+human immunodeficiency virus (HIV)
+The infectious agent that causes AIDS; HIV is an RNA retrovirus.
+
+humoral immunity
+(hyoo-mur-al)
+The type of immunity that fights bacteria and viruses in body fluids with antibodies that circulate in blood plasma and lymph, fluids formerly called humors.
+
+hybrid
+[L. hybrida, the offspring of a tame sow and a wild boar]
+(1) Offspring of two parents that differ in one or more inheritable characteristics. (2) Offspring of two different varieties or of two different species.
+
+hybrid zone
+A region where two related populations that diverged after becoming geographically isolated make secondary contact and interbreed where their geographical ranges overlap.
+
+hydrocarbon
+[L. hydro, water + carbo, charcoal]
+An organic molecule consisting only of carbon and hydrogen.
+
+hydrogen bond
+A type of weak chemical bond formed when the slightly positive hydrogen atom of a polar covalent bond in one molecule is attracted to the slightly negative atom of a polar covalent bond in another molecule.
+
+hydrolysis
+(hy-drol-eh-sis) [L. hydro, water + Gk. lysis, loosening]
+A chemical process that lyses or splits molecules by the addition of water; an essential process in digestion.
+
+hydrogen ion
+A single proton with a charge of +1. The dissociation of a water molecule (H2O) leads to the generation of a hydroxide ion (OH-) and a hydrogen ion (H+).
+
+hydrophilic
+(hy-droh-fil-ik) [L. hydro, water + Gk. philios, friendly]
+Having an affinity for water.
+
+hydrophobic
+(hy-droh-foh-bik) [L. hydro, water + Gk. phobos, fearing]
+Having an aversion to water; tending to coalesce and form droplets in water.
+
+hydrostatic skeleton
+(hy-droh-stat-ik)
+A skeletal system composed of fluid held under pressure in a closed body compartment; the main skeleton of most cnidarians, flatworms, nematodes, and annelids.
+
+hydroxyl group
+(hy-droks-ul)
+A functional group consisting of a hydrogen atom joined to an oxygen atom by a polar covalent bond. Molecules possessing this group are soluble in water and are called alcohols.
+
+hyperpolarization
+An electrical state whereby the inside of the cell is made more negative relative to the outside than at the resting membrane potential. A neuron membrane is hyperpolarized if a stimulus increases its voltage from the resting potential of -70 mV, reducing the chance that the neuron will transmit a nerve impulse.
+
+hypertonic solution
+[Gk. hyper, above + tonos, tension]
+A solution with a greater solute concentration than another, a hypotonic solution.
+
+hypha
+(hy-fa) [Gk. hyphe, web]
+A filament that collectively makes up the body of a fungus.
+
+hypothalamus
+(hy-poh-thal-uh-mus) [Gk. hypo, under + thalamos, inner room]
+The ventral part of the vertebrate forebrain; functions in maintaining homeostasis, especially in coordinating the endocrine and nervous systems; secretes hormones of the posterior pituitary and releasing factors, which regulate the anterior pituitary.
+
+hypothesis
+[Gk. hypo, under + tithenai, to put]
+A temporary working explanation or supposition based on accumulated facts and suggesting some general principle or relation of cause and effect; a postulated solution to a scientific problem that must be tested and if not validated, discarded.
+
+hypotonic solution
+[Gk. hypo, under + tonos, tension]
+A solution with a lesser solute concentration than another, a hypertonic solution.

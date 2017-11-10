@@ -1,0 +1,232 @@
+dalton
+(dawl-ton)
+The atomic mass unit; a measure of mass for atoms and subatomic particles.
+
+Darwinian fitness
+A measure of the relative contribution of an individual to the gene pool of the next generation.
+
+daughter cell
+A cell that is the offspring of a cell that has undergone mitosis or meiosis. The term "daughter" does not indicate the sex of the cell.
+
+day-neutral plant
+A plant whose flowering is not affected by photoperiod.
+
+deciduous
+[L. decidere, to fall off]
+Refers to plants that shed their leaves at a certain season.
+
+decomposers
+Saprotrophic fungi and bacteria that absorb nutrients from nonliving organic material such as corpses, fallen plant material, and the wastes of living organisms, and convert them into inorganic forms.
+
+dehydration reaction
+A chemical reaction in which two molecules covalently bond to one another with the removal of a water molecule.
+
+deletion
+(1) A deficiency in a chromosome resulting from the loss of a fragment through breakage. (2) A mutational loss of a nucleotide from a gene.
+
+demography
+The study of statistics relating to births and deaths in populations.
+
+denaturation
+For proteins, a process in which a protein unravels and loses its native conformation, thereby becoming biologically inactive. For DNA, the separation of the two strands of the double helix. Denaturation occurs under extreme conditions of pH, salt concentration, and temperature.
+
+dendrite
+(den-dryt) [Gk. dendron, tree]
+One of usually numerous, short, highly branched processes of a neuron that conveys nerve impulses toward the cell body.
+
+denitrification
+The process by which certain bacteria living in poorly aerated soils break down nitrates, using the oxygen for their own respiration and releasing nitrogen back into the atmosphere.
+
+density
+The number of individuals per unit area or volume.
+
+density-dependent factor
+Any factor influencing population regulation that has a greater impact as population density increases.
+
+density-dependent inhibition
+The phenomenon observed in normal animal cells that causes them to stop dividing when they come into contact with one another.
+
+density-independent factors
+Any factor influencing population regulation that acts to reduce population by the same percentage, regardless of size.
+
+deoxyribonucleic acid (DNA)
+(dee-oks-ee- ry-boh-noo-klay-ik)
+A double-stranded, helical nucleic acid molecule capable of replicating and determining the inherited structure of a cell's proteins.
+
+deoxyribose
+The sugar component of DNA, having one less hydroxyl group than ribose, the sugar component of RNA.
+
+dependent variable
+In an experiment, the dependent variable is the factor that responds when another factor is manipulated.
+
+depolarization
+An electrical state in an excitable cell whereby the inside of the cell is made less negative relative to the outside than at the resting membrane potential. A neuron membrane is depolarized if a stimulus decreases its voltage from the resting potential of -70 mV in the direction of zero voltage.
+
+deposit-feeder
+A heterotroph, such as an earthworm, that eats its way through detritus, salvaging bits and pieces of decaying organic matter.
+
+dermal tissue system
+The protective covering of plants; generally a single layer of tightly packed epidermal cells covering young plant organs formed by primary growth.
+
+dermis
+[Gk. derma, skin]
+The inner layer of the skin, beneath the epidermis.
+
+desmosome
+(dez-muh-some) [Gk. desmos, bond + soma, body]
+A type of intercellular junction in animal cells that functions as an anchor.
+
+determinate cleavage
+A type of embryonic development in protostomes that rigidly casts the developmental fate of each embryonic cell very early.
+
+determinate growth
+A type of growth characteristic of animals, in which the organism stops growing after it reaches a certain size.
+
+determination
+The progressive restriction of developmental potential, causing the possible fate of each cell to become more limited as the embryo develops.
+
+detritus
+(deh-try-tis)
+Dead organic matter.
+
+detritivores
+[L. detritus, worn down, worn away + voro, to devour]
+Organisms that live on dead and discarded organic matter; include large scavengers, smaller animals such as earthworms and some insects, as well as decomposers (fungi and bacteria).
+
+deuterostome
+(doo-ter-oh-stomes) [Gk. deuteros, second + stoma, mouth]
+One of two distinct evolutionary lines of coelomates, consisting of the echinoderms and chordates and characterized by radial, indeterminate cleavage, enterocoelous formation of the coelom, and development of the anus from the blastopore.
+
+development
+The progressive production of the phenotypic characteristics of a multicellular organism, beginning with the fertilization of an egg.
+
+diaphragm
+[Gk. diaphrassein, to barricade]
+A sheet of muscle that forms the bottom wall of the thoracic cavity in mammals; active in ventilating the lungs.
+
+diastole
+(dy-ass-toh-lee)
+The stage of the heart cycle in which the heart muscle is relaxed, allowing the chambers to fill with blood.
+
+diastolic pressure
+The pressure in an artery during the ventricular relaxation phase of the heart cycle.
+
+dicot
+(dy-kot)
+A subdivision of flowering plants whose members possess two embryonic seed leaves, or cotyledons.
+
+dicotyledon
+(dye-cottle-ee-don) [Gk. di, double, two + kotyledon, a cup-shaped hollow]
+A member of the class of flowering plants having two seed leaves, or cotyledons, among other distinguishing features; often abbreviated as dicot.
+
+differentiation
+See cellular differentiation.
+
+diffusion
+[L. diffundere, to pour out]
+The spontaneous tendency of a substance to move down its concentration gradient from a more concentrated to a less concentrated area.
+
+digestion
+[L. digestio, separating out, dividing]
+The process of breaking down food into molecules small enough for the body to absorb.
+
+dihybrid
+(dy-hy-brid)
+A hybrid individual that is heterozygous for two genes or two characters.
+
+dihybrid cross
+A breeding experiment in which parental varieties differing in two traits are mated.
+
+dikaryon
+dy-kah-ree-on)
+A mycelium of certain septate fungi that possesses two separate haploid nuclei per cell.
+
+dioecious
+(dy-ee-shus) (dye-ee-shus) [Gk. di, two + oikos, house]
+Referring to a plant species that has staminate and carpellate flowers on separate plants.
+
+dimorphism
+Displaying two separate growth forms.
+
+diploid cell
+(dip-loyd) [Gk. di, double, two + ploion, vessel]
+A cell containing two sets of chromosomes (2n), one set inherited from each parent.
+
+directed molecular evolution
+A laboratory version of evolution at the molecular level that can produce "designer molecules." A large starting population of molecules (typically nucleic acids) that varies randomly in base sequence and shape is subjected to replication with variation, followed by selection. After several cycles of replication and selection, the population of molecules will evolve toward one containing a high proportion of molecules well adapted to the selection criterion applied.
+
+directional selection
+Natural selection that favors individuals on one end of the phenotypic range.
+
+disaccharide
+(dy-sak-ur-ide) [Gk. di, two + sakcharon, sugar]
+A double sugar, consisting of two monosaccharides joined by dehydration synthesis.
+
+diurnal
+[L. diurnus, of the day]
+Applied to organisms that are active during the daylight hours.
+
+dispersion
+The distribution of individuals within geographical population boundaries.
+
+diversifying selection
+Natural selection that favors extreme over intermediate phenotypes.
+
+division
+A taxonomic grouping of related, similar classes; a high- level category below kingdom and above class. Division is generally used in the classification of prokaryotes, algae, fungi, and plants, whereas an equivalent category, phylum, is used in the classification of protozoa and animals.
+
+DNA
+Abbreviation of deoxyribonucleic acid.
+
+DNA ligase
+(ly-gaze)
+A linking enzyme essential for DNA replication; catalyzes the covalent bonding of the 3' end of a new DNA fragment to the 5' end of a growing chain.
+
+DNA methylation
+The addition of methyl groups (-CH3) to bases of DNA after DNA synthesis; may serve as a long-term control of gene expression.
+
+DNA polymerase
+An enzyme that catalyzes the elongation of new DNA at a replication fork by the addition of nucleotides to the existing chain.
+
+DNA probe
+A chemically synthesized, radioactively labeled segment of nucleic acid used to find a gene of interest by hydrogen-bonding to a complementary sequence.
+
+domain
+A taxonomic category above the kingdom level; the three domains are Archaea, Bacteria, and Eukarya.
+
+dominance hierarchy
+A linear "pecking order" of animals, where position dictates characteristic social behaviors.
+
+dominant allele
+In a heterozygote, the allele that is fully expressed in the phenotype.
+
+dormancy
+[L. dormire, to sleep]
+A period during which growth ceases and metabolic activity is greatly reduced; dormancy is broken when certain requirements, for example, of temperature, moisture, or day length, are met.
+
+dorsal
+[L. dorsum, the back]
+Pertaining to or situated near the back; opposite of ventral.
+
+double circulation
+A circulation scheme with separate pulmonary and systemic circuits, which ensures vigorous blood flow to all organs.
+
+double fertilization
+A mechanism of fertilization in angiosperms, in which two sperm cells unite with two cells in the embryo sac to form the zygote and endosperm.
+
+double helix
+The form of native DNA, referring to its two adjacent polynucleotide strands wound into a spiral shape.
+
+Down syndrome
+A human genetic disease resulting from having an extra chromosome 21, characterized by mental retardation and heart and respiratory defects.
+
+duodenum
+(doo-oh-dee-num) [L. duodeni, twelve each - from its length, about 12 fingers' breadth]
+The first section of the small intestine, where acid chyme from the stomach mixes with digestive juices from the pancreas, liver, gallbladder, and gland cells of the intestinal wall.
+
+duplication
+An aberration in chromosome structure resulting from an error in meiosis or mutagens; duplication of a portion of a chromosome resulting from fusion with a fragment from a homologous chromosome.
+
+dynein
+(dy-nin)
+A large contractile protein forming the sidearms of microtubule doublets in cilia and flagella.

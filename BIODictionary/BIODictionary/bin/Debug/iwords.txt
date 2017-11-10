@@ -1,0 +1,171 @@
+ichthyologist
+Biologists who specialize in the study of fish behavior, anatomy, physiology, and evolution.
+
+imaginal disk
+(i-maj-in-ul)
+An island of undifferentiated cells in an insect larva, which are committed (determined) to form a particular organ during metamorphosis to the adult.
+
+imbibition
+[L. imbibere, to drink in]
+The capillary movement of water into germinating seeds and into substances such as wood and gelatin, which swell as a result.
+
+immune response
+A highly specific defensive reaction of the body to invasion by a foreign substance or organism; consists of a primary response in which the invader is recognized as foreign, or "not-self," and eliminated and a secondary response to subsequent attacks by the same invader. Mediated by two types of lymphocytes B cells, which mature in the bone marrow and are responsible for antibody production, and T cells, which mature in the thymus and are responsible for cell-mediated immunity.
+
+immunoglobulin (Ig)
+(im-myoo-noh-glob-yoo-lin)
+One of the class of proteins comprising the antibodies.
+
+imprinting
+A type of learned behavior with a significant innate component, acquired during a limited critical period.
+
+inbreeding
+The mating of individuals that are closely related genetically.
+
+inclusive fitness
+The relative number of an individual's alleles that are passed on from generation to generation, either as a result of his or her own reproductive success, or that of related individuals.
+
+incomplete dominance
+A type of inheritance in which F1 hybrids have an appearance that is intermediate between the phenotypes of the parental varieties.
+
+incomplete flower
+A flower lacking sepals, petals, stamens, or carpels.
+
+incomplete metamorphosis
+(met-uh-mor-foh-sis)
+A type of development in certain insects, such as grasshoppers, in which the larvae resemble adults but are smaller and have different body proportions. The animal goes through a series of molts, each time looking more like an adult, until it reaches full size.
+
+independent assortment
+See Mendel's second law.
+
+independent variable
+In an experiment, when one factor is manipulated, a second factor responds. The independent variable is the factor that is manipulated.
+
+indeterminate cleavage
+A type of embryonic development in deuterostomes, in which each cell produced by early cleavage divisions retains the capacity to develop into a complete embryo.
+
+indeterminate growth
+A type of growth characteristic of plants, in which the organism continues to grow as long as it lives.
+
+induced fit
+The change in shape of the active site of an enzyme so that it binds more snugly to the substrate, induced by entry of the substrate.
+
+induction
+[L. inducere, to induce]
+(1) The ability of one group of embryonic cells to influence the development of another. (2) In genetics, the phenomenon in which the presence of a substrate (the inducer) initiates transcription and translation of the genes coding for the enzymes required for its metabolism.
+
+inflammatory response
+A line of defense triggered by penetration of the skin or mucous membranes, in which small blood vessels in the vicinity of an injury dilate and become leakier, enhancing the infiltration of leukocytes; may also be widespread in the body.
+
+ingestion
+A heterotrophic mode of nutrition in which other organisms or detritus are eaten whole or in pieces.
+
+inhibitory postsynaptic potential (IPSP)
+(post-sin-ap-tik)
+An electrical charge (hyperpolarization) in the membrane of a postsynaptic neuron caused by the binding of an inhibitory neurotransmitter from a presynaptic cell to a postsynaptic receptor; makes it more difficult for a postsynaptic neuron to generate an action potential.
+
+innate releasing mechanism
+In ethology, a circuit within an animal's brain that is hypothesized to respond to a specific stimulus, setting in motion, or "releasing," the sequence of movements that constitute a fixed action pattern.
+
+inner cell mass
+A cluster of cells in a mammalian blastocyst that protrudes into one end of the cavity and subsequently develops into the embryo proper and some of the extraembryonic membranes.
+
+inositol trisphosphate (IP3)
+(in-nos-i-tahl)
+The second messenger, which functions as an intermediate between certain nonsteroid hormones and the third messenger, a rise in cytoplasmic Ca2+ concentration.
+
+insertion
+A mutation involving the addition of one or more nucleotide pairs to a gene.
+
+insertion sequence
+The simplest kind of a transposon, consisting of inserted repeats of DNA flanking a gene for transposase, the enzyme that catalyzes transposition.
+
+insight learning
+The ability of an animal to perform a correct or appropriate behavior on the first attempt in a situation with which it has had no prior experience.
+
+instar
+The stage of an arthropod's life cycle between molts (shedding of the exoskeleton). As an example, the third instar is the stage of the life cycle between the second and third molting cycles. Some arthropods molt throughout their entire life and may have as many as 30 instars. Insects tend to have a set number of instars, the number varying by species. The instars succeed one another until the final mature instar, when the organism stops molting.
+
+insulin
+A vertebrate hormone that lowers blood glucose levels by promoting the uptake of glucose by most body cells and the synthesis and storage of glycogen in the liver; also stimulates protein and fat synthesis; secreted by endocrine cells of the pancreas called islets of Langerhans.
+
+interferon
+A chemical messenger of the immune system, produced by virus-infected cells and capable of helping other cells resist the virus.
+
+interleukin
+Interleukin-1, a chemical regulator (cytokin) secreted by macrophages that have ingested a pathogen or foreign molecule and have bound with a helper T cell; stimulates T cells to grow and divide and elevates body temperature. Interleukin-2, secreted by activated T cells, stimulates helper T cells to proliferate more rapidly.
+
+intermediate filament
+A component of the cytoskeleton that includes all filaments intermediate in size between microtubules and microfilaments.
+
+interneuron
+An association neuron; a nerve cell within the central nervous system that forms synapses with sensory and motor neurons and integrates sensory input and motor output.
+
+internode
+The segment of a plant stem between the points where leaves are attached.
+
+interphase
+The period in the cell cycle when the cell is not dividing. During interphase, cellular metabolic activity is high, chromosomes and organelles are duplicated, and cell size may increase. Interphase accounts for 90% of the time of each cell cycle.
+
+interstitial cells
+(in-tur-stish-ul)
+Cells scattered among the seminiferous tubules of the vertebrate testis that secrete testosterone and other androgens, the male sex hormones.
+
+interstitial fluid
+The internal environment of vertebrates, consisting of the fluid filling the spaces between cells.
+
+intertidal zone
+The shallow zone of the ocean where land meets water.
+
+intrinsic rate of increase
+The difference between the number of births and the number of deaths, symbolized as rmax; the maximum population growth rate.
+
+introgression
+(in-troh-gres-shun)
+The transplantation of genes between species resulting from fertile hybrids mating successfully with one of the parent species.
+
+intron
+A noncoding, intervening sequence within a eukaryotic gene.
+
+invagination
+[L. in, in + vagina, sheath]
+The local infolding of a layer of tissue, especially in animal embryos, so as to form a depression or pocket opening to the outside.
+
+inversion
+An aberration in chromosome structure resulting from an error in meiosis or from mutagens; reattachment in a reverse orientation of a chromosomal fragment to the chromosome from which the fragment originated.
+
+invertebrate
+An animal without a backbone; invertebrates make up 95% of animal species.
+
+in vitro fertilization
+(vee-troh)
+Fertilization of ova in laboratory containers followed by artificial implantation of the early embryo in the mother's uterus.
+
+ion
+(eye-on)
+An atom that has gained or lost electrons, thus acquiring a charge.
+
+ionic bond
+A chemical bond resulting from the attraction between oppositely charged ions.
+
+isogamy
+(eye-sog-uh-mee)
+A condition in which male and female gametes are morphologically indistinguishable.
+
+isolating mechanisms
+Mechanisms that prevent genetic exchange between individuals of different populations or species; they prevent mating or successful reproduction even when mating occurs; may be behavioral, anatomical, or physiological.
+
+isomer
+(eye-sum-ur)
+One of several organic compounds with the same molecular formula but different structures and therefore different properties. The three types are structural isomers, geometric isomers, and enantiomers.
+
+isomorphic generations
+Alternating generations in which the sporophytes and gametophytes look alike, although they differ in chromosome number.
+
+isotonic solution
+[Gk. isos, equal + tonos, tension]
+Solutions of equal solute concentration.
+
+isotope
+(eye-so-tope) [Gk. isos, equal + topos, place]
+One of several atomic forms of an element, each containing a different number of neutrons and thus differing in atomic mass.

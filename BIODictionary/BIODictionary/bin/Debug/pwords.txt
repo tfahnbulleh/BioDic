@@ -1,0 +1,673 @@
+pacemaker
+A specialized region of the right atrium of the mammalian heart that sets the rate of contraction; also called the sinoatrial (SA) node. See Sinoatrial node.
+
+paedogenesis
+(pee-doh-jen-eh-sis)
+The precocious development of sexual maturity in a larva.
+
+paedomorphosis
+(pee-doh-mor-foh-sis)
+The retention in an adult organism of the juvenile features of its evolutionary ancestors.
+
+paleontology
+(pay-lee-un-tol-uh-jee) [Gk. palaios, old + onta, things that exist + logos, discourse]
+The scientific study of fossils.
+
+palisade cells
+[L. palus, stake + cella, a chamber]
+In plant leaves, the columnar, chloroplast-containing parenchyma cells of the mesophyll.
+
+pancreas
+(pang-kree-us) [Gk. pan, all + kreas, meat, flesh]
+In vertebrates, a small, complex gland located between the stomach and the duodenum, which produces digestive enzymes and the hormones insulin and glucagon.
+
+Pangaea
+(pan-jee-uh)
+The supercontinent formed near the end of the Paleozoic era when plate movements brought all the land masses of Earth together.
+
+paraphyletic
+(par-uh-fy-leh-tik)
+Pertaining to a taxon that excludes some members that share a common ancestor with members included in the taxon.
+
+parasite
+(par-uh-site) [Gk. para, beside, akin to + sitos, food]
+An organism that absorbs nutrients from the body fluids of living hosts.
+
+parasitism
+A symbiotic relationship in which the symbiont (parasite) benefits at the expense of the host by living either within the host (endoparasite) or outside the host (ectoparasite). See Symbiosis.
+
+parasympathetic division
+[Gk. para, beside, akin to]
+One of two divisions of the autonomic nervous system; generally enhances body activities that gain and conserve energy, such as digestion and reduced heart rate.
+
+parathyroid glands
+[Gk. para, beside, akin to + thyra, a door]
+Four endocrine glands, embedded in the surface of the thyroid gland, that secrete parathyroid hormone and raise blood calcium levels.
+
+parazoa
+(par-uh-zoh-uh)
+Members of the subkingdom of animals consisting of the sponges.
+
+parenchyma
+(pur-en-kim-uh) [Gk. para, beside, akin to + en, in + chein, to pour]
+A relatively unspecialized plant cell type that carries most of the metabolism, synthesizes and stores organic products, and develops into more differentiated cell types.
+
+parental generation
+In an experimental genetic cross, the parents of the F1 generation; homozygous for the trait(s) being studied.
+
+parthenogenesis
+(par-then-oh-jen-eh-sis) [Gk. parthenon, virgin + genesis, birth]
+A type of reproduction in which females produce offspring from unfertilized eggs.
+
+partial pressures
+The concentration of gases; a fraction of total pressure.
+
+passive transport
+The diffusion of a substance across a biological membrane.
+
+pathogen
+[Gk. pathos, suffering + genos, origin, descent]
+An organism or a virus that causes disease.
+
+pattern formation
+The ordering of cells into specific three-dimensional structures, an essential part of shaping an organism and its individual parts during development.
+
+pedigree
+A family tree describing the occurrence of heritable characters in parents and offspring across as many generations as possible.
+
+pelagic zone
+(pel-ay-jik)
+The area of the ocean past the continental shelf, with areas of open water often reaching to very great depths.
+
+penetrance
+In genetics, the proportion of individuals with a particular genotype that show the phenotype ascribed to that genotype.
+
+peptide bond
+[Gk. pepto, to soften, digest]
+The covalent bond between two amino acid units, formed by condensation synthesis.
+
+peptidoglycan
+(pep-tid-oh-gly-kan)
+A type of polymer in bacterial cell walls consisting of modified sugars cross-linked by short polypeptides.
+
+perception
+The interpretation of sensations by the brain.
+
+perennial
+(pur-en-ee-ul) [L. per, through + annus, year]
+A plant that lives for many years.
+
+pericycle
+(pair-eh-sy-kul) [Gk. peri, around + kyklos, circle]
+A layer of cells just inside the endodermis of a root that may become meristematic and begin dividing again.
+
+periderm
+(pair-eh-durm)
+The protective coat that replaces the epidermis in plants during secondary growth, formed of the cork and cork cambium.
+
+peripheral nervous system
+[Gk. peripherein, to carry around]
+The sensory and motor neurons that connect to the central nervous system.
+
+peristalsis
+[Gk. peristellein, to wrap around]
+Rhythmic waves of contraction of smooth muscle that push food along the digestive tract.
+
+peritoneum
+[Gk. peritonos, stretched over]
+A membrane that lines the body cavity and forms the external covering of the visceral organs.
+
+peritubular capillaries
+[Gk. peri, around + L. tubus, tube]
+In the vertebrate kidney, the capillaries that surround the renal tubule; water and solutes are reabsorbed into the bloodstream through the peritubular capillaries and some substances are secreted from them into the renal tubule.
+
+permeable
+[L. permeare, to pass through]
+Penetrable by molecules, ions, or atoms; usually applied to membranes that let given solutes pass through.
+
+peroxisome
+(per-oks-eh-some)
+A microbody containing enzymes that transfer hydrogen from various substrates to oxygen, producing and then degrading hydrogen peroxide.
+
+petiole
+(pet-ee-ole) [Fr. from L. petiolus, dim. of pes, pedis, a foot]
+The stalk of a leaf, which joins the leaf to a node of the stem.
+
+pH scale
+A measure of hydrogen ion concentration equal to -log [H+] and ranging in value from 0 to 14.
+
+phage
+(fage)
+A virus that infects bacteria; also called a bacteriophage.
+
+phagocytosis
+(fay-goh-sy-toh-sis) [Gk. phagein, to eat + kytos, vessel]
+A type of endocytosis involving large, particulate substances.
+
+pharynx
+(fah-rinks)
+An area in the vertebrate throat where air and food passages cross; in flatworms, the muscular tube that protrudes from the ventral side of the worm and ends in the mouth.
+
+phenetics
+(feh-neh-tiks)
+An approach to taxonomy based entirely on measurable similarities and differences in phenotypic characters, without consideration of homology, analogy, or phylogeny.
+
+phenotype
+[Gk. phainein, to show + typos, stamp, print]
+The physical and physiological traits of an organism.
+
+pheromone
+(fair-uh-mone) [Gk. phero, to bear, carry]
+A small, volatile chemical signal that functions in communication between animals and acts much like a hormone in influencing physiology and behavior.
+
+phloem
+(floh-um) [Gk. phloos, bark]
+The portion of the vascular system in plants consisting of living cells arranged into elongated tubes that transport sugar and other organic nutrients throughout the plant.
+
+phosphate group
+A functional group important in energy transfer.
+
+phospholipids
+(fos-fo-lip-ids)
+Molecules that constitute the inner bilayer of biological membranes, having a polar, hydrophilic head and a nonpolar, hydrophobic tail.
+
+phosphorylation
+Addition of a phosphate group or groups to a molecule.
+
+photic zone
+(foh-tik)
+The narrow top slice of the ocean, where light permeates sufficiently for photosynthesis to occur.
+
+photoautotroph
+(foh-toh-aw-toh-trohf)
+An organism that harnesses light energy to drive the synthesis of organic compounds from carbon dioxide.
+
+photoheterotroph
+(foh-toh-het-ur-oh-trohf)
+An organism that uses light to generate ATP but that must obtain carbon in organic form.
+
+photon
+(foh-tahn)
+A quantum, or discrete amount, of light energy.
+
+photoperiodism
+[Gk. photos, light]
+A physiological response to day length, such as flowering in plants.
+
+photophosphorylation
+(foh-toh-fos-for-uh-lay-shun) [Gk. photos, light + phosphoros, bringing light]
+The process of generating ATP from ADP and phosphate by means of a proton-motive force generated by the thylakoid membrane of the chloroplast during the light reactions of photosynthesis.
+
+photoreceptor
+[Gk. photos, light]
+A cell or organ capable of detecting light.
+
+photorespiration
+[Gk. photos, light + L. respirare, to breathe]
+A metabolic pathway that consumes oxygen, releases carbon dioxide, generates no ATP, and decreases photosynthetic output; generally occurs on hot, dry, bright days, when stomata close and the oxygen concentration in the leaf exceeds that of carbon dioxide.
+
+photosynthesis
+[Gk. photos, light + syn, together + tithenai, to place]
+The conversion of light energy to chemical energy that is stored in glucose or other organic compounds; occurs in plants, algae, and certain prokaryotes.
+
+photosystem
+[Gk. photos, light + systema, that which is put together]
+The light-harvesting unit in photosynthesis, located on the thylakoid membrane of the chloroplast and consisting of the antenna complex, the reaction-center chlorophyll a, and the primary electron acceptor. There are two types of photosystems, I and II; they absorb light best at different wavelengths.
+
+phototropism
+[Gk. photos, light + trope, turning]
+Growth of a plant shoot toward or away from light.
+
+phyletic change
+[Gk. phylon, race, tribe]
+The changes taking place in a single lineage of organisms over a long period of time; one of the principal patterns of evolutionary change.
+
+phylogeny
+(fy-loj-en-ee) [Gk. phylon, race, tribe]
+The evolutionary history of a species or group of related species.
+
+phylum pl. phyla
+[Gk. phylon, race, tribe]
+A taxonomic category; phyla are divided into classes.
+
+physiology
+[Gk. physis, nature + logos, a discourse]
+The study of function in cells, organs, or entire organisms; the processes of life.
+
+phytoalexin
+(fy-toh-ah-lek-sin)
+An antibiotic, produced by plants, that destroys microorganisms or inhibits their growth.
+
+phytochrome
+(fy-tuh-krome) [Gk. phyton, plant + chroma, color]
+A pigment involved in many responses of plants to light.
+
+phytoplankton
+[Gk. phyton, plant + planktos, wandering]
+Aquatic, free-floating, microscopic, photosynthetic organisms.
+
+pigment
+[L. pigmentum, paint]
+A colored substance that absorbs light over a narrow band of wavelengths.
+
+pilus pl. pili
+(pill-us)
+A surface appendage in certain bacteria that functions in adherence and the transfer of DNA during conjugation.
+
+pineal gland
+(pin-ee-ul)
+A small endocrine gland on the dorsal surface of the vertebrate forebrain; secretes the hormone melatonin, which regulates body functions related to seasonal day length.
+
+pinocytosis
+(py-noh-sy-toh-sis) [Gk. pinein, to drink + kytos, vessel]
+A type of endocytosis in which the cell ingests extracellular fluid and its dissolved solutes.
+
+pith
+The core of the central vascular cylinder of monocot roots, consisting of parenchyma cells, which are ringed by vascular tissue; ground tissue interior to vascular bundles in dicot stems.
+
+pituitary gland
+(pi-too-ih-tair-ee) [L. pituita, phlegm]
+An endocrine gland at the base of the hypothalamus; consists of a posterior lobe (neurohypophysis), which stores and releases two hormones produced by the hypothalamus, and an anterior lobe (adenohypophysis), which produces and secretes many hormones that regulate diverse body functions.
+
+placenta
+(pluh-sen-tuh) [Gk. plax, a flat object]
+A structure in the pregnant uterus for nourishing a viviparous fetus with the mother's blood supply; formed from the uterine lining and embryonic membranes.
+
+placental mammal
+A member of a group of mammals, including humans, whose young complete their embryonic development in the uterus, joined to the mother by a placenta. See Eutherian mammals.
+
+placoderm
+(plak-oh-durm)
+A member of an extinct class of fishlike vertebrates that had jaws and were enclosed in a tough, outer armor.
+
+plankton
+[Gk. planktos, wandering]
+Mostly microscopic organisms that drift passively or swim weakly near the surface of oceans, ponds, and lakes.
+
+planula
+[L. dim. of planus, a wanderer]
+The ciliated, free-swimming type of larva formed by many cnidarians.
+
+plasma
+[Gk. form or mold]
+The liquid matrix of blood in which the cells are suspended.
+
+plasma cell
+A derivative of B cells that secretes antibodies.
+
+plasma membrane
+[Gk. plasma, form or mold + L. membrana, skin, parchment]
+The membrane at the boundary of every cell that acts as a selective barrier, thereby regulating the cell's chemical composition.
+
+plasmid
+(plaz-mid)
+A small ring of DNA that carries accessory genes separate from those of a bacterial chromosome. Also found in some eukaryotes, such as yeast.
+
+plasmodesma pl. plasmodesmata
+(plaz-moh-dez-muh) [Gk. plassein, to mold + desmos, band, bond]
+An open channel in the cell wall of plants through which strands of cytosol connect from adjacent cells.
+
+plasmogamy
+The fusion of the cytoplasm of cells from two individuals; occurs as one stage of syngamy.
+
+plasmolysis
+(plaz-mol-eh-sis)
+A phenomenon in walled cells in which the cytoplasm shrivels and the plasma membrane pulls away from the cell wall when the cell loses water to a hypertonic environment.
+
+plastid
+[Gk. plastos, formed or molded]
+One of a family of closely related plant organelles, including chloroplasts, chromoplasts, and amyloplasts (leucoplasts).
+
+platelet
+(plate-let) [Gk. platus, flat]
+A small enucleated blood cell important in blood clotting; derived from large cells in the bone marrow.
+
+pleated sheet
+One form of the secondary structure of proteins in which the polypeptide chain folds back and forth, or where two regions of the chain lie parallel to each other and are held together by hydrogen bonds.
+
+pleiotropy
+(ply-o-trop-ee) [Gk. pleios, more + trope, a turning]
+The ability of a single gene to have multiple effects.
+
+plesiomorphic character
+(pleez-ee-oh-mor-fik)
+A primitive phenotypic character possessed by a remote ancestor.
+
+pluripotent stem cell
+A cell within bone marrow that is a progenitor for any kind of blood cell.
+
+point mutation
+A change in a gene at a single nucleotide pair.
+
+polar
+[L. polus, end of axis]
+Having parts or areas with opposed or contrasting properties, such as positive and negative charges, head and tail.
+
+polar body
+Minute, nonfunctioning cell produced during those meiotic divisions that lead to egg cells; contains a nucleus but very little cytoplasm.
+
+polar covalent bond
+A type of covalent bond between atoms that differ in electronegativity. The shared electrons are pulled closer to the more electronegative atom, making it slightly negative and the other atom slightly positive.
+
+polar molecule
+A molecule (such as water) with opposite charges on opposite sides.
+
+polar nuclei
+In angiosperms, the two nuclei of the central cell of the female gametophyte; they fuse with a sperm nucleus to form the triploid (3n) endosperm nucleus.
+
+pollen
+[L. fine dust]
+An immature male gametophyte that develops within the anthers of stamens in a flower.
+
+pollination
+(pol-eh-nay-shun) [L. pollen, fine dust]
+The placement of pollen onto the stigma of a carpel by wind or animal carriers, a prerequisite to fertilization.
+
+polyandry
+(pol-ee-an-dree)
+A polygamous mating system involving one female and many males.
+
+polygenic inheritance
+(pol-ee-jen-ik) [Gk. polus, many + genos, race, descent]
+An additive effect of two or more gene loci on a single phenotypic character.
+
+polygyny
+(pol-ij-en-ee)
+A polygamous mating system involving one male and many females.
+
+polymer
+(pol-eh-mur) [Gk. polus, many + meris, part or portion]
+A large molecule consisting of many identical or similar monomers linked together.
+
+polymerase
+An enzyme, such as DNA polymerase or RNA polymerase, that catalyzes the synthesis of a polymer from its subunits.
+
+polymerase chain reaction (PCR)
+A technique for amplifying DNA in vitro by incubating with special primers, DNA polymerase molecules and nucleotides.
+
+polymorphic
+(pol-ee-mor-fik)
+Referring to a population in which two or more physical forms are present in readily noticeable frequencies.
+
+polymorphism
+(pol-ee-mor-fiz-um) [Gk. polus, many + morphe, form]
+The coexistence of two or more distinct forms of individuals (polymorphic characters) in the same population.
+
+polynucleotide
+(pol-ee-noo-klee-oh-tide)
+A polymer made up of many nucleotides covalently bonded together.
+
+polyp
+(pol-ip) [Gk. polus, many + pous, foot]
+The sessile variant of the cniderian body plan. The alternate form is the medusa.
+
+polypeptide
+(pol-ee-pep-tide) [Gk. polus, many + pepto, to soften, digest]
+A polymer (chain) of many amino acids linked together by peptide bonds.
+
+polyphyletic
+Pertaining to a taxon whose members were derived from two or more ancestral forms not common to all members.
+
+polyploid
+[Gk. polus, many + ploion, vessel]
+Cell with more than two complete sets of chromosomes per nucleus.
+
+polyploidy
+(pol-ee-ploid-ee)
+A chromosomal alteration in which the organism possesses more than two complete chromosome sets.
+
+polyribosome
+(pol-ee-ry-boh-some)
+An aggregation of several ribosomes attached to one messenger RNA molecule.
+
+polysaccharide
+(pol-ee-sak-ur-ide) [Gk. polus, many + sakcharon, sugar]
+A polymer of up to over a thousand monosaccharides, formed by condensation synthesis.
+
+polysome
+See Polyribosome.
+
+population
+A group of individuals of one species that live in a particular geographic area.
+
+population bottleneck
+Type of genetic drift that occurs as the result of a population being drastically reduced in numbers by an event having little to do with the usual forces of natural selection.
+
+population density
+The number of individuals of a population per unit area or volume of living space.
+
+population viability analysis (PVA)
+A method of predicting whether or not a species will persist in a particular environment.
+
+positional information
+Signals, to which genes regulating development respond, indicating a cell's location relative to other cells in an embryonic structure.
+
+positive feedback
+A physiological control mechanism in which a change in some variable triggers mechanisms that amplify the change.
+
+posterior
+Of or pertaining to the rear, or tail, end.
+
+postsynaptic membrane
+(post-sin-ap-tik)
+The surface of the cell on the opposite side of the synapse from the synaptic terminal of the stimulating neuron that contains receptor proteins and degradative enzymes for the neurotransmitter.
+
+postzygotic barrier
+(post-zy-got-ik)
+Any of several species-isolating mechanisms that prevent hybrids produced by two different species from developing into viable, fertile adults.
+
+potential energy
+The energy stored by matter as a result of its location or spatial arrangement.
+
+predation
+An interaction between species in which one species, the predator, eats the other, the prey.
+
+predator
+[L. praedari, to prey upon; from prehendere, to grasp, seize]
+An organism that eats other living organisms.
+
+pressure-flow hypothesis
+A hypothesis accounting for sap flow through the phloem system. According to this hypothesis, the solution containing nutrient sugars moves through the sieve tubes by bulk flow, moving into and out of the sieve tubes by active transport and diffusion.
+
+prey
+[L. prehendere, to grasp, seize]
+An organism eaten by another organism.
+
+prezygotic barrier
+(pree-zy-got-ik)
+A reproductive barrier that impedes mating between species or hinders fertilization of ova if interspecific mating is attempted.
+
+primary consumer
+An herbivore; an organism in the trophic level of an ecosystem that eats plants or algae.
+
+primary germ layers
+The three layers (ectoderm, mesoderm, endoderm) of the late gastrula, which develop into all parts of an animal.
+
+primary growth
+Growth initiated by the apical meristems of a plant root or shoot.
+
+primary immune response
+The initial immune response to an antigen, which appears after a lag of several days.
+
+primary producer
+An autotroph, which collectively make up the trophic level of an ecosystem that ultimately supports all other levels; usually a photosynthetic organism.
+
+primary productivity
+The rate at which light energy or inorganic chemical energy is converted to the chemical energy of organic compounds by autotrophs in an ecosystem.
+
+primary structure
+The level of protein structure referring to the specific sequence of amino acids.
+
+primary succession
+A type of ecological succession that occurs in an area where there were originally no organisms.
+
+primer
+An already existing short RNA chain bound to template DNA to which DNA nucleotides are added during DNA synthesis.
+
+primate
+A member of the order of mammals that includes anthropoids and prosimians.
+
+primitive
+[L. primus, first]
+Not specialized; at an early stage of evolution or development.
+
+primordium pl. primordia
+[L. primus, first + ordiri, to begin to weave]
+A cell or organ in its earliest stage of differentiation.
+
+principle of allocation
+The concept that each organism has an energy budget, or a limited amount of total energy available for all of its maintenance and reproductive needs.
+
+prion
+An infectious form of protein that may increase in number by converting related proteins to more prions.
+
+probe
+See Nucleic acid probe.
+
+procambium
+(pro-kam-bee-um) [L. pro, before + cambium, exchange]
+A primary meristem of roots and shoots that forms the vascular tissue.
+
+producer, in ecological systems
+An autotrophic organism, usually a photosynthesizer, that contributes to the net primary productivity of a community.
+
+progesterone
+(pro-jes-teh-roan) [L. progerere, to carry forth or out + steiras, barren]
+A steroid hormone secreted by the corpus luteum of the ovary; maintains the uterine lining during pregnancy.
+
+prokaryotic cell
+[L. pro, before + Gk. karyon, nut, kernel]
+A type of cell lacking a membrane-enclosed nucleus and membrane-enclosed organelles; found only in the domains Bacteria and Archaea.
+
+prometaphase
+The phase of mitosis in which the nuclear envelope breaks into fragments. Some of the spindle fibers reach the chromosomes and attach to protein structures at the centromeres, called kinetochores, while others make contact with microtubules coming from the opposite pole. The opposing spindle fibers move the chromosomes toward the metaphase plate, an imaginary plane equidistant from the poles.
+
+promoter
+A specific nucleotide sequence in DNA that binds RNA polymerase and indicates where to start transcribing RNA.
+
+prophage
+A phage genome that has been inserted into a specific site on the bacterial chromosome.
+
+prophase
+[Gk. pro, before + phasis, form]
+The first stage of mitosis, during which duplicated chromosomes condense from chromatin, and the mitotic spindle forms and begins moving the chromosomes toward the center of the cell.
+
+prosimian
+[L. pro, before + simia, ape]
+A lower primate; includes lemurs, lorises, tarsiers, and bush babies, as well as many fossil forms.
+
+prostaglandin (PG)
+(pros-tuh-glan-din) [Gk. prostas, a porch or vestibule + L. glans, acorn]
+One of a group of modified fatty acids secreted by virtually all tissues and performing a wide variety of functions as messengers.
+
+prostate gland
+[Gk. prostas, a porch or vestibule + L. glans, acorn]
+A gland in human males that secretes an acid-neutralizing component of semen.
+
+protein
+(pro-teen) [Gk. proteios, primary]
+A three-dimensional biological polymer constructed from a set of 20 different monomers called amino acids.
+
+protein kinase
+An enzyme that transfers phosphate groups from ATP to a protein.
+
+protein phosphatase
+An enzyme that removes phosphate groups from proteins, often functioning to reverse the effect of a protein kinase.
+
+proteoglycans
+(pro-tee-oh-gly-kanz)
+A glycoprotein in the extracellular matrix of animal cells, rich in carbohydrate.
+
+proteasome
+A giant protein complex that recognizes and destroys proteins tagged for elimination by the small protein ubiquitin.
+
+protoderm
+(pro-toh-durm) [Gk. protos, first + derma, skin]
+The outermost primary meristem, which gives rise to the epidermis of roots and shoots.
+
+proton
+A subatomic particle with a single positive electrical charge, found in the nucleus of the atom.
+
+proton-motive force
+The potential energy stored in the form of an electrochemical gradient, generated by the pumping of hydrogen ions across biological membranes during chemiosmosis.
+
+proton pump
+An active transport mechanism in cell membranes that consumes ATP to force hydrogen ions out of a cell and, in the process, generates a membrane potential.
+
+protonephridium
+(pro-toh-nef-rid-ee-um)
+An excretory system, such as the flame-cell system of flatworms, consisting of a network of closed tubules having external openings called nephridiopores and lacking internal openings.
+
+proto-oncogene
+(pro-toh-onk-oh-jeen)
+A normal cellular gene corresponding to an oncogene; a gene with a potential to cause cancer, but that requires some alteration to become an oncogene.
+
+protoplasm
+[Gk. protos, first + plasma, anything molded]
+Living matter.
+
+protoplast
+The contents of a plant cell exclusive of the cell wall.
+
+protostome
+(pro-toh-stome) [Gk. protos, first + stoma, mouth]
+A member of one of two distinct evolutionary lines of coelomates, consisting of the annelids, mollusks, and arthropods, and characterized by spiral, determinate cleavage, schizocoelous formation of the coelom, and development of the mouth from the blastopore.
+
+protozoan pl. protozoa
+A protist that lives primarily by ingesting food, an animal-like mode of nutrition.
+
+provirus
+Viral DNA that inserts into a host genome.
+
+proximate causation
+The hypothesis about why natural selection favored a particular animal behavior.
+
+pseudocoelom
+[Gk. pseudes, false + koilos, a hollow]
+A body cavity consisting of a fluid-filled space between the endoderm and the mesoderm; characteristic of the nematodes.
+
+pseudocoelomate
+(soo-doh-seel-oh-mate)
+An animal, such as a rotifer or roundworm, whose body cavity is not completely lined by mesoderm.
+
+pseudopodium
+(soo-doh-poh-dee-um) [Gk. pseudes, false + pous, pod-, foot]
+A cellular extension of amoeboid cells used in moving and feeding.
+
+pulmonary
+[L. pulmonis, lung]
+Pertaining to the lungs.
+
+pulmonary artery
+[L. pulmonis, lung]
+In birds and mammals, an artery that carries deoxygenated blood from the right ventricle of the heart to the lungs, where it is oxygenated.
+
+pulmonary vein
+[L. pulmonis, lung]
+In birds and mammals, a vein that carries oxygenated blood from the lungs to the left atrium of the heart, from which blood is pumped into the left ventricle and from there to the body tissues.
+
+pulse
+A measurement of heart rate; distention of an artery that can be felt each time the heart contracts.
+
+punctuated equilibrium
+A theory of evolution advocating spurts of relatively rapid change followed by long periods of stasis.
+
+Punnett square
+The checkerboard diagram used for analysis of allele segregation.
+
+pupa
+[L. girl, doll]
+A developmental stage of some insects, in which the organism is nonfeeding, immotile, and sometimes encapsulated or in a cocoon; the pupal stage occurs between the larval and adult phases.
+
+purine
+[Gk. purinos, fiery, sparkling]
+A nitrogenous base, such as adenine or guanine, with a characteristic two-ring structure; one of the components of nucleic acids.
+
+pyramid, ecological
+See Ecological pyramid.
+
+pyramid of energy
+A diagram of the energy flow between the trophic levels of an ecosystem; plants or other autotrophs (at the base of the pyramid) represent the greatest amount of energy, herbivores next, then primary carnivores, secondary carnivores, etc.
+
+pyrimidine
+A nitrogenous base, such as cytosine, thymine, or uracil, with a characteristic single-ring structure; one of the components of nucleic acids.

@@ -1,0 +1,202 @@
+NAD+ (nicotinamide adenine dinucleotide)
+Abbreviation of nicotinamide adenine dinucleotide, a coenzyme present in all cells that helps enzymes transfer electrons during the redox reactions of metabolism.
+
+NADP
+Abbreviation of nicotinamide adenine dinucleotide phosphate, a coenzyme that functions as an electron acceptor in the lightdependent reactions of photosynthesis.
+
+natural killer cell
+A nonspecific defensive cell that attacks tumor cells and destroys infected body cells, especially those harboring viruses.
+
+natural logarithm
+The logarithm (log) to base e where e ˜ 2.718. The natural logarithm is represented by the symbol ln.
+
+natural selection
+Differential success in the reproduction of different phenotypes resulting from the interaction of organisms with their environment. Evolution occurs when natural selection causes changes in relative frequencies of alleles in the gene pool.
+
+nectar
+[Gk. nektar, the drink of the gods]
+A sugary fluid that attracts insects to plants.
+
+negative feedback
+A primary mechanism of homeostasis, whereby a change in a physiological variable that is being monitored triggers a response that counteracts the initial fluctuation.
+
+nematocyst
+[Gk. nema, nematos, thread + kyst, bladder]
+A threadlike stinger, containing a poisonous or paralyzing substance, found in the cnidocyte of cnidarians.
+
+nephridium pl. nephridia
+[Gk. nephros, kidney]
+A tubular excretory structure found in many invertebrates.
+
+nephron
+(nef-ron) [Gk. nephros, kidney]
+The tubular excretory unit of the vertebrate kidney.
+
+neritic zone
+(neh-rit-ik)
+The shallow regions of the ocean overlying the continental shelves.
+
+nerve
+A ropelike bundle of neuron fibers (axons and dendrites) tightly wrapped in connective tissue.
+
+nerve fiber
+A filamentous process extending from the cell body of a neuron and conducting the nerve impulse; an axon.
+
+nerve impulse
+A rapid, transient, self-propagating change in electric potential across the membrane of an axon.
+
+nervous system
+All the nerve cells of an animal; the receptor-conductor-effector system; in humans, the nervous system consists of the central nervous system (brain and spinal cord) and the peripheral nervous system.
+
+net primary production
+In a community or an ecosystem, the increase in the amount of plant or algal material between the beginning and end of a specified time period, such as a growing season.
+
+net primary productivity (NPP)
+The gross primary productivity minus the energy used by the producers for cellular respiration; represents the storage of chemical energy in an ecosystem available to consumers.
+
+net productivity
+In a trophic level, a community, or an ecosystem, the amount of energy (in calories) stored in chemical compounds or the increase in biomass (in grams or metric tons) in a particular period of time; it is the difference between gross productivity and the energy used by the organisms in respiration.
+
+neural crest
+A band of cells along the border where the neural tube pinches off from the ectoderm; the cells migrate to various parts of the embryo and form the pigment cells in the skin, bones of the skull, the teeth, the adrenal glands, and parts of the peripheral nervous system.
+
+neural groove
+Dorsal, longitudinal groove that forms in a vertebrate embryo; bordered by two neural folds; preceded by the neural-plate stage and followed by the neural-tube stage.
+
+neural plate
+Thickened strip of ectoderm in early vertebrate embryos that forms along the dorsal side of the body and gives rise to the central nervous system.
+
+neural tube
+Primitive, hollow, dorsal nervous system of the early vertebrate embryo; formed by fusion of neural folds around the neural groove.
+
+neuromodulator
+A chemical agent that is released by a neuron and diffuses through a local region of the central nervous system, acting on neurons within that region; generally has the effect of modulating the response to neurotransmitters.
+
+neuromuscular junction
+The junction between an axon terminal of a motor neuron and a muscle fiber innervated by that motor neuron; the axon terminal of a motor neuron is typically branched, forming neuromuscular junctions with a number of different muscle fibers.
+
+neuron
+(noor-on) [Gk. nerve]
+A nerve cell; the fundamental unit of the nervous system, having structure and properties that allow it to conduct signals by taking advantage of the electrical charge across its cell membrane.
+
+neurosecretory cells
+Hypothalamus cells that receive signals from other nerve cells, but instead of signaling to an adjacent nerve cell or muscle, they release hormones into the bloodstream.
+
+neurotransmitter
+A chemical messenger released from the synaptic terminal of a neuron at a chemical synapse that diffuses across the synaptic cleft and binds to and stimulates the postsynaptic cell.
+
+neutral variation
+Genetic diversity that confers no apparent selective advantage.
+
+neutron
+(new-tron)
+An electrically neutral particle (a particle having no electrical charge), found in the atom.
+
+niche
+See Ecological niche.
+
+nitrification
+The oxidation of ammonia or ammonium to nitrites and nitrates, as by nitrifying bacteria.
+
+nitrogen cycle
+Worldwide circulation and reutilization of nitrogen atoms, chiefly due to metabolic processes of living organisms; plants take up inorganic nitrogen and convert it into organic compounds (chiefly proteins), which are assimilated into the bodies of one or more animals; bacterial and fungal action on nitrogenous waste products and dead organisms return nitrogen atoms to the inorganic state.
+
+nitrogen fixation
+The assimilation of atmospheric nitrogen by certain prokaryotes into nitrogenous compounds that can be directly used by plants.
+
+nitrogenase
+(nih-trah-juh-nayz) 
+An enzyme, unique to certain prokaryotes, that reduces N2 to NH3.
+
+nitrogenous base
+(nigh-tra-jen-us)
+An organic base that contains the element nitrogen.
+
+nocturnal
+[L. nocturnus, of night]
+Applied to organisms that are active during the hours of darkness.
+
+node
+[L. nodus, knot]
+A point along the stem of a plant at which leaves are attached.
+
+nodes of Ranvier
+(ran-veer)
+The small gaps in the myelin sheath between successive glial cells along the axon of a neuron; also, the site of high concentration of voltage-gated ion channels.
+
+nomograph
+A graph that allows a third variable to be measured when the values of two related variables are known.
+
+noncompetitive inhibitor
+A substance that reduces the activity of an enzyme by binding to a location remote from the active site, changing its conformation so that it no longer binds to the substrate.
+
+noncyclic electron flow
+A route of electron flow during the light reactions of photosynthesis that involves both photosystems and produces ATP, NADPH, and oxygen; the net electron flow is from water to NADP+.
+
+noncyclic photophosphorylation
+(fo-toh-fos-for-eh-lay-shun)
+The production of ATP by noncyclic electron flow.
+
+nondisjunction
+[L. non, not + disjungere, to separate]
+An accident of meiosis or mitosis, in which both members of a pair of homologous chromosomes or both sister chromatids fail to move apart properly.
+
+nonpolar covalent bond
+A type of covalent bond in which electrons are shared equally between two atoms of similar electronegativity.
+
+nonsense mutation
+A mutation that changes an amino acid codon to one of the three stop codons, resulting in a shorter and usually nonfunctional protein.
+
+noradrenaline
+A hormone, produced by the medulla of the adrenal gland, that increases the concentration of glucose in the blood, raises blood pressure and heartbeat rate, and increases muscular power and resistance to fatigue; also one of the principal neurotransmitters; also called norepinephrine.
+
+norepinephrine
+See noradrenaline.
+
+norm of reaction
+The range of phenotypic possibilities for a single genotype, as influenced by the environment.
+
+notochord
+(no-toh-kord) [Gk. noto, back + L. chorda, cord]
+A longitudinal, flexible rod formed from dorsal mesoderm and located between the gut and the nerve cord in all chordate embryos.
+
+nuclear envelope
+[L. nucleus, a kernel]
+The membrane in eukaryotes that encloses the nucleus, separating it from the cytoplasm.
+
+nucleic acid
+(new-clay-ick)
+A polymer consisting of many nucleotide monomers; serves as a blueprint for proteins and, through the actions of proteins, for all cellular activities. The two types are DNA and RNA.
+
+nucleic acid probe
+In DNA technology, a labeled single-stranded nucleic acid molecule used to tag a specific nucleotide sequence in a nucleic acid sample. Molecules of the probe hydrogen-bond to the complementary sequence wherever it occurs; radioactive or other labeling of the probe allows its location to be detected.
+
+nucleoid
+(noo-klee-oid)
+A dense region of DNA in a prokaryotic cell.
+
+nucleoid region
+The region in a prokaryotic cell consisting of a concentrated mass of DNA.
+
+nucleolus
+(noo-klee-oh-lus) [L. a small kernel]
+A specialized structure in the nucleus, formed from various chromosomes and active in the synthesis of ribosomes.
+
+nucleoside
+(noo-klee-oh-side)
+An organic molecule consisting of a nitrogenous base joined to a five-carbon sugar.
+
+nucleosome
+(noo-klee-oh-some) [L. nucleus, a kernel + Gk. soma, body]
+The basic, beadlike unit of DNA packaging in eukaryotes, consisting of a segment of DNA wound around a protein core composed of two copies of each of four types of histone.
+
+nucleotide
+(noo-klee-oh-tide) [L. nucleus, a kernel]
+The building block of a nucleic acid, consisting of a five-carbon sugar covently bonded to a nitrogenous base and a phosphate group.
+
+nucleus
+[L. a kernel]
+(1) An atom's central core, containing protons and neutrons. (2) The chromosome-containing organelle of a eukaryotic cell. (3) A cluster of neurons.
+
+null hypothesis
+In statistical analysis, a hypothesis proposing that there is no statistically significant difference between the observed results of an experiment and the expected results.

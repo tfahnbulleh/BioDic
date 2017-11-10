@@ -1,0 +1,239 @@
+R plasmid
+A bacterial plasmid carrying genes that confer resistance to certain antibiotics.
+
+r-selection
+The concept that in certain (r-selected) populations, a high reproductive rate is the chief determinant of life history.
+
+radial cleavage
+A type of embryonic development in deuterostomes in which the planes of cell division that transform the zygote into a ball of cells are either parallel or perpendicular to the polar axis, thereby aligning tiers of cells one above the other.
+
+radial symmetry
+[L. radius, a spoke of a wheel + Gk. summetros, symmetry]
+Characterizing a body shaped like a pie or barrel, with many equal parts radiating outward like the spokes of a wheel; present in cnidarians and echinoderms.
+
+radiation
+[L. radius, a spoke of a wheel, hence, a ray]
+Energy emitted in the form of waves or particles.
+
+radiata
+Members of the radially symmetrical animal phyla, including cnidarians.
+
+radicle
+An embryonic root of a plant.
+
+radioactive dating
+[L. radius, a spoke of a wheel, hence, a ray]
+A method of determining the age of fossils and rocks using half-lives of radioactive isotopes.
+
+radioactive isotope
+An isotope, an atomic form of a chemical element, that is unstable; the nucleus decays spontaneously, giving off detectable particles and energy.
+
+radiometric dating
+A method paleontologists use for determining the ages of rocks and fossils on a scale of absolute time, based on the half-life of radioactive isotopes.
+
+reactant
+A starting material in a chemical reaction.
+
+receptor
+On or in a cell, a specific protein molecule whose shape fits that of a specific molecular messenger, such as a hormone.
+
+receptor-mediated endocytosis
+(en-doh-sy-toh-sis)
+The movement of specific molecules into a cell by the inward budding of membranous vesicles containing proteins with receptor sites specific to the molecules being taken in; enables a cell to acquire bulk quantities of specific substances.
+
+receptor potential
+An initial response of a receptor cell to a stimulus, consisting of a change in voltage across the receptor membrane proportional to the stimulus strength. The intensity of the receptor potential determines the frequency of action potentials traveling to the nervous system.
+
+recessive allele
+[L. recedere, to recede]
+In a heterozygote, the allele that is completely masked in the phenotype.
+
+reciprocal altruism
+(al-troo-iz-um)
+Altruistic behavior between unrelated individuals; believed to produce some benefit to the altruistic individual in the future when the current beneficiary reciprocates.
+
+recognition sequence
+A specific sequence of nucleotides at which a restriction enzyme cleaves a DNA molecule.
+
+recognition species concept
+The idea that specific mating adaptations become fixed in a population and form the basis of species identification.
+
+recombinant
+An offspring whose phenotype differs from that of the parents.
+
+recombinant DNA
+A DNA molecule made in vitro with segments from different sources.
+
+recombination
+The formation of new gene combinations; in eukaryotes, may be accomplished by new associations of chromosomes produced during sexual reproduction or crossing over; in prokaryotes, may be accomplished through transformation, conjugation, or transduction.
+
+redox reaction
+(ree-doks)
+A chemical reaction involving the transfer of one or more electrons from one reactant to another; also called oxidation-reduction reaction.
+
+reducing agent
+The electron donor in a redox reaction.
+
+reduction
+[L. reducere, to lead back]
+The gaining of electrons by a substance involved in a redox reaction.
+
+reflex
+[L. reflectere, to bend back]
+An automatic reaction to a stimulus, mediated by the spinal cord or lower brain.
+
+refractory period
+(ree-frak-tor-ee)
+The short time immediately after an action potential in which the neuron cannot respond to another stimulus, owing to an increase in potassium permeability.
+
+regulative development
+A pattern of development, such as that of a mammal, in which the early blastomeres retain the potential to form the entire animal.
+
+relative fitness
+The contribution of one genotype to the next generation compared to that of alternative genotypes for the same locus.
+
+relay neuron
+Neuron that transmits signals between different regions of the central nervous system.
+
+releaser
+A signal stimulus that functions as a communication signal between individuals of the same species.
+
+releasing hormone
+A hormone produced by neurosecretory cells in the hypothalamus of the vertebrate brain that stimulates or inhibits the secretion of hormones by the anterior pituitary.
+
+renal
+[L. renes, kidneys]
+Pertaining to the kidney.
+
+repetitive DNA
+Nucleotide sequences, usually noncoding, that are present in many copies in a eukaryotic genome. The repeated units may be short and arranged tandemly (in series) or long and dispersed in the genome.
+
+replication
+The process of making a copy of something.
+
+replication fork
+A Y-shaped point on a replicating DNA molecule where new strands are growing.
+
+repressible enzyme
+An enzyme whose synthesis is inhibited by a specific metabolite.
+
+repressor
+[L. reprimere, to press back, keep back]
+A protein that suppresses the transcription of a gene.
+
+reproductive isolation
+Two populations of organisms are isolated if their members are unable to interbreed and produce fertile offspring. Various structural, behavioral, and biochemical features can prevent interbreeding and thus reproductively isolate populations as distinct species.
+
+Reptilia
+The vertebrate class of reptiles, represented by lizards, snakes, turtles, and crocodilians.
+
+resolving power
+[L. resolvere, to loosen, unbind]
+A measure of the clarity of an image; the minimum distance that two points can be separated and still be distinguished as two separate points.
+
+resource partitioning
+The division of environmental resources by coexisting species populations such that the niche of each species differs by one or more significant factors from the niches of all coexisting species populations.
+
+respiration
+[L. respirare, to breathe]
+(1) In aerobic organisms, the intake of oxygen and the liberation of carbon dioxide. (2) In cells, the oxygen-requiring stage in the breakdown and release of energy from fuel molecules.
+
+resting potential
+The membrane potential characteristic of a nonconducting, excitable cell, with the inside of the cell more negative than the outside.
+
+restriction enzyme
+A degradative enzyme that recognizes and cuts up DNA (including that of certain phages) that is foreign to a bacterium.
+
+restriction fragment length polymorphisms (RFLPs)
+Differences in DNA sequence on homologous chromosomes that result in different patterns of restriction fragment lengths (DNA segments resulting from treatment with restriction enzymes); useful as genetic markers for making linkage maps.
+
+restriction site
+A specific sequence on a DNA strand that is recognized as a "cut site" by a restriction enzyme.
+
+reticular formation
+[L. reticulum, a network]
+A brain circuit involved with alertness and direction of attention to selected events; consists of a loose network of interneurons running through the brainstem, plus certain neurons in the thalamus that function as an extension of this network.
+
+reticulum
+[L. network]
+A fine network (e.g., endoplasmic reticulum).
+
+retina
+(reh-tin-uh) [L. dim. of rete, net]
+The innermost layer of the vertebrate eye, containing photoreceptor cells (rods and cones) and neurons; transmits images formed by the lens to the brain via the optic nerve.
+
+retinal
+The light-absorbing pigment in rods and cones of the vertebrate eye.
+
+retrovirus
+(reh-troh-vy-rus) [L. turning back]
+An RNA virus that reproduces by transcribing its RNA into DNA and then inserting the DNA into a cellular chromosome; an important class of cancer-causing viruses.
+
+reverse transcriptase
+(trans-krip-tase)
+An enzyme encoded by some RNA viruses that uses RNA as a template for DNA synthesis.
+
+rhizoid
+[Gk. rhiza, root]
+Rootlike anchoring structure in fungi and nonvascular plants.
+
+rhizome
+[Gk. rhizoma, mass of roots]
+In vascular plants, a horizontal stem growing along or below the surface of the soil; may be enlarged for storage or may function in vegetative reproduction.
+
+rhodopsin
+[Gk. rhizoma, mass of roots]
+A visual pigment consisting of retinal and opsin. When rhodopsin absorbs light, the retinal changes shape and dissociates from the opsin, after which it is converted back to its original form.
+
+ribonucleic acid (RNA)
+(ry-boh-noo-klay-ik)
+A type of nucleic acid consisting of nucleotide monomers with a ribose sugar and the nitrogenous bases adenine (A), cytosine (C), guanine (G), and uracil (U); usually single-stranded; functions in protein synthesis and as the genome of some viruses.
+
+ribose
+The sugar component of RNA.
+
+ribosomal RNA (rRNA)
+The most abundant type of RNA. Together with proteins, it forms the structure of ribosomes that coordinate the sequential coupling of tRNA molecules to the series of mRNA codons.
+
+ribosome
+A cell organelle constructed in the nucleolus, functioning as the site of protein synthesis in the cytoplasm. Consists of rRNA and protein molecules, which make up two subunits.
+
+ribozyme
+An enzymatic RNA molecule that catalyzes reactions during RNA splicing.
+
+RNA
+Abbreviation of ribonucleic acid.
+
+RNA polymerase
+(pul-im-ur-ase)
+An enzyme that links together the growing chain of ribonucleotides during transcription.
+
+RNA processing
+Modification of RNA before it leaves the nucleus, a process unique to eukaryotes.
+
+RNA splicing
+The removal of noncoding portions (introns) of the RNA molecule after initial synthesis.
+
+rod cell
+One of two kinds of photoreceptors in the vertebrate retina; sensitive to black and white and enables night vision.
+
+root
+The descending axis of a plant, normally below ground and serving both to anchor the plant and to take up and conduct water and dissolved minerals.
+
+root cap
+A cone of cells at the tip of a plant root that protects the apical meristem.
+
+root hair
+A tiny projection growing just behind the root tips of plants, increasing surface area for the absorption of water and minerals.
+
+root pressure
+The upward push of water within the stele of vascular plants, caused by active pumping of minerals into the xylem by root cells.
+
+rough ER
+That portion of the endoplasmic reticulum studded with ribosomes.
+
+rubisco
+Ribulose carboxylase, the enzyme that catalyzes the first step (the addition of CO2 to RuBP, or ribulose bisphosphate) of the Calvin cycle.
+
+ruminant
+An animal, such as a cow or a sheep, with an elaborate, multicompartmentalized stomach specialized for an herbivorous diet.

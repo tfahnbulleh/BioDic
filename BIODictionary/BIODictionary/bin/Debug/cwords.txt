@@ -1,0 +1,638 @@
+C3 plant
+A plant that uses the Calvin cycle for the initial steps that incorporate CO2 into organic material, forming a three-carbon compound as the first stable intermediate.
+
+C4 pathway
+The set of reactions by which some plants initially fix carbon in the four-carbon compound oxaloacetic acid; the carbon dioxide is later released in the interior of the leaf and enters the Calvin cycle.
+
+C4 plant
+A plant that prefaces the Calvin cycle with reactions that incorporate CO2 into four-carbon compounds, the end-product of which supplies CO2 for the Calvin cycle.
+
+calcitonin
+(kal-sih-toh-nin)
+A mammalian thyroid hormone that lowers blood calcium levels.
+
+callus
+[L. callos, hard skin]
+In plants, undifferentiated tissue; a term used in tissue culture, grafting, and wound healing.
+
+calmodulin
+(kal-mod-yoo-lin)
+An intracellular protein to which calcium binds in its function as a second messenger in hormone action.
+
+calorie (cal)
+[L. calor, heat]
+The amount of heat energy required to raise the temperature of 1 g of water 1°C; the amount of heat energy that 1 g of water releases when it cools by 1°C. The Calorie (with a capital C), usually used to indicate the energy content of food, is a kilocalorie.
+
+Calvin cycle
+The second of two major stages in photosynthesis (following the light reactions), involving atmospheric CO2 fixation and reduction of the fixed carbon into carbohydrate.
+
+calyx
+[Gk. kalyx, a husk, cup]
+Collectively, the sepals of a flower.
+
+CAM photosynthesis
+See Crassulacean acid metabolism.
+
+CAM plant
+A plant that uses crassulacean acid metabolism, an adaptation for photosynthesis in arid conditions, first discovered in the family Crassulaceae. Carbon dioxide entering open stomata during the night is converted into organic acids, which release CO2 for the Calvin cycle during the day, when stomata are closed.
+
+Cambrian explosion
+A burst of evolutionary origins when most of the major body plans of animals appeared in a relatively brief time in geological history; recorded in the fossil record about 545 to 525 million years ago.
+
+capillary
+(kap-ill-air-ee) [L. capillaris, relating to hair]
+A microscopic blood vessel that penetrates the tissues and consists of a single layer of endothelial cells that allows exchange between the blood and interstitial fluid.
+
+capillary action
+The movement of water or any liquid along a surface; results from the combined effect of cohesion and adhesion.
+
+capsid
+The protein shell that encloses the viral genome; rod-shaped, polyhedral, or more completely shaped.
+
+capsule
+(kap-sul) [L. capsula, a little chest]
+(1) A slimy layer around the cells of certain bacteria. (2) The sporangium of a bryophyte.
+
+carbohydrate
+[L. carbo, charcoal + hydro, water]
+A sugar (monosaccharide) or one of its dimers (disaccharides) or polymers (polysaccharides).
+
+carbon cycle
+Worldwide circulation and reutilization of carbon atoms, chiefly due to metabolic processes of living organisms. Inorganic carbon, in the form of carbon dioxide, is incorporated into organic compounds by photosynthetic organisms; when the organic compounds are broken down in respiration, carbon dioxide is released. Large quantities of carbon are "stored" in the seas and the atmosphere, as well as in fossil fuel deposits.
+
+carbon fixation
+The incorporation of carbon from CO2 into an organic compound by an autotrophic organism (a plant, another photosynthetic organism, or a chemoautotrophic bacterium).
+
+carbonyl group
+(kar-buh-nil)
+A functional group present in aldehydes and ketones, consisting of a carbon atom double-bonded to an oxygen atom.
+
+carboxyl group
+(kar-box-ul)
+A functional group present in organic acids, consisting of a single carbon atom double-bonded to an oxygen atom and also bonded to a hydroxyl group.
+
+carcinogen
+(kar-sin-oh-jen)
+A chemical agent that causes cancer.
+
+cardiac muscle
+(kar-dee-ak)
+A type of muscle that forms the contractile wall of the heart; its cells are joined by intercalated discs that relay each heartbeat.
+
+cardiac output
+The volume of blood pumped per minute by the left ventricle of the heart.
+
+cardiovascular system
+[Gk. kardio, heart + L. vasculum, a small vessel]
+A closed circulatory system with a heart and branching network of arteries, capilleries, and veins.
+
+carnivore
+[L. caro, carnis, flesh + voro, to devour]
+An animal, such as a shark, hawk, or spider, that eats other animals.
+
+carotenoids
+(keh-rot-en-oydz) [L. carota, carrot]
+Accessory pigments, yellow and orange, in the chloroplasts of plants; by absorbing wavelengths of light that chlorophyll cannot, they broaden the spectrum of colors that can drive photosynthesis.
+
+carpel
+(kar-pel) [Gk. karpos, fruit]
+The female reproductive organ of a flower, consisting of the stigma, style, and ovary.
+
+carrying capacity
+The maximum population size that can be supported by the available resources, symbolized as K.
+
+cartilage
+(kar-til-ij) [L. cartilago, gristle]
+A type of flexible connective tissue with an abundance of collagenous fibers embedded in chondrin.
+
+Casparian strip
+(kas-par-ee-un) (after Robert Caspary, German botanist)
+A water-impermeable ring of wax around endodermal cells in plants that blocks the passive flow of water and solutes into the stele by way of cell walls.
+
+catabolic pathway
+(kat-uh-bol-ik)
+A metabolic pathway that releases energy by breaking down complex molecules into simpler compounds.
+
+catabolism
+[Gk. katabole, throwing down]
+Within a cell or organism, the sum of all chemical reactions in which large molecules are broken down into smaller parts.
+
+catabolite activator protein (CAP)
+(ka-tab-ul-lite)
+In E. coli, a helper protein that stimulates gene expression by binding within the promoter region of an operon and enhancing the promoter's ability to associate with RNA polymerase.
+
+catalyst
+[Gk. katalysis, dissolution]
+A substance that lowers the activation energy of a chemical reaction by forming a temporary association with the reacting molecules; as a result, the rate of the reaction is accelerated. Enzymes are catalysts.
+
+category
+[Gk. kategoria, category]
+In a hierarchical classification system, the level at which a particular group is ranked.
+
+cation
+(kat-eye-on)
+An ion with a positive charge, produced by the loss of one or more electrons.
+
+cation exchange
+A process in which positively charged minerals are made available to a plant when hydrogen ions in the soil displace mineral ions from the clay particles.
+
+cell
+[L. cella, a chamber]
+A basic unit of living matter separated from its environment by a plasma membrane; the fundamental structural unit of life.
+
+cell center
+A region in the cytoplasm near the nucleus from which microtubules originate and radiate.
+
+cell cycle
+An ordered sequence of events in the life of a dividing eukaryotic cell, composed of the M, G1, S, and G2 phases.
+
+cell-cycle control system
+A cyclically operating set of proteins that triggers and coordinates events in the eukaryotic cell cycle.
+
+cell fractionation
+The disruption of a cell and separation of its organelles by centrifugation.
+
+cell-mediated immunity
+The type of immunity that functions in defense against fungi, protists, bacteria, and viruses inside host cells and against tissue transplants, with highly specialized cells that circulate in the blood and lymphoid tissue.
+
+cell membrane
+The outer membrane of the cell; the plasma membrane.
+
+cell plate
+A double membrane across the midline of a dividing plant cell, between which the new cell wall forms during cytokinesis.
+
+cell theory
+All living things are composed of cells; cells arise only from other cells. No exception has been found to these two principles since they were first proposed well over a century ago.
+
+cell wall
+A protective layer external to the plasma membrane in plant cells, bacteria, fungi, and some protists. In the case of plant cells, the wall is formed of cellulose fibers embedded in a polysaccharide-protein matrix. The primary cell wall is thin and flexible, whereas the secondary cell wall is stronger and more rigid, and is the primary constituent of wood.
+
+cellular differentiation
+The structural and functional divergence of cells as they become specialized during a multicellular organism's development; dependent on the control of gene expression.
+
+cellular respiration
+The most prevalent and efficient catabolic pathway for the production of ATP, in which oxygen is consumed as a reactant along with the organic fuel.
+
+cellulose
+(sell-yoo-lose) [L. cellula, a little cell]
+A structural polysaccharide of cell walls, consisting of glucose monomers joined by (1-4) glycosidic linkages.
+
+Celsius scale
+A temperature scale (°C) equal to 5/9 (°F - 32) that measures the freezing point of water at 0°C and the boiling point of water at 100°C.
+
+central nervous system (CNS)
+In vertebrate animals, the brain and spinal cord.
+
+centriole
+(sen-tree-ole) [Gk. kentron, center]
+A structure in an animal cell, composed of cylinders of microtubule triplets arranged in a 9 + 0 pattern. An animal cell usually has a pair of centrioles, which are involved in cell division.
+
+centromere
+(sen-tro-mere) [Gk. kentron, center + meros, a part]
+The centralized region joining two sister chromatids.
+
+centrosome
+Material present in the cytoplasm of all eukaryotic cells and important during cell division; also called microtubule-organizing center.
+
+cephalochordate
+A chordate without a backbone, represented by lancelets, tiny marine animals.
+
+cerebellum
+(seh-reh-bell-um) [L. dim. of cerebrum, brain]
+Part of the vertebrate hindbrain (rhombencephalon) located dorsally; functions in unconscious coordination of movement and balance.
+
+cerebral cortex
+(seh-ree-brul) [L. cerebrum, brain]
+The surface of the cerebrum; the largest and most complex part of the mammalian brain, containing sensory and motor nerve cell bodies of the cerebrum; the part of the vertebrate brain most changed through evolution.
+
+cerebrum
+(seh-ree-brum) [L. brain]
+The dorsal portion, composed of right and left hemispheres, of the vertebrate forebrain; the integrating center for memory, learning, emotions, and other highly complex functions of the central nervous system.
+
+chaparral
+(shap-uh-ral)
+A scrubland biome of dense, spiny evergreen shrubs found at midlatitudes along coasts where cold ocean currents circulate offshore; characterized by mild, rainy winters and long, hot, dry summers.
+
+character displacement
+A phenomenon in which species that live together in the same environment tend to diverge in those characteristics that overlap; exemplified by Darwin's finches.
+
+chemical bond
+An attraction between two atoms resulting from a sharing of outer-shell elctrons or the presence of opposite charges on the atoms; the bonded atoms gain complete outer electron shells.
+
+chemical equilibrium
+In a reversible chemical reaction, the point at which the rate of the forward reaction equals the rate of the reverse reaction.
+
+chemical reaction
+A process leading to chemical changes in matter; involves the making and/or breaking of chemical bonds.
+
+chemiosmosis
+(kee-mee-os-moh-sis)
+The production of ATP using the energy of hydrogen-ion gradients across membranes to phosphorylate ADP; powers most ATP synthesis in cells.
+
+chemiosmotic coupling
+The mechanism by which ADP is phosphorylated to ATP in mitochondria and chloroplasts. The energy released as electrons pass down an electron transport chain is used to establish a proton gradient across an inner membrane of the organelle; when protons subsequently flow down this electrochemical gradient, the potential energy released is captured in the terminal phosphate bonds of ATP.
+
+chemoautotroph
+(kee-moh-aw-toh-trohf)
+An organism that needs only carbon dioxide as a carbon source but that obtains energy by oxidizing inorganic substances.
+
+chemoheterotroph
+(kee-moh-het-er-oh-trohf)
+An organism that must consume organic molecules for both energy and carbon.
+
+chemoreceptor
+A receptor that transmits information about the total solute concentration in a solution or about individual kinds of molecules.
+
+chemosynthetic
+Applied to autotrophic bacteria that use the energy released by specific inorganic reactions to power their life processes, including the synthesis of organic molecules.
+
+chiasma pl. chiasmata
+(ky-as-muh)
+The X-shaped, microscopically visible region representing homologous chromatids that have exchanged genetic material through crossing over during meiosis.
+
+chitin
+(ky-tin) [Gk. chiton, a tunic, undergarment]
+A structural polysaccharide of an amino sugar found in many fungi and in the exoskeletons of all arthropods.
+
+chlorophyll
+[Gk. chloros, green + phyllon, leaf]
+A green pigment located within the chloroplasts of plants; chlorophyll a can participate directly in the light reactions, which convert solar energy to chemical energy.
+
+chloroplast
+(klor-oh-plast) [Gk. chloros, green + plastos, formed]
+An organelle found only in plants and photosynthetic protists that absorbs sunlight and uses it to drive the synthesis of organic compounds from carbon dioxide and water.
+
+cholesterol
+(kol-ess-teh-rol)
+A steroid that forms an essential component of animal cell membranes and acts as a precursor molecule for the synthesis of other biologically important steroids.
+
+Chondrichthyes
+The vertebrate class of cartilaginous fishes, represented by sharks and their relatives.
+
+chondrin
+A protein-carbohydrate complex secreted by chondrocytes; chondrin and collagen fibers form cartilage.
+
+chordate
+(kor-date)
+A member of a diverse phylum of animals that possess a notochord; a dorsal, hollow nerve cord; pharyngeal gill slits; and a postanal tail as embryos.
+
+chorion
+(core-ee-on) [Gk. skin, leather]
+The outermost of four extraembryonic membranes; contributes to the formation of the mammalian placenta.
+
+chorionic villus sampling (CVS)
+(kor-ee-on-ik vill-us)
+A technique for diagnosing genetic and congenital defects while the fetus is in the uterus. A small sample of the fetal portion of the placenta is removed and analyzed.
+
+chromatid
+(crow-ma-tid) [Gk. chroma, color]
+Either of the two strands of a replicated chromosome, which are joined at the centromere.
+
+chromatin
+(kro-muh-tin) [Gk. chroma, color]
+The complex of DNA and proteins that makes up a eukaryotic chromosome. When the cell is not dividing, chromatin exists as a mass of very long, thin fibers that are not visible with a light microscope.
+
+Chromista
+In some classification systems, a kingdom consisting of brown algae, golden algae, and diatoms.
+
+chromosome
+[Gk. chroma, color + soma, body]
+A threadlike, gene-carrying structure found in the nucleus. Each chromosome consists of one very long DNA molecule and associated proteins. See chromatin.
+
+chromosome map
+A diagram of the linear order of the genes on a chromosome.
+
+chytrid
+Fungus with flagellated stage; possible evolutionary link between fungi and protists.
+
+cilium pl. cilia
+(silly-um) [L. eyelash]
+A short cellular appendage specialized for locomotion, formed from a core of nine outer doublet microtubules and two inner single microtubules ensheathed in an extension of plasma membrane.
+
+circadian rhythms
+[L. circa, about + dies, day]
+A physiological cycle of about 24 hours, present in all eukaryotic organisms, that persists even in the absence of external cues.
+
+cladistics
+(kluh-dis-tiks)
+A taxonomic approach that classifies organisms according to the order in time at which branches arise along a phylogenetic tree, without considering the degree of morphological divergence.
+
+cladogenesis
+(klay-doh-gen-eh-sis) [Gk. clados, branch + genesis, origin]
+A pattern of evolutionary change that produces biological diversity by budding one or more new species from a parent species that continues to exist; also called branching evolution.
+
+cladogram
+A dichotomous phylogenetic tree that branches repeatedly, suggesting a classification of organisms based on the time sequence in which evolutionary branches arise.
+
+class
+A taxonomic grouping of related, similar orders; category above order and below phylum.
+
+classical conditioning
+A type of associative learning; the association of a normally irrelevant stimulus with a fixed behavioral response.
+
+cleavage
+The process of cytokinesis in animal cells, characterized by pinching of the plasma membrane; specifically, the succession of rapid cell divisions without growth during early embryonic development that converts the zygote into a ball of cells.
+
+cleavage furrow
+The first sign of cleavage in an animal cell; a shallow groove in the cell surface near the old metaphase plate.
+
+cline
+[Gk. klinein, to lean]
+Variation in features of individuals in a population that parallels a gradient in the environment.
+
+cloaca
+(kloh-ay-kuh)
+A common opening for the digestive, urinary, and reproductive tracts in all vertebrates except most mammals.
+
+clonal selection
+(kloh-nul)
+The mechanism that determines specificity and accounts for antigen memory in the immune system; occurs because an antigen introduced into the body selectively activates only a tiny fraction of inactive lymphocytes, which proliferate to form a clone of effector cells specific for the stimulating antigen.
+
+clone
+[Gk. klon, twig]
+(1) A lineage of genetically identical individuals or cells. (2) In popular usage, a single individual organism that is genetically identical to another individual. (3) As a verb, to make one or more genetic replicas of an individual or cell. Also, see gene cloning.
+
+cloning vector
+An agent used to transfer DNA in genetic engineering, such as a plasmid that moves recombinant DNA from a test tube back into a cell, or a virus that transfers recombinant DNA by infection.
+
+closed circulatory system
+A type of internal transport in which blood is confined to vessels.
+
+cnidocyte
+(ni-do-site) [Gk. knide, nettle + kytos, vessel]
+A stinging cell containing a nematocyst; characteristic of cnidarians.
+
+cochlea
+(koh-klee-uh) [Gk. kochlias, snail]
+The complex, coiled organ of hearing that contains the organ of Corti.
+
+codominance
+A phenotypic situation in which both alleles are expressed in the heterozygote.
+
+codon
+(koh-don)
+A three-nucleotide sequence of DNA or mRNA that specifies a particular amino acid or termination signal; the basic unit of the genetic code.
+
+coelom
+(see-lome) [Gk. koilos, a hollow]
+A body cavity completely lined with mesoderm.
+
+coelomate
+(see-loh-mate)
+An animal whose body cavity is completely lined by mesoderm, the layers of which connect dorsally and ventrally to form mesenteries.
+
+coenocytic
+(sen-oh-sit-ik)
+Referring to a multinucleated condition resulting from the repeated division of nuclei without cytoplasmic division.
+
+coenzyme
+[L. co, together + Gk. en, in + zyme, leaven]
+An organic molecule serving as a cofactor. Most vitamins function as coenzymes in important metabolic reactions.
+
+coevolution
+[L. co, together + e-, out + volvere, to roll]
+The mutual influence on the evolution of two different species interacting with each other and reciprocally influencing each other's adaptations.
+
+cofactor
+Any nonprotein molecule or ion that is required for the proper functioning of an enzyme. Cofactors can be permanently bound to the active site or may bind loosely with the substrate during catalysis.
+
+cohesion
+[L. cohaerere, to stick together]
+The binding together of like molecules, often by hydrogen bonds.
+
+cohesion species concept
+The idea that specific evolutionary adaptations and discrete complexes of genes define species.
+
+cohesion-tension theory
+A theory accounting for the upward movement of water in plants. According to this theory, transpiration of a water molecule results in a negative (below 1 atmosphere) pressure in the leaf cells, inducing the entrance from the vascular tissue of another water molecule, which, because of the cohesive property of water, pulls with it a chain of water molecules extending up from the cells of the root tip.
+
+cold aclimation response
+The process by which plants increase their tolerance to freezing by exposure to low, nonfreezing temperatures.
+
+coleoptile
+(coal-ee-op-tile) [Gk. koleon, sheath + ptilon, feather]
+The sheath enclosing the apical meristem and leaf primordia of a germinating monocot.
+
+collagen
+[Gk. kolla, glue]
+A glycoprotein in the extracellular matrix of animal cells that forms strong fibers, found extensively in connective tissue and bone; the most abundant protein in the animal kingdom.
+
+collecting duct
+The location in the kidney where filtrate from renal tubules is collected; the filtrate is now called urine.
+
+collenchyma cell
+(koal-en-keh-muh) [Gk. kolla, glue]
+A flexible plant cell type that occurs in strands or cylinders that support young parts of the plant without restraining growth.
+
+colony
+A group of organisms of the same species living together in close association.
+
+commensalism
+(kuh-men-sul-iz-um) [L. com, together + mensa, table]
+A symbiotic relationship in which the symbiont benefits but the host is neither helped nor harmed. See Symbiosis.
+
+community
+All the organisms that inhabit a particular area; an assemblage of populations of different species living close enough together for potential interaction.
+
+companion cell
+A type of plant cell that is connected to a sieve-tube member by many plasmodesmata and whose nucleus and ribosomes may serve one or more adjacent sieve-tube members.
+
+competition
+Interaction between members of the same population or of two or more populations using the same resource, often present in limited supply.
+
+competitive exclusion principle
+The concept that when the populations of two species compete for the same limited resources, one population will use the resources more efficiently and have a reproductive advantage that will eventually lead to the elimination of the other population.
+
+competitive inhibitor
+A substance that reduces the activity of an enzyme by entering the active site in place of the substrate whose structure it mimics.
+
+complement fixation
+An immune response in which antigen-antibody complexes activate complement proteins.
+
+complement system
+A group of at least 20 blood proteins that cooperate with other defense mechanisms; may amplify the inflammatory response, enhance phagocytosis, or directly lyse pathogens; activated by the onset of the immune response or by surface antigens on microorganisms or other foreign cells.
+
+complementary DNA (cDNA)
+A DNA molecule made in vitro using mRNA as a template and the enzyme reverse transcriptase. A cDNA molecule therefore corresponds to a gene, but lacks the introns present in the DNA of the genome.
+
+complete digestive tract
+A digestive tube that runs between a mouth and an anus; also called alimentary canal. An incomplete digestive tract has only one opening.
+
+complete flower
+A flower that has sepals, petals, stamens, and carpels.
+
+compound
+[L. componere, to put together]
+A chemical combination, in a fixed ratio, of two or more elements.
+
+compound eye
+A type of multifaceted eye in insects and crustaceans consisting of up to several thousand light-detecting, focusing ommatidia; especially good at detecting movement.
+
+concentration gradient
+A regular increase of decrease in the intensity or density of a chemical substance. Cells often maintain concentration gradients of H+ ions across their membranes. When a gradient exists, the ions or other chemical substances involved tend to move from where they are more concentrated to where they are less concentrated.
+
+condensation
+See Dehydration reaction.
+
+condensation reaction
+A reaction in which two molecules become covalently bonded to each other through the loss of a small molecule, usually water; also called dehydration reaction.
+
+cone cell
+(1) In plants, the reproductive structure of a conifer. (2) In vertebrates, a type of photoreceptor cell in the retina, concerned with the perception of color and with the most acute discrimination of detail.
+
+conidium pl. conidia
+A naked, asexual spore produced at the ends of hyphae in ascomycetes.
+
+conifer
+A gymnosperm whose reproductive structure is the cone. Conifers include pines, firs, redwoods, and other large trees.
+
+conjugation
+(kon-joo-gay-shun) [L. conjugatio, a joining, connection]
+In bacteria, the transfer of DNA between two cells that are temporarily joined.
+
+connective tissues
+Animal tissue that functions mainly to bind and support other tissues, having a sparse population of cells scattered through an extracellular matrix.
+
+conservation biology
+A goal-oriented science that seeks to counter the biodiversity crisis, the current rapid decrease in Earth's variety of life.
+
+consumer, in ecological systems
+A heterotroph that derives its energy from living or freshly killed organisms or parts thereof. Primary consumers are herbivores; higher-level consumers are carnivores.
+
+continental drift
+The gradual movement of the Earth's continents that has occurred over hundreds of millions of years.
+
+continuous variation
+A gradation of small differences in a particular trait, such as height, within a population; occurs in traits that are controlled by a number of genes.
+
+contraception
+The prevention of pregnancy.
+
+convection
+The mass movement of warmed air or liquid to or from the surface of a body or object.
+
+convergent evolution
+[L. convergere, to turn together; evolutio, to unfold]
+The independent development of similarity between species as a result of their having similar ecological roles and selection pressures.
+
+cooperativity
+(koh-op-ur-uh-tiv-eh-tee)
+An interaction of the constituent subunits of a protein causing a conformational change in one subunit to be transmitted to all the others.
+
+cork
+[L. cortex, bark]
+A secondary tissue that is a major constituent of bark in woody and some herbaceous plants; made up of flattened cells, dead at maturity; restricts gas and water exchange and protects the vascular tissues from injury.
+
+cork cambium
+[L. cortex, bark + cambium, exchange]
+A cylinder of meristematic tissue in plants that produces cork cells to replace the epidermis during secondary growth.
+
+corolla
+(ko-role-a) [L. dim. of corona, wreath, crown]
+Petals, collectively; usually the conspicuously colored flower parts.
+
+corpus callosum
+[L. callous body]
+In the vertebrate brain, a tightly packed mass of myelinated nerve fibers connecting the two cerebral hemispheres.
+
+corpus lutuem
+[L. yellowish body]
+A secreting tissue in the ovary that forms from the collapsed follicle after ovulation and produces progesterone.
+
+cortex
+[L. bark]
+(1) The outer, as opposed to the inner, part of an organ, as in the adrenal gland. (2) In a stem or root, the primary tissue bounded externally by the epidermis and internally by the central cylinder of vascular tissue.
+
+cortisol
+A steroid hormone, produced by the adrenal cortex, that promotes the formation of glucose from protein and fat; also suppresses the inflammatory and immune responses.
+
+cotransport
+The coupling of the "downhill" diffusion of one substance to the "uphill" transport of another against its own concentration gradient.
+
+cotyledon
+(kot-eh-lee-don) [Gk. kotyledon, a cup-shaped hollow]
+The one (monocot) or two (dicot) seed leaves of an angiosperm embryo.
+
+countercurrent exchange
+The opposite flow of adjacent fluids that maximizes transfer rates; for example, blood in the gills flows in the opposite direction in which water passes over the gills, maximizing oxygen uptake and carbon dioxide loss.
+
+coupled reactions
+In cells, the linking of endergonic (energy-requiring) reactions to exergonic (energy-releasing) reactions that provide enough energy to drive the endergonic reactions forward.
+
+covalent bond
+(koh-vay-lent) [L. con, together + valere, to be strong]
+A chemical bond formed as a result of the sharing of one or more pairs of electrons.
+
+Crassulacean acid metabolism
+A process by which some species of plants in hot, dry climates take in carbon dioxide during the night, fixing it in organic acids; the carbon dioxide is released during the day and used immediately in the Calvin cycle.
+
+crista pl. cristae
+(kris-tuh)
+An infolding of the inner membrane of a mitochondrion that houses the electron transport chain and the enzyme catalyzing the synthesis of ATP.
+
+cross-fertilization
+Fusion of gametes formed by different individuals; as opposed to self-fertilization.
+
+crossing over
+The reciprocal exchange of genetic material between nonsister chromatids during synapsis of meiosis I.
+
+cryptic coloration
+(krip-tik)
+A type of camouflage that makes potential prey difficult to spot against its background.
+
+cuticle
+(kyoo-teh-kul) [L. cuticula, dim. of cutis, the skin]
+(1) A waxy covering on the surface of stems and leaves that acts as an adaptation to prevent desiccation in terrestrial plants. (2) The exoskeleton of an arthropod, consisting of layers of protein and chitin that are variously modified for different functions.
+
+cyanobacteria
+(sy-an-oh-bak-teer-ee-uh)
+Photosynthetic, oxygen-producing bacteria (formerly know as blue-green algae).
+
+cyclic AMP
+Cyclic adenosine monophosphate, a ring-shaped molecule made from ATP that is a common intracellular signaling molecule (second messenger) in eukaryotic cells, for example, in vertebrate endocrine cells. It is also a regulator of some bacterial operons.
+
+cyclic electron flow
+A route of electron flow during the light reactions of photosynthesis that involves only photosystem I and produces ATP but not NADPH or oxygen.
+
+cyclin
+(sy-klin)
+A regulatory protein whose concentration fluctuates cyclically.
+
+cyclin-dependent kinase (Cdk)
+A protein kinase that is active only when attached to a particular cyclin.
+
+cytochrome
+(sy-toh-krome) [Gk. kytos, vessel + chroma, color]
+An iron-containing protein, a component of electron transport chains in mitochondria and chloroplasts.
+
+cytokines
+In the vertebrate immune system, protein factors secreted by macrophages and helper T cells as regulators of neighboring cells.
+
+cytokinesis
+(sy-toh-kin-ee-sis) [Gk. kytos, vessel + kinesis, motion]
+The division of the cytoplasm to form two separate daughter cells immediately after mitosis.
+
+cytokinin
+(sy-toh-ky-nins) [Gk. kytos, vessel + kinesis, motion]
+A class of related plant hormones that retard aging and act in concert with auxins to stimulate cell division, influence the pathway of differentiation, and control apical dominance.
+
+cytoplasm
+(sy-toh-plaz-um) [Gk. kytos, vessel + plasma, anything molded]
+The entire contents of the cell, exclusive of the nucleus, and bounded by the plasma membrane.
+
+cytoplasmic determinants
+In animal development, substances deposited by the mother in the eggs she produces that regulate the expression of genes affecting the early development of the embryo.
+
+cytoplasmic streaming
+A circular flow of cytoplasm, involving myosin and actin filaments, that speeds the distribution of materials within cells.
+
+cytoskeleton
+(sy-toh-skel-eh-ton)
+A network of microtubules, microfilaments, and intermediate filaments that branch throughout the cytoplasm and serve a variety of mechanical and transport functions.
+
+cytosol
+(sy-toh-sol)
+The semifluid portion of the cytoplasm.
+
+cytotoxic T cell (TC)
+A type of lymphocyte that kills infected cells and cancer cells

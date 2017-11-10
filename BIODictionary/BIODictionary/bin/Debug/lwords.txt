@@ -1,0 +1,176 @@
+lacteal
+(lak-teel)
+A tiny lymph vessel extending into the core of an intestinal villus and serving as the destination for absorbed chylomicrons.
+
+lagging strand
+A discontinuously synthesized DNA strand that elongates in a direction away from the replication fork.
+
+lamella
+(lah-mell-ah) [L. dim. of lamina, plate or leaf]
+Layer, thin sheet.
+
+larva pl. larvae
+(lar-vuh) [L. ghost]
+A free-living, sexually immature form in some animal life cycles that may differ from the adult in morphology, nutrition, and habitat.
+
+lateral line system
+A mechanoreceptor system consisting of a series of pores and receptor units (neuromasts) along the sides of the body of fishes and aquatic amphibians; detects water movements made by an animal itself and by other moving objects.
+
+lateral meristem
+(mare-eh-stem) [L. latus, lateris, side + Gk. meristos, divided]
+The vascular and cork cambium, a cylinder of dividing cells that runs most of the length of stems and roots and is responsible for secondary growth.
+
+law of independent assortment
+Mendel's second law, stating that each allele pair segregates independently during gamete formation; applies when genes for two traits are located on different pairs of homologous chromosomes.
+
+law of segregation
+Mendel's first law, stating that allele pairs separate during gamete formation, and then randomly re-form pairs during the fusion of gametes at fertilization.
+
+leaching
+The dissolving of minerals and other elements in soil or rocks by the downward movement of water.
+
+leading strand
+The new continuous complementary DNA strand synthesized along the template strand in the mandatory 5' to 3' direction.
+
+leaf
+The main site of photosynthesis in a plant; consists of a flattened blade and a stalk (petiole) that joins the leaf to the stem.
+
+learning
+The process that leads to modification in individual behavior as the result of experience.
+
+leukocyte
+(loo-koh-site) [Gk. leukos, white + kytos, vessel]
+A white blood cell; typically functions in immunity, such as phagocytosis or antibody production.
+
+leukotriene
+A type of prostaglandin produced by various white blood cells involved in the inflammatory and immune responses and in allergic reactions.
+
+lichen
+(ly-ken)
+An organism formed by the symbiotic association between a fungus and a photosynthetic alga.
+
+life cycle
+The entire sequence of stages in the life of an organisms, from the adults of one generation to the adults of the next.
+
+life-history pattern
+A group of traits, such as size and number of offspring, length of maturation, age at first reproduction, and the number of times reproduction occurs, that affect reproduction, survival, and the rate of population growth.
+
+life table
+A table of data summarizing mortality in a population.
+
+ligament
+A type of fibrous connective tissue that joins bones together at joints.
+
+ligand
+(lig-und)
+A molecule that binds specifically to a receptor site of another molecule.
+
+ligand-gated ion channel receptor
+A signal receptor protein in a cell membrane that can act as a channel for the passage of a specific ion across the membrane. When activated by a signal molecule, the receptor either allows or blocks passage of the ion, resulting in a change in ion concentration that usually affects cell functioning.
+
+light-dependent reactions
+The reactions of the first stage of photosynthesis, in which light energy is captured by chlorophyll molecules and converted to chemical energy stored in ATP and NADPH molecules.
+
+light-independent reactions
+The carbon-fixing reactions of the second stage of photosynthesis; energy stored in ATP and NADPH by the light-dependent reactions is used to reduce carbon from carbon dioxide to simple sugars; light is not required for these reactions.
+
+light microscope (LM)
+An optical instrument with lenses that refract (bend) visible light to magnify images of specimens.
+
+light reactions
+The steps in photosynthesis that occur on the thylakoid membranes of the chloroplast and convert solar energy to the chemical energy of ATP and NADPH, evolving oxygen in the process.
+
+lignin
+(lig-nin)
+A hard material embedded in the cellulose matrix of vascular plant cell walls that functions as an important adaptation for support in terrestrial species.
+
+limbic system
+(lim-bik) [L. limbus, border]
+A group of nuclei (clusters of nerve cell bodies) in the lower part of the mammalian forebrain that interact with the cerebral cortex in determining emotions; includes the hippocampus and the amygdala.
+
+linkage
+The tendency for certain alleles to be inherited together because they are located on the same chromosome.
+
+linked genes
+Genes that are located on the same chromosome.
+
+linkage group
+A pair of homologous chromosomes.
+
+linkage map
+A genetic map based on the frequencies of recombination between markers during crossing over of homologous chromosomes. The greater the frequency of recombination between two genetic markers, the farther apart they are assumed to be.
+
+lipid
+(lih-pid) [Gk. lipos, fat]
+One of a family of compounds, including fats, phospholipids, and steroids, that are insoluble in water.
+
+lipoprotein
+[Gk. lipos, fat + proteios, primary]
+A protein bonded to a lipid; includes the low-density lipoproteins (LDLs) and high-density lipoproteins (HDLs) that transport fats and cholesterol in blood.
+
+locus pl. loci
+(loh-kus) [L. place]
+A particular place along the length of a certain chromosome where a given gene is located.
+
+logistic population growth
+A model describing population growth that levels off as population size approaches carrying capacity.
+
+long-day plant
+A plant that flowers, usually in late spring or early summer, only when the light period is longer than a critical length.
+
+loop of Henle
+(after F. G. J. Henle, German pathologist)
+The long hairpin turn, with a descending and ascending limb, of the renal tubule in the vertebrate kidney; functions in water and salt reabsorption.
+
+lumen
+[L. light]
+The cavity of a tubular structure, such as endoplasmic reticulum or a blood vessel.
+
+lungs
+The invaginated respiratory surfaces of terrestrial vertebrates, land snails, and spiders that connect to the atmosphere by narrow tubes.
+
+luteinizing hormone (LH)
+(loo-tee-in-eye-zing)
+A protein hormone secreted by the anterior pituitary that stimulates ovulation in females and androgen production in males.
+
+lymph
+(limf) [L. lympha, water]
+The colorless fluid, derived from interstitial fluid, in the lymphatic system of vertebrate animals.
+
+lymph node
+[L. lympha, water + nodus, knot]
+A mass of spongy tissues, separated into compartments; located throughout the lymphatic system, lymph nodes remove dead cells, debris, and foreign particles from the circulation; also are sites at which foreign antigens are displayed to immunologically active cells.
+
+lymphatic system
+(lim-fat-ik)
+A system of vessels and lymph nodes, separate from the circulatory system, that returns fluid and protein to the blood.
+
+lymphocyte
+[L. lympha, water + Gk. kytos, vessel]
+A white blood cell. The lymphocytes that complete their development in the bone marrow are called B cells, and those that mature in the thymus are called T cells.
+
+lymphokine
+A chemical, released by an activated cytotoxic T cell, that attracts macrophages and stimulates phagocytosis.
+
+lysis
+[Gk. lysis, a loosening]
+Disintegration of a cell by rupture of its plasma membrane.
+
+lysogenic bacteria
+(lye-so-jenn-ick) [Gk. lysis, a loosening + genos, race or descent]
+Bacteria carrying a bacteriophage integrated into the bacterial chromosome. The virus may subsequently set up an active cycle of infection, causing lysis of the bacterial cells.
+
+lysogenic cycle
+A type of phage replication cycle in which the viral genome becomes incorporated into the bacterial host chromosome as a prophage.
+
+lysosome
+(ly-so-some) [Gk. lysis, loosening + soma, body]
+A membrane-enclosed bag of hydrolytic enzymes found in the cytoplasm of eukaryotic cells.
+
+lysozyme
+(ly-so-zime)
+An enzyme in perspiration, tears, and saliva that attacks bacterial cell walls.
+
+lytic cycle
+(lit-ik)
+A type of viral replication cycle resulting in the release of new phages by death or lysis of the host cell.

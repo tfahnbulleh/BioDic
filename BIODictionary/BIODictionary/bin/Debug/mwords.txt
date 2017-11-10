@@ -1,0 +1,366 @@
+M phase
+The mitotic phase of the cell cycle, which includes mitosis and cytokinesis.
+
+macroevolution
+Evolutionary change on a grand scale, encompassing the origin of novel designs, evolutionary trends, adaptive radiation, and mass extinction.
+
+macromolecule
+[Gk. makros, large + L. dim. of moles, mass]
+A giant molecule of living matter formed by the joining of smaller molecules, usually by condensation synthesis. Polysaccharides, proteins, and nucleic acids are macromolecules.
+
+macronutrient
+[Gk. makros, large + L. nutrire, to nourish]
+An inorganic nutrient required in large amounts for plant growth, such as nitrogen, potassium, calcium, phosphorus, magnesium, and sulfur.
+
+macrophage
+(mak-roh-fage) [Gk. makros, large + phagein, to eat]
+An amoeboid cell that moves through tissue fibers, engulfing bacteria and dead cells by phagocytosis.
+
+major histocompatibility complex (MHC)
+A large set of cell surface antigens encoded by a family of genes. Foreign MHC markers trigger T-cell responses that may lead to the rejection of transplanted tissues and organs.
+
+Malpighian tubule
+(mal-pig-ee-un)
+A unique excretory organ of insects that empties into the digestive tract, removes nitrogenous wastes from the blood, and functions in osmoregulation.
+
+Mammalia
+The vertebrate class of mammals, characterized by body hair and mammary glands that produce milk to nourish the young.
+
+mantle
+A heavy fold of tissue in mollusks that drapes over the visceral mass and may secrete a shell.
+
+marine
+[L. marini(us), from mare, the sea]
+Living in salt water.
+
+marsupial
+(mar-soop-ee-ul) [Gk. marsypos, pouch, little bag]
+A mammal, such as a koala, kangaroo, or opossum, whose young complete their embryonic development inside a maternal pouch called the marsupium.
+
+mass number
+The sum of the number of protons and neutrons in an atom's nucleus.
+
+mast cell
+A type of noncirculating white blood cell, found in connective tissue, that is the major protagonist in allergic reactions; when an allergen binds to complementary antibodies on the surface of a mast cell, large amounts of histamine are released from the cell.
+
+matrix
+The nonliving component of connective tissue, consisting of a web of fibers embedded in homogeneous ground substance that may be liquid, jellylike, or solid.
+
+matter
+Anything that takes up space and has mass.
+
+mechanoreceptor
+A sensory receptor that detects physical deformations in the body's environment associated with pressure, touch, stretch, motion, and sound.
+
+medulla
+(med-dull-a) [L. the innermost part]
+The inner, as opposed to the outer, part of an organ, as in the adrenal gland.
+
+medulla oblongata
+(meh-doo-luh obb-long-gah-tuh)
+The lowest part of the vertebrate brain; a swelling of the hindbrain dorsal to the anterior spinal cord that controls autonomic, homeostatic functions, including breathing, heart and blood vessel activity, swallowing, digestion, and vomiting.
+
+medusa
+The floating, flattened, mouth-down version of the cnidarian body plan. The alternate form is the polyp.
+
+megapascal (MPa)
+(meg-uh-pass-kal)
+A unit of pressure equivalent to 10 atmospheres of pressure.
+
+megaspore
+[Gk. megas, great, large + spora, a sowing]
+In plants, a haploid (n) spore that develops into a female gametophyte.
+
+meiosis
+(my-oh-sis) [Gk. meioun, to make smaller]
+A two-stage type of cell division in sexually reproducing organisms that results in gametes with half the chromosome number of the original cell.
+
+membrane potential
+The charge difference between the cytoplasm and extracellular fluid in all cells, due to the differential distribution of ions. Membrane potential affects the activity of excitable cells and the transmembrane movement of all charged substances.
+
+memory cell
+A clone of long-lived lymphocytes, formed during the primary immune response, that remains in a lymph node until activated by exposure to the same antigen that triggered its formation. Activated memory cells mount the secondary immune response.
+
+Mendel's first law
+See law of segregation.
+
+Mendel's second law
+See law of independent assortment.
+
+meniscus
+The curved top surface of a column of liquid.
+
+menstrual cycle
+(men-stroo-ul) [L. mensis, month]
+A type of reproductive cycle in higher female primates, in which the nonpregnant endometrium is shed as a bloody discharge through the cervix into the vagina.
+
+meristem
+(mare-eh-stem) [Gk. merizein, to divide]
+Plant tissue that remains embryonic as long as the plant lives, allowing for indeterminate growth.
+
+meroblastic cleavage
+(mare-oh-blas-tik)
+A type of cleavage in which there is incomplete division of yolk-rich egg, characteristic of avian development.
+
+mesentery
+(mez-en-ter-ee) [Gk. mesos, middle + enteron, gut]
+A membrane that suspends many of the organs of vertebrates inside fluid-filled body cavities.
+
+mesoderm
+(mez-oh-durm) [Gk. mesos, middle + derma, skin]
+The middle primary germ layer of an early embryo that develops into the notochord, the lining of the coelom, muscles, skeleton, gonads, kidneys, and most of the circulatory system.
+
+mesophyll
+(mez-oh-fil) [Gk. mesos, middle + phyllon, leaf]
+The ground tissue of a leaf, sandwiched between the upper and lower epidermis and specialized for photosynthesis.
+
+messenger RNA (mRNA)
+A type of RNA synthesized from DNA in the genetic material that attaches to ribosomes in the cytoplasm and specifies the primary structure of a protein.
+
+metabolism
+(meh-tab-oh-liz-um) [Gk. metabole, change]
+The totality of an organism's chemical processes, consisting of catabolic and anabolic pathways.
+
+metamorphosis
+(met-uh-mor-fuh-sis) [Gk. metamorphoun, to transform]
+The resurgence of development in an animal larva that transforms it into a sexually mature adult.
+
+metanephridium pl. metanephridia
+(met-uh-neh-frid-ee-um)
+In annelid worms, a type of excretory tubule with internal openings called nephrostomes that collect body fluids and external openings called nephridiopores.
+
+metaphase
+[Gk. meta, middle + phasis, form]
+The second stage of mitosis. During metaphase, all the cell's duplicated chromosomes are lined up at an imaginary plane equidistant between the poles of the mitotic spindle.
+
+metapopulation
+A subdivided population of a single species.
+
+metastasis
+(meh-tas-teh-sis)
+The spread of cancer cells beyond their original site.
+
+MHC
+Abbreviation of major histocompatibility complex.
+
+microbe
+[Gk. mikros, small + bios, life]
+A microscopic organism.
+
+microevolution
+A change in the gene pool of a population over a succession of generations.
+
+microfilament
+A solid rod of actin protein in the cytoplasm of almost all eukaryotic cells, making up part of the cytoskeleton and acting alone or with myosin to cause cell contraction.
+
+micronutrient
+[Gk. mikros, small + L. nutrire, to nourish]
+An inorganic nutrient required in only minute amounts for plant growth, such as iron, chlorine, copper, manganese, zinc, molybdenum, and boron.
+
+microspore
+[Gk. mikros, small + spora, a sowing]
+In plants, a haploid (n) spore that develops into a male gametophyte; in seed plants, it becomes a pollen grain.
+
+microtubule
+[Gk. mikros, small + L. dim. of tubus, tube]
+A hollow rod of tubulin protein in the cytoplasm of all eukaryotic cells and in cilia, flagella, and the cytoskeleton.
+
+microvillus pl. microvilli
+One of many fine, fingerlike projections of the epithelial cells in the lumen of the small intestine that increase its surface area.
+
+middle lamella
+A thin layer of adhesive extracellular material, primarily pectins, found between the primary walls of adjacent young plant cells.
+
+mimicry
+[Gk. mimos, mime]
+A phenomenon in which one species benefits by a superficial resemblance to an unrelated species. A predator or species of prey may gain a significant advantage through mimicry.
+
+mineral
+In nutrition, one of many chemical elements, other than carbon, hydrogen, oxygen, and nitrogen, that an organism requires for proper body functioning.
+
+mineralocorticoid
+A corticosteroid hormone secreted by the adrenal cortex that regulates salt and water homeostasis.
+
+minimum dynamic area
+The amount of suitable habitat needed to sustain a viable population.
+
+minimum viable population size (MVP)
+The smallest number of individuals needed to perpetuate a population.
+
+missense mutation
+The most common type of mutation involving a base-pair substitution within a gene that changes a codon, but the new codon makes sense in that it still codes for an amino acid.
+
+mitochondrial matrix
+The compartment of the mitochondrion enclosed by the inner membrane and containing enzymes and substrates for the Krebs cycle.
+
+mitochondrion pl. mitochondria
+(my-toh-kon-dree-un) [Gk. mitos, thread + chondros, cartilage or grain]
+An organelle in eukaryotic cells that serves as the site of cellular respiration.
+
+mitosis
+(my-toh-sis) [Gk. mitos, thread]
+A process of nuclear division in eukaryotic cells conventionally divided into five stages: prophase, prometaphase, metaphase, anaphase, and telophase. Mitosis conserves chromosome number by equally allocating replicated chromosomes to each of the daughter nuclei.
+
+modern synthesis
+A comprehensive theory of evolution emphasizing natural selection, gradualism, and populations as the fundamental units of evolutionary change; also called neo-Darwinism.
+
+molarity
+A common measure of solute concentration, referring to the number of moles of solute in 1 L of solution.
+
+mold
+A rapidly growing, asexually reproducing fungus.
+
+mole
+[L. moles, mass]
+The number of grams of a substance that equals its molecular weight in daltons and contains Avogadro's number of molecules.
+
+molecular formula
+A type of molecular notation indicating only the quantity of the constituent atoms.
+
+molecular weight
+The sum of the atomic weights of the constituent atoms in a molecule.
+
+molecule
+[L. dim. of moles, mass]
+Two or more atoms held together by covalent bonds.
+
+molting
+A process in arthropods in which the exoskeleton is shed at intervals to allow growth by the secretion of a larger exoskeleton.
+
+monoclonal antibody
+(mon-oh-klone-ul)
+A defensive protein produced by cells descended from a single cell; an antibody that is secreted by a clone of cells and, consequently, is specific for a single antigenic determinant.
+
+monocot
+(mon-oh-kot)
+A subdivision of flowering plants whose members possess one embryonic seed leaf, or cotyledon.
+
+monocotyledon
+[Gk. monos, single + kotyledon, a cup- shaped hollow]
+A member of the class of flowering plants having one seed leaf, or cotyledon, among other distinguishing features; often abbreviated as monocot.
+
+monoculture
+Cultivation of large land areas with a single plant variety.
+
+monoecious
+(mo-nee-shus) [Gk. monos, single + oikos, house]
+Referring to a plant species that has both staminate and carpellate flowers on the same individual.
+
+monohybrid
+A hybrid individual that is heterozygous for one gene or a single character.
+
+monohybrid cross
+A breeding experiment that uses parental varieties differing in a single character.
+
+monomer
+[Gk. monos, single + meros, part]
+The subunit that serves as the building block of a polymer.
+
+monophyletic
+(mon-oh-fy-leh-tik)
+Pertaining to a taxon derived from a single ancestral species that gave rise to no species in any other taxa.
+
+monosaccharide
+[Gk. monos, single + sakcharon, sugar]
+The simplest carbohydrate, active alone or serving as a monomer for disaccharides and polysaccharides. Also known as simple sugars, the molecular formulas of monosaccharides are generally some multiple of CH2O.
+
+monotreme
+[Gk. monos, single + trema, hole]
+An egg-laying mammal, represented by the platypus and echidna.
+
+morphogen
+A substance, such as bicoid protein, that provides positional information in the form of a concentration gradient along an embryonic axis.
+
+morphogenesis
+[Gk. morphe, form + genesis, origin]
+The development of body shape and organization during ontogeny.
+
+morphological
+[Gk. morphe, form + logos, discourse]
+Pertaining to form and structure, at any level of organization.
+
+morphological species concept
+The idea that species are defined by measurable anatomical criteria.
+
+morphology
+[Gk. morphe, form + logos, discourse]
+The form and structure of an organism and its parts.
+
+morphospecies
+A species defined by its anatomical features.
+
+mortality rate
+[L. mors, death]
+Death rate.
+
+mosaic development
+A pattern of development, such as that of a mollusk, in which the early blastomeres each give rise to a specific part of the embryo. In some animals, the fate of the blastomeres is established in the zygote.
+
+mosaic evolution
+The evolution of different features of an organism at different rates.
+
+motor neuron
+A nerve cell that transmits signals from the brain or spinal cord to muscles or glands.
+
+motor unit
+A single motor neuron and all the muscle fibers it controls.
+
+MPF (M-phase promoting factor)
+A protein complex required for a cell to progress from late interphase to mitosis; the active form consists of cyclin and cdc2, a protein kinase.
+
+muscle fiber
+Muscle cell; a long, cylindrical, multinucleated cell containing numerous myofibrils, which is capable of contraction when stimulated.
+
+mRNA
+See messenger RNA.
+
+Müllerian mimicry
+(myoo-ler-ee-un)
+A mutual mimicry by two unpalatable species.
+
+multigene family
+A collection of genes with similar or identical sequences, presumably of common origin.
+
+mutagen
+(myoot-uh-jen) [L. mutare, to change + genus, source or origin]
+A chemical or physical agent that interacts with DNA and causes a mutation.
+
+mutagenesis
+(myoot-uh-jen-uh-sis)
+The creation of mutations.
+
+mutant
+[L. mutare, to change]
+An organism carrying a gene that has undergone a mutation.
+
+mutation
+(myoo-tay-shun) [L. mutare, to change]
+A rare change in the DNA of genes that ultimately creates genetic diversity.
+
+mutualism
+(myoo-choo-ul-iz-um) [L. mutuus, lent, borrowed]
+A symbiotic relationship in which both the host and the symbiont benefit. See Symbiosis.
+
+mycelium
+(my-seel-ee-um) [Gk. mykes, fungus]
+The densely branched network of hyphae in a fungus.
+
+mycorrhizae
+(my-koh-ry-zee) [Gk. mykes, fungus + rhiza, root]
+Mutualistic associations of plant roots and fungi.
+
+myelin sheath
+(my-eh-lin) [Gk. myelinos, full of marrow]
+In a neuron, an insulating coat of cell membrane from Schwann cells that is interrupted by nodes of Ranvier where saltatory conduction occurs.
+
+myofibril
+(my-oh-fy-bril) [Gk. mys, muscle + L. fibra, fiber]
+A fibril collectively arranged in longitudinal bundles in muscle cells (fibers); composed of thin filaments of actin and a regulatory protein and thick filaments of myosin.
+
+myoglobin
+(my-uh-glow-bin) [Gk. mys, muscle + L. globus, a ball]
+An oxygen-storing, pigmented protein in muscle cells.
+
+myosin
+(my-uh-sin) [Gk. mys, muscle]
+A type of protein filament that interacts with actin filaments to cause cell contraction.

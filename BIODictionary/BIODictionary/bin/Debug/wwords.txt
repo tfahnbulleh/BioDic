@@ -1,0 +1,20 @@
+water cycle
+Worldwide circulation of water molecules, powered by the sun. Water evaporates from oceans, lakes, rivers, and, in smaller amounts, soil surfaces and bodies of organisms; water returns to the Earth in the form of rain and snow. Of the water falling on land, some flows into rivers that pour water back into the oceans and some percolates down through the soil until it reaches a zone where all pores and cracks in the rock are filled with water (groundwater); the deep groundwater eventually reaches the oceans, completing the cycle.
+
+water potential
+The physical property predicting the direction in which water will flow, governed by solute concentration and applied pressure.
+
+water vascular system
+A network of hydraulic canals unique to echinoderms that branches into extensions called tube feet, which function in locomotion, feeding, and gas exchange.
+
+wavelength
+The distance between crests of waves, such as those of the electromagnetic spectrum.
+
+wild type
+An individual with the normal phenotype.
+
+wobble
+A violation of the base-pairing rules in that third nucleotide (5' end) of a tRNA anticodon can form hydrogen bonds with more than one kind of base in the third position (3' end) of a codon.
+
+worker
+A member of the nonreproductive laboring caste of social insects.

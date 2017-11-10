@@ -1,0 +1,152 @@
+F1 (first filial generation)
+The first filial or hybrid offspring in a genetic cross-fertilization.
+
+F2 (second filial generation)
+Offspring resulting from interbreeding of the hybrid F1 generation.
+
+F factor
+A fertility factor in bacteria, a DNA segment that confers the ability to form pili for conjugation and associated functions required for the transfer of DNA from donor to recipient. May exist as a plasmid or integrated into the bacterial chromosome.
+
+facilitated diffusion
+The spontaneous passage of molecules and ions, bound to specific carrier proteins, across a biological membrane down their concentration gradients.
+
+facultative anaerobe
+(fak-ul-tay-tiv an-uh-robe)
+An organism that makes ATP by aerobic respiration if oxygen is present but that switches to fermentation under anaerobic conditions.
+
+FAD
+Abbreviation of flavin adenine dinucleotide, a coenzyme that functions as an electron acceptor in the Krebs cycle.
+
+Fallopian tube
+See Oviduct.
+
+family
+A taxonomic grouping of related, similar genera; the category below order and above genus.
+
+fat (triacylglycerol)
+(tri-ah-sil-glis-er-all)
+A biological compound consisting of three fatty acids linked to one glycerol molecule.
+
+fatty acid
+A long carbon chain carboxylic acid. Fatty acids vary in length and in the number and location of double bonds; three fatty acids linked to a glycerol molecule form fat.
+
+feedback inhibition
+A method of metabolic control in which the end-product of a metabolic pathway acts as an inhibitor of an enzyme within that pathway.
+
+feedback systems
+Control mechanisms whereby an increase or decrease in the level of a particular factor inhibits or stimulates the production, utilization, or release of that factor; important in the regulation of enzyme and hormone levels, ion concentrations, temperature, and many other factors.
+
+fermentation
+A catabolic process that makes a limited amount of ATP from glucose without an electron transport chain and that produces a characteristic end-product, such as ethyl alcohol or lactic acid.
+
+fertilization
+The union of haploid gametes to produce a diploid zygote.
+
+fetus
+[L. pregnant]
+An unborn or unhatched vertebrate that has passed through the earliest developmental stages; a developing human from about the second month of gestation until birth.
+
+fiber
+A lignified cell type that reinforces the xylem of angiosperms and functions in mechanical support; a slender, tapered sclerenchyma cell that usually occurs in bundles.
+
+fibril
+[L. fibra, fiber]
+Any minute, threadlike structure within a cell.
+
+fibrin
+(fy-brin)
+The activated form of the blood-clotting protein fibrinogen, which aggregates into threads that form the fabric of the clot.
+
+fibroblast
+(fy-broh-blast)
+A type of cell in loose connective tissue that secretes the protein ingredients of the extracellular fibers.
+
+fibrous protein
+Insoluble structural protein in which the polypeptide chain is coiled along one dimension. Fibrous proteins constitute the main structural elements of many animal tissues.
+
+filament
+[L. filare, to spin]
+(1) A chain of cells. (2) In flowers, the stalk of a stamen.
+
+filtrate
+Fluid extracted by the excretory system from the blood or body cavity. The excretory system produces urine from the filtrate after extracting valuable solutes from it and concentrating it.
+
+filtration
+The first stage of kidney function; blood plasma is forced, under pressure, out of the glomerular capillaries into Bowman's capsule, through which it enters the renal tubule.
+
+first law of thermodynamics
+(thur-moh-dy-nam-iks)
+The principle of conservation of energy. Energy can be transferred and transformed, but it cannot be created or destroyed.
+
+fitness
+The genetic contribution of an individual to succeeding generations relative to the contributions of other individuals in the population.
+
+fixed action pattern
+A highly stereotypical behavior that is innate and must be carried to completion once initiated.
+
+flaccid
+(flas-id)
+Limp; walled cells are flaccid in isotonic surroundings, where there is no tendency for water to enter.
+
+flagellum pl. flagella
+(fla-jell-um) [L. flagellum, whip]
+A long cellular appendage specialized for locomotion, formed from a core of nine outer doublet microtubules and two inner single microtubules, ensheathed in an extension of plasma membrane.
+
+flower
+The reproductive structure of angiosperms; a complete flower includes sepals, petals, stamens (male structures), and carpels (female structures).
+
+fluid-feeder
+An animal that lives by sucking nutrient-rich fluids from another living organism.
+
+fluid mosaic model
+The currently accepted model of cell membrane structure, which envisions the membrane as a mosaic of individually inserted protein molecules drifting laterally in a fluid bilayer of phospholipids.
+
+follicle
+(fol-eh-kul)
+A microscopic structure in the ovary that contains the developing ovum and secretes estrogens.
+
+follicle-stimulating hormone (FSH)
+A protein hormone secreted by the anterior pituitary that stimulates the production of eggs by the ovaries and sperm by the testes.
+
+food chain
+The pathway along which food is transferred from trophic level to trophic level, beginning with producers.
+
+food web
+The elaborate, interconnected feeding relationships in an ecosystem.
+
+fossil
+[L. fossilis, dug up]
+The remains of an organism, or direct evidence of its presence (such as tracks). May be an unaltered hard part (tooth or bone), a mold in a rock, petrification (wood or bone), unaltered or partially altered soft parts (a frozen mammoth).
+
+founder effect
+A cause of genetic drift attributable to colonization by a limited number of individuals from a parent population.
+
+fovea
+[L. pit]
+A small area in the center of the retina in which cones are concentrated; the area of sharpest vision.
+
+fragile X syndrome
+A hereditary mental disorder, partially explained by genomic imprinting and the addition of nucleotides to a triplet repeat near the end of an X chromosome.
+
+frameshift mutation
+A mutation occurring when the number of nucleotides inserted or deleted is not a multiple of 3, thus resulting in improper grouping into codons.
+
+free energy
+A quantity of energy that interrelates entropy (S) and the system's total energy (H); symbolized by G. The change in free energy of a system is calculated by the equation G = ?H - T ?S, where T is absolute temperature.
+
+free energy of activation
+The initial investment of energy necessary to start a chemical reaction; also called activation energy.
+
+frequency-dependent selection
+A decline in the reproductive success of a morph resulting from the morph's phenotype becoming too common in a population; a cause of balanced polymorphism in populations.
+
+fruit
+[L. fructus, fruit]
+A mature ovary of a flower that protects dormant seeds and aids in their dispersal.
+
+function
+[L. fungor, to busy oneself]
+Characteristic role or action of a structure or process in the normal metabolism or behavior of an organism.
+
+functional group
+A specific configuration of atoms commonly attached to the carbon skeletons of organic molecules and usually involved in chemical reactions.

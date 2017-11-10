@@ -1,0 +1,136 @@
+vaccine
+A harmless variant or derivative of a pathogen that stimulates a host's immune system to mount defenses against the pathogen.
+
+vacuole
+[L. vacuus, empty]
+A membrane-enclosed sac taking up most of the interior of a mature plant cell and containing a variety of substances important in plant reproduction, growth, and development.
+
+vagina
+Part of the female reproductive system between the uterus and the outside opening; the birth canal in mammals; also accommodates the male's penis and receives sperm during copulation.
+
+valence shell
+The outermost energy shell of an atom, containing the valence electrons involved in the chemical reactions of that atom.
+
+Van der Waals interactions
+Weak attractions between molecules or parts of molecules that are brought about by localized charge fluctuations.
+
+vaporization
+[L. vapor, steam]
+The change from a liquid to a gas; evaporation.
+
+variation
+Diversity among the members of a population. Variation among individuals can exist at many levels, including genetic, physiologic and behavioral.
+
+vas deferens pl. vasa deferentia
+(vass deff-er-ens) [L. vas, a vessel + deferre, to carry down]
+The tube in the male reproductive system in which sperm travel from the epididymis to the urethra.
+
+vascular
+[L. vasculum, a small vessel]
+Containing or concerning vessels that conduct fluid.
+
+vascular bundle
+In plants, a group of longitudinal supporting and conducting tissues (xylem and phloem).
+
+vascular cambium
+[L. vasculum, a small vessel + cambium, exchange]
+A continuous cylinder of meristematic cells surrounding the xylem and pith that produces secondary xylem and phloem.
+
+vascular plants
+Plants with vascular tissue, consisting of all modern species except the mosses and their relatives.
+
+vascular tissue
+Plant tissue consisting of cells joined into tubes that transport water and nutrients throughout the plant body.
+
+vascular tissue system
+A system formed by xylem and phloem throughout the plant, serving as a transport system for water and nutrients, respectively.
+
+vector
+[L. carrier]
+In recombinant DNA, a small, self-replicating DNA molecule, or a portion thereof, into which a DNA segment can be spliced and introduced into a cell; generally a plasmid or a virus.
+
+vegetative reproduction
+Cloning of plants by asexual means.
+
+vein
+[L. vena, a blood vessel]
+A vessel that returns blood to the heart.
+
+vena cava
+(vee-na cah-va) [L. blood vessel + hollow]
+A large vein that brings blood from the tissues to the right atrium of the four-chambered mammalian heart. The superior vena cava collects blood from the forelimbs, head, and anterior or upper trunk; the inferior vena cava collects blood from the posterior body region.
+
+ventilation
+Any method of increasing contact between the respiratory medium and the respiratory surface.
+
+ventral
+[L. venter, belly]
+Pertaining to the undersurface of an animal that holds its body in a horizontal position; to the front surface of an animal that holds its body erect.
+
+ventricle
+[L. ventriculus, the stomach]
+A muscular chamber of the heart that receives blood from an atrium and pumps blood out of the heart, either to the lungs or to the body tissues.
+
+venule
+A very small vein. See also Vein.
+
+vertebral column
+[L. vertebra, joint]
+The backbone; in nearly all vertebrates, it forms the supporting axis of the body and protects the spinal cord.
+
+vertebrate
+A chordate animal with a backbone: the mammals, birds, reptiles, amphibians, and various classes of fishes.
+
+vesicle
+[L. vesicula, a little bladder]
+A small, intracellular membrane-bound sac.
+
+vessel element
+[L. vas, a vessel]
+A specialized short, wide cell in angiosperms; arranged end to end, they form continuous tubes for water transport.
+
+vestigial organ
+A type of homologous structure that is rudimentary and of marginal or no use to the organism.
+
+viable
+[L. vita, life]
+Able to live.
+
+villus pl. villi
+[L. a tuft of hair]
+In vertebrates, one of the minute, fingerlike projections lining the small intestine that serve to increase the absorptive surface area of the intestine.
+
+viroid
+(vy-roid)
+A plant pathogen composed of molecules of naked RNA only several hundred nucleotides long.
+
+virulent
+Capable of overcoming a host's defense mechanisms and causing a disease sometimes of rapid onset and severe symptoms.
+
+virus
+[L. slimy, liquid, poison]
+A submicroscopic, noncellular particle composed of a nucleic acid core and a protein coat (capsid); parasitic; reproduces only within a host cell.
+
+viscera
+[L. internal organs]
+The collective term for the internal organs of an animal.
+
+visceral muscle
+Smooth muscle found in the walls of the digestive tract, bladder, arteries, and other internal organs.
+
+visible light
+That portion of the electromagnetic spectrum detected as various colors by the human eye, ranging in wavelength from about 400 nm to about 700 nm.
+
+vitalism
+The belief that natural phenomena are governed by a life force outside the realm of physical and chemical laws.
+
+vitamin
+[L. vita, life]
+An organic molecule required in the diet in very small amounts; vitamins serve primarily as coenzymes or parts of coenzymes.
+
+viviparous
+(vy-vip-er-us)
+Referring to a type of development in which the young are born alive after having been nourished in the uterus by blood from the placenta.
+
+voltage-gated channel
+Ion channel in a membrane that opens and closes in response to changes in membrane potential (voltage); the sodium and potassium channels of neurons are examples.

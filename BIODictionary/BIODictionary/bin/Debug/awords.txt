@@ -1,0 +1,506 @@
+aba
+A plant hormone that generally acts to inhibit growth, promote dormancy, and help the plant tolerate stressful conditions.
+
+abdomen
+In vertebrates, the portion of the trunk containing visceral organs other than heart and lungs; in arthropods, the posterior portion of the body, made up of similar segments and containing the reproductive organs and part of the digestive tract.
+
+abiotic
+[Gk. a, not, without + bios, life] 
+Nonliving; specifically, the nonliving components of an ecosystem, such as temperature, humidity, the mineral content of the soil, etc.
+
+abscisic acid (ABA)
+(ab-sis-ik) [L. ab, away, off + scissio, dividing]
+A plant hormone that generally acts to inhibit growth, promote dormancy, and help the plant tolerate stressful conditions.
+
+abscission
+[L. ab, away, off + scissio, dividing]
+In plants, the dropping of leaves, flowers, fruits, or stems at the end of a growing season, as the result of formation of a two-layered zone of specialized cells (the abscission zone) and the action of a hormone (ethylene).
+
+absorption
+[L. absorbere, to swallow down]
+The movement of water and dissolved substances into a cell, tissue, or organism.
+
+absorption spectrum
+The range of a pigment's ability to absorb various wavelengths of light.
+
+abyssal zone
+(uh-bis-ul)
+The portion of the ocean floor where light does not penetrate and where temperatures are cold and pressures intense.
+
+acclimatization
+(uh-kly-mih-ty-zay-shun)
+Physiological adjustment to a change in an environmental factor.
+
+accommodation
+The automatic adjustment of an eye to focus on near objects.
+
+acetylcholine
+(asset-ill-coal-een)
+One of the most common neurotransmitters; functions by binding to receptors and altering the permeability of the postsynaptic membrane to specific ions, either depolarizing or hyperpolarizing the membrane.
+
+acetyl CoA
+The entry compound for the Krebs cycle in cellular respiration; formed from a fragment of pyruvate attached to a coenzyme.
+
+acid
+[L. acidus, sour]
+A substance that increases the hydrogen ion concentration in a solution.
+
+acid precipitation
+Rain, snow, or fog that is more acidic than pH 5.6.
+
+acoelomate
+(a-seel-oh-mate)
+A solid-bodied animal lacking a cavity between the gut and outer body wall.
+
+acrosome
+(ak-ruh-some)
+An organelle at the tip of a sperm cell that helps the sperm penetrate the egg.
+
+ACTH
+Abbreviation of adrenocorticotropic hormone.
+
+actin
+[Gk. aktis, a ray]
+A globular protein that links into chains, two of which twist helically about each other, forming microfilaments in muscle and other contractile elements in cells.
+
+action potential
+A rapid change in the membrane potential of an excitable cell, caused by stimulus-triggered, selective opening and closing of voltage-sensitive gates in sodium and potassium ion channels.
+
+activation energy
+The energy that must be possessed by atoms or molecules in order to react.
+
+active site
+The specific portion of an enzyme that attaches to the substrate by means of weak chemical bonds.
+
+active transport
+The movement of a substance across a biological membrane against its concentration or electrochemical gradient, with the help of energy input and specific transport proteins.
+
+adaptation
+[L. adaptare, to fit]
+(1) The evolution of features that make a group of organisms better suited to live and reproduce in their environment. (2) A peculiarity of structure, physiology, or behavior that aids the organism in its environment.
+
+adaptive peak
+An equilibrium state in a population when the gene pool has allele frequencies that maximize the average fitness of a population's members.
+
+adaptive radiation
+The emergence of numerous species from a common ancestor introduced into an environment, presenting a diversity of new opportunities and problems.
+
+adenosine diphosphate (ADP)
+A nucleotide consisting of adenine, ribose, and two phosphate groups; formed by the removal of one phosphate from an ATP molecule.
+
+adenosine monophosphate (AMP)
+A nucleotide consisting of adenine, ribose, and one phosphate group; can be formed by the removal of two phosphates from an ATP molecule; in its cyclic form, functions as a "second messenger" for a number of vertebrate hormones and neurotransmitters.
+
+adenosine triphosphate (ATP)
+An adenine-containing nucleoside triphosphate that releases free energy when its phosphate bonds are hydrolyzed. This energy is used to drive endergonic reactions in cells.
+
+adenylyl cyclase
+An enzyme that converts ATP to cyclic AMP in response to a chemical signal.
+
+ADH
+Abbreviation of antidiuretic hormone.
+
+adhesion
+[L. adhaerere, to stick to]
+The tendency of different kinds of molecules to stick together.
+
+ADP
+Abbreviation of adenosine diphosphate.
+
+adrenal gland
+(uh-dree-nul) [L. ad, near + renes, kidney]
+An endocrine gland located adjacent to the kidney in mammals; composed of two glandular portions: an outer cortex, which responds to endocrine signals in reacting to stress and effecting salt and water balance, and a central medulla, which responds to nervous inputs resulting from stress.
+
+adrenaline
+A hormone, produced by the medulla of the adrenal gland, that increases the concentration of glucose in the blood, raises blood pressure and heartbeat rate, and increases muscular power and resistance to fatigue; also a neurotransmitter across synaptic junctions. Also called epinephrine. See Epinephrine.
+
+adrenocorticotropic hormone (ACTH)
+A hormone, produced by the anterior lobe of the pituitary gland, that stimulates the production of cortisol by the adrenal cortex.
+
+adventitious
+[L. adventicius, not properly belonging to]
+Referring to a structure arising from an unusual place, such as roots growing from stems or leaves.
+
+aerobic
+(air-oh-bik) [Gk. aer, air + bios, life]
+Containing oxygen; referring to an organism, environment, or cellular process that requires oxygen.
+
+afferent
+[L. ad, near + ferre, to carry]
+Bringing inward to a central part, applied to nerves and blood vessels.
+
+agar
+A gelatinous material prepared from certain red algae that is used to solidify nutrient media for growing microorganisms.
+
+age structure
+The relative number of individuals of each age in a population.
+
+agnathan
+(ag-naa-thun)
+A member of a jawless class of vertebrates represented today by the lampreys and hagfishes.
+
+agonistic behavior
+(ag-on-is-tik)
+A type of behavior involving a contest of some kind that determines which competitor gains access to some resource, such as food or mates.
+
+AIDS (acquired immunodeficiency syndrome)
+The name of the late stages of HIV infection; defined by a specified reduction of T cells and the appearance of characteristic secondary infections.
+
+aldehyde
+(al-duh-hyde)
+An organic molecule with a carbonyl group located at the end of the carbon skeleton.
+
+aldosterone
+(al-dah-stair-own) [Gk. aldaino, to nourish + stereo, solid]
+An adrenal hormone that acts on the distal tubules of the kidney to stimulate the reabsorption of sodium (Na+) and the passive flow of water from the filtrate.
+
+aleurone layer
+[Gk. aleuron, flour]
+The outermost cell layer of the endosperm of the grains (seeds) of wheat and other grasses; when acted upon by gibberellin, the aleurone layer releases enzymes that digest the stored food of the endosperm into small nutrient molecules that can be taken up by the embryo.
+
+alga pl. algae
+(al-gah, al-jee)
+A photosynthetic, plantlike protist.
+
+alkaline
+Pertaining to substances that increase the relative number of hydroxide ions (OH-) in a solution; having a pH greater than 7; basic; opposite of acidic.
+
+all-or-none event
+An action that occurs either completely or not at all, such as the generation of an action potential by a neuron.
+
+allantois
+(al-an-toh-iss) [Gk. allant, sausage]
+One of four extraembryonic membranes; serves as a repository for the embryo's nitrogenous waste.
+
+allele
+(al-eel) [Gk. allelon, of one another]
+An alternative form of a gene.
+
+allele frequency
+The proportion of a particular allele in a population.
+
+allergic reaction
+An inflammatory response triggered by a weak antigen (an allergen) to which most individuals do not react; involves the release of large amounts of histamine from mast cells.
+
+allometric growth
+(al-oh-met-rik)
+The variation in the relative rates of growth of various parts of the body, which helps shape the organism.
+
+allopatric speciation
+(al-oh-pat-rik) [Gk. allos, other + patra, fatherland, country]
+A mode of speciation induced when the ancestral population becomes segregated by a geographical barrier.
+
+allopolyploid
+(al-oh-pol-ee-ploid)
+A common type of polyploid species resulting from two different species interbreeding and combining their chromosomes.
+
+allosteric site
+(al-oh-steer-ik)
+A specific receptor site on an enzyme molecule remote from the active site. Molecules bind to the allosteric site and change the shape of the active site, making it either more or less receptive to the substrate.
+
+allozymes
+Slightly different versions of the same enzyme, distinguishable via gel electrophoresis.
+
+alpha helix
+A spiral shape constituting one form of the secondary structure of proteins, arising from a specific hydrogen-bonding structure.
+
+alternation of generations
+A life cycle in which there is both a multicellular diploid form, the sporophyte, and a multicellular haploid form, the gametophyte; characteristic of plants.
+
+alternative splicing
+In alternative splicing, the same pre-mRNA molecule, which consists of introns and exons, is spliced in different ways to produce mature mRNAs of different lengths and different functionality.
+
+altruistic behavior
+(al-troo-is-tik)
+The aiding of another individual at one's own risk or expense.
+
+alveolus pl. alveoli
+(al-vee-oh-lus) [L. dim. of alveus, cavity, hollow]
+(1) One of the deadend, multilobed air sacs that constitute the gas exchange surface of the lungs. (2) One of the milk-secreting sacs of epithelial tissue in the mammary glands.
+
+amino acid
+(am-ee-no) [Gk. Ammon, referring to the Egyptian sun god, near whose temple ammonium salts were first prepared from camel dung]
+An organic molecule possessing both carboxyl and amino groups. Amino acids serve as the monomers of proteins.
+
+amino group
+A functional group that consists of a nitrogen atom bonded to two hydrogen atoms; can act as a base in solution, accepting a hydrogen ion and acquiring a charge of +1.
+
+aminoacyltRNA synthetases
+A family of enzymes, at least one for each amino acid, that catalyze the attachment of an amino acid to its specific tRNA molecule.
+
+ammonification
+The process by which decomposers break down proteins and amino acids, releasing the excess nitrogen in the form of ammonia (NH3) or ammonium ion (NH4+).
+
+amniocentesis
+(am-nee-oh-sen-tee-sis)
+A technique for determining genetic abnormalities in a fetus by the presence of certain chemicals or defective fetal cells in the amniotic fluid, obtained by aspiration from a needle inserted into the uterus.
+
+amnion
+(am-nee-on) [Gk. dim. of amnos, lamb]
+The innermost of four extraembryonic membranes; encloses a fluid-filled sac in which the embryo is suspended.
+
+amniote
+A vertebrate possessing an amnion surrounding the embryo; reptiles, birds, and mammals are amniotes.
+
+amniotic egg
+A shelled, water-retaining egg that enables reptiles, birds, and egg-laying mammals to complete their life cycles on dry land.
+
+amoeboid
+[Gk. amoibe, change]
+Moving or feeding by means of pseudopodia (temporary cytoplasmic protrusions from the cell body).
+
+AMP
+Abbreviation of adenosine monophosphate.
+
+Amphibia
+The vertebrate class of amphibians, represented by frogs, salamanders, and caecilians.
+
+amphipathic molecule
+A molecule that has both a hydrophilic region and a hydrophobic region.
+
+anabolic steroids
+Synthetic chemical variants of the male sex hormone testosterone; they produce increased muscle mass but also suppress testosterone production, leading to shrinkage of the testes, growth of the breasts, and premature baldness; long-term use increases the risk of kidney and liver damage and of liver cancer.
+
+anabolism
+[Gk. ana, up + -bolism (as in metabolism)]
+Within a cell or organism, the sum of all biosynthetic reactions (that is, chemical reactions in which larger molecules are formed from smaller ones).
+
+anaerobic
+(an-air-oh-bik) [Gk. an, without + aer, air + bios, life]
+Lacking oxygen; referring to an organism, environment, or cellular process that lacks oxygen and may be poisoned by it.
+
+anagenesis
+(an-uh-jen-eh-sis)
+A pattern of evolutionary change involving the transformation of an entire population, sometimes to a state different enough from the ancestral population to justify renaming it as a separate species; also called phyletic evolution.
+
+analogy
+The similarity of structure between two species that are not closely related; attributable to convergent evolution.
+
+analogous
+[Gk. analogos, proportionate]
+Applied to structures similar in function but different in evolutionary origin, such as the wing of a bird and the wing of an insect.
+
+anaphase
+(anna-phase) [Gk. ana, up + phasis, form]
+The third stage of mitosis, beginning when the centromeres of duplicated chromosomes divide and sister chromotids separate from each other, and ending when a complete set of daughter chromosomes are located at each of the two poles of the cell.
+
+androgen
+(an-droh-jens) [Gk. andros, man + genos, origin, descent]
+The principal male steroid hormones, such as testosterone, which stimulate the development and maintenance of the male reproductive system and secondary sex characteristics.
+
+aneuploidy
+(an-yoo-ploy-dee)
+A chromosomal aberration in which certain chromosomes are present in extra copies or are deficient in number.
+
+angiosperm
+(an-jee-o-sperms) [Gk. angeion, vessel + sperma, seed]
+A flowering plant, which forms seeds inside a protective chamber called an ovary.
+
+anion
+(an-eye-on)
+A negatively charged ion.
+
+annual
+[L. annus, year]
+A plant that completes its entire life cycle in a single year or growing season.
+
+antennae
+Long, paired sensory appendages on the head of many arthropods.
+
+anterior
+[L. ante, before, toward, in front of]
+Referring to the head end of a bilaterally symmetrical animal.
+
+anther
+[Gk. anthos, flower]
+The terminal pollen sac of a stamen, inside which pollen grains with male gametes form in the flower of an angiosperm.
+
+antheridium pl. antheridia
+In plants, the male gametangium, a moist chamber in which gametes develop.
+
+anthocyanin
+Natural water-soluble pigments of blue, purple or red which are dissolved in the cell-sap vacuole of plant cells.
+
+anthropoid
+[Gk. anthropos, man, human]
+A higher primate; includes monkeys, apes, and humans.
+
+antibiotic
+[Gk. anti, against + bios, life]
+A chemical that kills bacteria or inhibits their growth.
+
+antibody
+[Gk. anti, against]
+An antigen-binding immunoglobulin, produced by B cells, that functions as the effector in an immune response.
+
+anticodon
+A specialized base triplet on one end of a tRNA molecule that recognizes a particular complementary codon on an mRNA molecule.
+
+antidiuretic hormone (ADH)
+[Gk. anti, against + diurgos, thoroughly wet + hormaein, to excite]
+A hormone important in osmoregulation.
+
+antigen
+(an-teh-jen) [Gk. anti, against + genos, origin, descent]
+A foreign macromolecule that does not belong to the host organism and that elicits an immune response.
+
+aorta
+(a-ore-ta) [Gk. aeirein, to lift, heave]
+The major artery in blood-circulating systems; the aorta sends blood to the other body tissues.
+
+aphotic zone
+(ay-foe-tik) [Gk. aeirein, to lift, heave]
+The part of the ocean beneath the photic zone, where light does not penetrate sufficiently for photosynthesis to occur.
+
+apical dominance
+(ay-pik-ul) [L. apex, top]
+Concentration of growth at the tip of a plant shoot, where a terminal bud partially inhibits axillary bud growth.
+
+apical meristem
+(ay-pik-ul mare-eh-stem) [L. apex, top + Gk. meristos, divided]
+Embryonic plant tissue in the tips of roots and in the buds of shoots that supplies cells for the plant to grow in length.
+
+apomorphic character
+(ap-oh-more-fik)
+A derived phenotypic character, or homology, that evolved after a branch diverged from a phylogenetic tree.
+
+apoplast
+(ap-oh-plast)
+In plants, the nonliving continuum formed by the extracellular pathway provided by the continuous matrix of cell walls.
+
+apoptosis
+Programmed cell death brought about by signals that trigger the activation of a cascade of "suicide" proteins in the cells destined to die.
+
+aposematic coloration
+(ap-oh-so-mat-ik)
+The bright coloration of animals with effective physical or chemical defenses that acts as a warning to predators.
+
+aquaporin
+A transport protein in the plasma membranes of a plant or animal cell that specifically facilitates the diffusion of water across the membrane (osmosis).
+
+aqueous solution
+(ay-kwee-us)
+A solution in which water is the solvent.
+
+arboreal
+[L. arbor, tree]
+Tree-dwelling.
+
+Archaea
+One of two prokaryotic domains, the other being the Bacteria.
+
+archegonium pl. archegonia
+(ar-kih-go-nee-um) [Gk. archegonos, first of a race]
+In plants, the female gametangium, a moist chamber in which gametes develop.
+
+archenteron
+(ark-en-ter-on) [Gk. arch, first, or main + enteron, gut]
+The endoderm-lined cavity, formed during the gastrulation process, that develops into the digestive tract of an animal.
+
+Archezoa
+Primitive eukaryotic group that includes diplomonads, such as Giardia; some systematists assign kingdom status to archezoans.
+
+arteriole
+A very small artery. See also artery.
+
+artery
+A vessel that carries blood away from the heart to organs throughout the body.
+
+arteriosclerosis
+A cardiovascular disease caused by the formation of hard plaques within the arteries.
+
+artificial selection
+The selective breeding of domesticated plants and animals to encourage the occurrence of desirable traits.
+
+ascus pl. asci
+A saclike spore capsule located at the tip of the ascocarp in dikaryotic hyphae; defining feature of the Ascomycota division of fungi.
+
+asexual reproduction
+A type of reproduction involving only one parent that produces genetically identical offspring by budding or by the division of a single cell or the entire organism into two or more parts.
+
+assimilation
+The energy-requiring process by which plant cells convert nitrate ions (NO3-) taken up by the roots of plants into ammonium ions (NH4+), which can then be used in the synthesis of amino acids and other nitrogenous compounds.
+
+associative learning
+The acquired ability to associate one stimulus with another; also called classical conditioning.
+
+assortative mating
+A type of nonrandom mating in which mating partners resemble each other in certain phenotypic characters.
+
+asymmetric carbon
+A carbon atom covalently bonded to four different atoms or groups of atoms.
+
+atmospheric pressure
+[Gk. atmos, vapor + sphaira, globe]
+The weight of the Earth's atmosphere over a unit area of the Earth's surface.
+
+atom
+[Gk. atomos, indivisible]
+The smallest unit of matter that retains the properties of an element.
+
+atomic number
+The number of protons in the nucleus of an atom, unique for each element and designated by a subscript to the left of the elemental symbol.
+
+atomic weight
+The total atomic mass, which is the mass in grams of one mole of the atom.
+
+ATP
+Abbreviation of adenosine triphosphate, the principal energy-carrying compound of the cell.
+
+ATP synthase
+A cluster of several membrane proteins found in the mitochondrial cristae (and bacterial plasma membrane) that function in chemiosmosis with adjacent electron transport chains, using the energy of a hydrogen-ion concentration gradient to make ATP. ATP synthases provide a port through which hydrogen ions diffuse into the matrix of a mitrochondrion.
+
+atrioventricular node
+[L. atrium, yard, court, hall + ventriculus, the stomach + nodus, knot]
+A group of slow-conducting fibers in the atrium of the vertebrate heart that are stimulated by impulses originating in the sinoatrial node (the pacemaker) and that conduct impulses to the bundle of His, a group of fibers that stimulate contraction of the ventricles.
+
+atrioventricular valve
+A valve in the heart between each atrium and ventricle that prevents a backflow of blood when the ventricles contract.
+
+atrium pl. atria
+(a-tree-um) [L. yard, court, hall]
+A chamber that receives blood returning to the vertebrate heart.
+
+autogenesis model
+According to this model, eukaryotic cells evolved by the specialization of internal membranes originally derived from prokaryotic plasma membranes.
+
+autoimmune disease
+An immunological disorder in which the immune system turns against itself.
+
+autonomic nervous system
+(awt-uh-nahm-ik) [Gk. autos, self + nomos, usage, law]
+A subdivision of the motor nervous system of vertebrates that regulates the internal environment; consists of the sympathetic and parasympathetic divisions.
+
+autopolyploid
+(aw-toe-pol-ee-ploid)
+A type of polyploid species resulting from one species doubling its chromosome number to become tetraploid, which may self-fertilize or mate with other tetraploids.
+
+autosome
+(awtuh-some) [Gk. autos, self + soma, body]
+A chromosome that is not directly involved in determining sex, as opposed to the sex chromosomes.
+
+autotroph
+(aw-toh-trohf) [Gk. autos, self + trophos, feeder]
+An organism that obtains organic food molecules without eating other organisms. Autotrophs use energy from the sun or from the oxidation of inorganic substances to make organic molecules from inorganic ones.
+
+auxin
+(awk-sins) [Gk. auxein, to increase + in, of, or belonging to]
+A class of plant hormones, including indoleacetic acid (IAA), having a variety of effects, such as phototropic response through the stimulation of cell elongation, stimulation of secondary growth, and the development of leaf traces and fruit.
+
+auxotroph
+(awk-soh-trohf)
+A nutritional mutant that is unable to synthesize and that cannot grow on media lacking certain essential molecules normally synthesized by wild-type strains of the same species.
+
+Aves
+The vertebrate class of birds, characterized by feathers and other flight adaptations.
+
+axillary bud
+[Gk. axilla, armpit]
+An embryonic shoot present in the angle formed by a leaf and stem.
+
+axis
+An imaginary line passing through a body or organ around which parts are symmetrically aligned.
+
+axon
+(aks-on) [Gk. axon, axle]
+A typically long extension, or process, from a neuron that carries nerve impulses away from the cell body toward target cells.

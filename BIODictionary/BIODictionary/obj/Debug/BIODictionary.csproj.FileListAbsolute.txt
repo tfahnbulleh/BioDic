@@ -1,0 +1,18 @@
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\bin\Debug\BIODictionary.exe.config
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\bin\Debug\BIODictionary.exe
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\bin\Debug\BIODictionary.pdb
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.csprojResolveAssemblyReference.cache
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.Form1.resources
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.Properties.Resources.resources
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.csproj.GenerateResource.Cache
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.exe
+c:\users\tamu\documents\visual studio 2017\Projects\BIODictionary\BIODictionary\obj\Debug\BIODictionary.pdb
+G:\BIODictionary\BIODictionary\bin\Debug\BIODictionary.exe.config
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.exe
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.pdb
+G:\BIODictionary\BIODictionary\bin\Debug\BIODictionary.exe
+G:\BIODictionary\BIODictionary\bin\Debug\BIODictionary.pdb
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.csprojResolveAssemblyReference.cache
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.Form1.resources
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.Properties.Resources.resources
+G:\BIODictionary\BIODictionary\obj\Debug\BIODictionary.csproj.GenerateResource.Cache

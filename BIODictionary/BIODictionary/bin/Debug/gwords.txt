@@ -1,0 +1,240 @@
+G protein
+A GTP-binding protein that relays signals from a plasma-membrane signal receptor, known as a G-protein linked receptor, to other signal-transduction proteins inside the cell. When such a receptor is activated, it in turn activates the G protein, causing it to bind a molecule of GTP in place of GDP. Hydrolysis of the bound GTP to GDP inactivates the G protein.
+
+G-protein linked receptor
+A signal receptor protein in the plasma membrane that responds to the binding of a signal molecule by activating a G protein.
+
+G1 phase
+The first growth phase of the cell cycle, consisting of the portion of interphase before DNA synthesis begins.
+
+G2 phase
+The second growth phase of the cell cycle, consisting of the portion of interphase after DNA synthesis occurs.
+
+gametangium pl. gametangia
+(gam-eh-tanj-ee-um) [Gk. gamein, to marry + L. tangere, to touch]
+The reproductive organ of bryophytes, consisting of the male antheridium and female archegonium; a multichambered jacket of sterile cells in which gametes are formed.
+
+gamete
+(gam-eet) [Gk. wife]
+A haploid egg or sperm cell; gametes unite during sexual reproduction to produce a diploid zygote.
+
+gametophyte
+(guh-mee-toh-fite)
+The multicellular haploid form in organisms undergoing alternation of generations, which mitotically produces haploid gametes that unite and grow into the sporophyte generation.
+
+ganglion pl. ganglia
+(gang-lee-un) (gang-lee-ah) [Gk. ganglion, a swelling]
+A cluster (functional group) of nerve cell bodies in a centralized nervous system.
+
+gap junction
+A type of intercellular junction in animal cells that allows the passage of material or current between cells.
+
+gap phases
+In the cell cycle, the phases that precede (G1) and follow (G2) the synthesis (S) phase in which DNA is replicated; in the G1 phase, the cell doubles in size, and its enzymes, ribosomes, and other cytoplasmic molecules and structures increase in number; in the G2 phase, the replicated chromosomes begin to condense and the structures required for mitosis or meiosis are assembled.
+
+gastric
+[Gk. gaster, stomach]
+Pertaining to the stomach.
+
+gastrin
+A digestive hormone, secreted by the stomach, that stimulates the secretion of gastric juice.
+
+gastrovascular cavity
+[Gk. gaster, stomach + L. vasculum, a small vessel]
+The central digestive compartment, usually with a single opening that functions as both mouth and anus.
+
+gastrula
+(gas-troo-la) [Gk. gaster, stomach]
+The two-layered, cup-shaped embryonic stage.
+
+gastrulation
+(gas-truh-lay-shun)
+The formation of a gastrula from a blastula.
+
+gated ion channel
+A specific ion channel that opens and closes to allow the cell to alter its membrane potential.
+
+Gause's principle
+See Competitive exclusion principle.
+
+gel electrophoresis
+(jell eh-lek-troh-for-ee-sis)
+The separation of nucleic acids or proteins, on the basis of their size and electrical charge, by measuring their rate of movement through an electrical field in a gel.
+
+gene
+[Gk. genos, birth, race; L. genus, birth, race, origin]
+A discrete unit of hereditary information consisting of a specific nucleotide sequence in DNA (or RNA, in some viruses).
+
+gene amplification
+The selective synthesis of DNA, which results in multiple copies of a single gene, thereby enhancing expression.
+
+gene cloning
+The production of multiple copies of a gene.
+
+gene flow
+The loss or gain of alleles from a population due to the emigration or immigration of fertile individuals, or the transfer of gametes, between populations.
+
+gene pool
+The total aggregate of genes in a population at any one time.
+
+genetic code
+The system of nucleotide triplets in DNA and RNA that carries genetic information; referred to as a code because it determines the amino acid sequence in the enzymes and other protein molecules synthesized by the organism.
+
+genetic drift
+Changes in the gene pool of a small population due to chance.
+
+genetic isolation
+The absence of genetic exchange between populations or species as a result of geographic separation or of premating or postmating mechanisms (behavioral, anatomical, or physiological) that prevent reproduction.
+
+genetic map
+An ordered list of genetic loci (genes or other genetic markers) along a chromosome.
+
+genetic recombination
+The general term for the production of offspring that combine traits of the two parents.
+
+genome
+(jee-nome)
+The complete complement of an organism's genes; an organism's genetic material.
+
+genomic imprinting
+The parental effect on gene expression. Identical alleles may have different effects on offspring, depending on whether they arrive in the zygote via the ovum or via the sperm.
+
+genomic library
+A set of thousands of DNA segments from a genome, each carried by a plasmid, phage, or other cloning vector.
+
+genotype
+(jee-noh-type)
+The genetic makeup of an organism.
+
+genus pl. genera
+(jee-nus) [L. genus, race, origin]
+A taxonomic category above the species level, designated by the first word of a species' binomial Latin name.
+
+geographical range
+The geographic area in which a population lives.
+
+geological time scale
+A time scale established by geologists that reflects a consistent sequence of historical periods, grouped into four eras: Precambrian, Paleozoic, Mesozoic, and Cenozoic.
+
+germ cells
+[L. germinare, to bud]
+Gametes or the cells that give rise to gametes.
+
+germination
+[L. germinare, to bud]
+In plants, the resumption of growth or the development from seed or spore.
+
+gibberellin
+(jib-ur-el-in) [Fr. gibberella, genus of fungi]
+A class of related plant hormones that stimulate growth in the stem and leaves, trigger the germination of seeds and breaking of bud dormancy, and stimulate fruit development with auxin.
+
+gill
+A localized extension of the body surface of many aquatic animals, specialized for gas exchange.
+
+gland
+[L. glans, glandis, acorn]
+A structure composed of modified epithelial cells specialized to produce one or more secretions that are discharged to the outside of the gland.
+
+glial cell
+(glee-ul) [Gk. glia, glue + L. cella, a chamber]
+A nonconducting cell of the nervous system that provides support, insulation, and protection for the neurons.
+
+globular protein
+[L. dim. of globus, a ball]
+A polypeptide chain folded into a roughly spherical shape.
+
+glomerulus
+(gluh-mare-yoo-lus) [L. glomus, ball]
+A ball of capillaries surrounded by Bowman's capsule in the nephron and serving as the site of filtration in the vertebrate kidney.
+
+glucagon
+[Gk. glykys, sweet + ago, to lead toward]
+A peptide hormone secreted by pancreatic endocrine cells that raises blood glucose levels; an antagonistic hormone to insulin.
+
+glucocorticoid
+A corticosteroid hormone secreted by the adrenal cortex that influences glucose metabolism and immune function.
+
+glucose
+[Gk. glykys, sweet]
+A six-carbon sugar (C6H12O6); the most common monosaccharide in animals.
+
+glycerol
+A three-carbon molecule with three hydroxyl (-OH) groups attached; a glycerol molecule can combine with three fatty acid molecules to form a fat or an oil.
+
+glycocalyx
+(gly-koh-kay-liks)
+A fuzzy coat on the outside of animal cells, made of sticky oligosaccharides.
+
+glycogen
+(gly-koh-jen) [Gk. glykys, sweet + genos, race or descent]
+An extensively branched glucose storage polysaccharide found in the liver and muscle of animals; the animal equivalent of starch.
+
+glycolipids
+[Gk. glykys, sweet + lipos, fat]
+Organic molecules similar in structure to fats, but in which a short carbohydrate chain rather than a fatty acid is attached to the third carbon of the glycerol molecule; as a result, the molecule has a hydrophilic "head" and a hydrophobic "tail." Glycolipids are important constituents of the plasma membrane and of organelle membranes.
+
+glycolysis
+(gly-kol-eh-sis) [Gk. glykys, sweet + lysis, loosening]
+The splitting of glucose into pyruvate. Glycolysis is the one metabolic pathway that occurs in all living cells, serving as the starting point for fermentation or aerobic respiration.
+
+glycoprotein
+[Gk. glykys, sweet + proteios, primary]
+A protein with covalently attached carbohydrate.
+
+Golgi apparatus
+(goal-jee)
+An organelle in eukaryotic cells consisting of stacks of flat membranous sacs that modify, store, and route products of the endoplasmic reticulum.
+
+gonadotropins
+(goh-nad-oh-troh-pinz) [Gk. gone, seed + trope, a turning]
+Hormones that stimulate the activities of the testes and ovaries; a collective term for follicle-stimulating and luteinizing hormones.
+
+gonads
+[Gk. gone, seed]
+The male and female sex organs; the gamete-producing organs in most animals.
+
+graded potential
+A local voltage change in a neuron membrane induced by stimulation of a neuron, with strength proportional to the strength of the stimulus and lasting about a millisecond.
+
+gradualism
+A view of Earth's history that attributes profound change to the cumulative product of slow but continuous processes.
+
+Gram stain
+A staining method that distinguishes between two different kinds of bacterial cell walls.
+
+granum pl. grana
+(gran-um) [L. grain or seed]
+A stacked portion of the thylakoid membrane in the chloroplast. Grana function in the light reactions of photosynthesis.
+
+gravitropism
+(grav-eh-troh-piz-um) [L. gravis, heavy + Gk. trope, turning]
+A response of a plant or animal in relation to gravity.
+
+greenhouse effect
+The warming of planet Earth due to the atmospheric accumulation of carbon dioxide, which absorbs infrared radiation and slows its escape from the irradiated Earth.
+
+gross primary productivity (GPP)
+The total primary productivity of an ecosystem.
+
+gross productivity
+A measure of the rate at which energy is assimilated by the organisms in a trophic level, a community, or an ecosystem.
+
+ground meristem
+[Gk. merizein, to divide]
+A primary meristem that gives rise to ground tissue in plants.
+
+ground tissue system
+A tissue of mostly parenchyma cells that makes up the bulk of a young plant and fills the space between the dermal and vascular tissue systems.
+
+growth factor
+A protein that must be present in the extracellular environment (culture medium or animal body) for the growth and normal development of certain types of cells.
+
+guard cell
+A specialized epidermal plant cell that forms the boundaries of the stomata.
+
+guttation
+The exudation of water droplets caused by root pressure in certain plants.
+
+gymnosperm
+(jim-noh-spurm) [Gk. gymnos, naked + sperma, seed]
+A vascular plant that bears naked seeds not enclosed in any specialized chambers.

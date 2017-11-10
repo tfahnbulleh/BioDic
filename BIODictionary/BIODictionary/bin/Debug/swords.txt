@@ -1,0 +1,527 @@
+S phase
+The synthesis phase of the cell cycle, constituting the portion of interphase during which DNA is replicated.
+
+SA (sinoatrial) node
+The pacemaker of the heart, located in the wall of the right atrium. At the base of the wall separating the two atria is another patch of nodal tissue called the atrioventricular node (AV).
+
+saltatory conduction
+(sahl-tuh-tor-ee)
+Rapid transmission of a nerve impulse along an axon resulting from the action potential jumping from one node of Ranvier to another, skipping the myelin-sheathed regions of membrane.
+
+saprobe
+[Gk. sapros, rotten, putrid + bios, life]
+An organism that acts as a decomposer by absorbing nutrients from dead organic matter.
+
+sarcolemma
+[Gk. sarx, the flesh + lemma, husk]
+The specialized plasma membrane surrounding a muscle cell (muscle fiber); capable of propagating action potentials.
+
+sarcomere
+[Gk. sarx, the flesh + meris, part of, portion]
+The fundamental, repeating unit of striated muscle, delimited by the Z lines.
+
+sarcoplasmic reticulum
+(sar-koh-plaz-mik reh-tik-yoo-lum) [Gk. sarx, the flesh + plasma, from cytoplasm + L. reticulum, network]
+A modified form of endoplasmic reticulum in striated muscle cells that stores calcium used to trigger contraction during stimulation.
+
+saturated fatty acid
+A fatty acid in which all carbons in the hydrocarbon tail are connected by single bonds, thus maximizing the number of hydrogen atoms that can attach to the carbon skeleton.
+
+savanna
+(suh-van-uh)
+A tropical grassland biome with scattered individual trees, large herbivores, and three distinct seasons based primarily on rainfall, maintained by occasional fires and drought.
+
+Schwann cells
+A chain of supporting cells enclosing the axons of many neurons and forming an insulating layer called the myelin sheath.
+
+sclereid
+(skler-ee-id)
+A short, irregular sclerenchyma cell in nutshells and seed coats and scattered through the parenchyma of some plants.
+
+sclerenchyma cell
+[Gk. skleros, hard]
+A rigid, supportive plant cell type usually lacking protoplasts and possessing thick secondary walls strengthened by lignin at maturity.
+
+second law of thermodynamics
+The principle whereby every energy transfer or transformation increases the entropy of the universe. Ordered forms of energy are at least partly converted to heat, and in spontaneous reactions, the free energy of the system also decreases.
+
+second messenger
+A small, nonprotein, water-soluble molecule or ion, such as calcium ion or cyclic AMP, that relays a signal to a cell's interior in response to a signal received by a signal receptor protein.
+
+secondary compound
+A chemical compound synthesized through the diversion of products of major metabolic pathways for use in defense by prey species.
+
+secondary consumer
+A member of the trophic level of an ecosystem consisting of carnivores that eat herbivores.
+
+secondary growth
+The increase in girth of the stems and roots of many plants, especially woody, perennial dicots.
+
+secondary immune response
+The immune response elicited when an animal encounters the same antigen at some later time. The secondary immune response is more rapid, of greater magnitude, and of longer duration than the primary immune response.
+
+secondary productivity
+The rate at which all the heterotrophs in an ecosystem incorporate organic material into new biomass, which can be equated to chemical energy.
+
+secondary sex characteristics
+Characteristics of animals that distinguish between the two sexes but that do not produce or convey gametes; includes facial hair of the human male and enlarged hips and breasts of the female.
+
+secondary structure
+The localized, repetitive coiling or folding of the polypeptide backbone of a protein due to hydrogen bond formation between peptide linkages.
+
+secondary succession
+A type of succession that occurs where an existing community has been severely cleared by some disturbance.
+
+secretion
+[L. secermere, to sever, separate]
+(1) The discharge of molecules synthesized by the cell. (2) In the vertebrate kidney, the discharge of wastes from the blood into the filtrate from the nephron tubules.
+
+sedimentary rock
+(sed-eh-men-tar-ee)
+Rock formed from sand and mud that once settled in layers on the bottom of seas, lakes, and marshes. Sedimentary rocks are often rich in fossils.
+
+seed
+An adaptation for terrestrial plants consisting of an embryo packaged along with a store of food within a resistant coat.
+
+segregation
+See Mendel's first law.
+
+selection
+The process by which the forms of organisms in a population that are better adapted to the environmental conditions increase in frequency relative to less well-adapted forms over a number of generations.
+
+selection coefficient
+The difference between two fitness values, representing a relative measure of selection against an inferior genotype.
+
+selective permeability
+[L. seligere, to gather apart + permeare, to go through]
+A property of biological membranes that allows some substances to cross more easily than others.
+
+selective pressure
+An environmental factor that favors the survival and reproduction of those genetic variants within a population that are better adapted to the environment.
+
+self-incompatibility
+The capability of certain flowers to block fertilization by pollen from the same or a closely related plant.
+
+self-fertilization
+The union of egg and sperm produced by a single hermaphroditic organism.
+
+self-pollination
+The transfer of pollen from anther to stigma in the same flower or to another flower of the same plant, leading to self-fertilization.
+
+semen
+(see-men) [L. seed]
+The fluid that is ejaculated by the male during orgasm; contains sperm and secretions from several glands of the male reproductive tract.
+
+semicircular canals
+A three-part chamber of the inner ear that functions in maintaining equilibrium.
+
+semilunar valve
+A valve located at the two exits of the heart, where the aorta leaves the left ventricle and the pulmonary artery leaves the right ventricle.
+
+seminal vesicle
+[L. semen, seed + vesicula, a little bladder]
+A gland in males that secretes a fluid (a component of semen) that lubricates and nourishes sperm.
+
+seminiferous tubules
+[L. semen, seed + ferre, to bear or carry + dim. of tubus, tube]
+Highly coiled tubes in the testes in which sperm are produced.
+
+sensation
+An impulse sent to the brain from activated receptors and sensory neurons.
+
+sensory neuron
+A nerve cell that receives information from the internal and external environments and transmits the signals to the central nervous system.
+
+sensory receptor
+A specialized structure that responds to specific stimuli from an animal's external or internal environment; transmits the information of an environmental stimulus to the animal's nervous system by converting stimulus energy to the electrochemical energy of action potentials.
+
+sepal
+(see-pul)
+A whorl of modified leaves in angiosperms that encloses and protects the flower bud before it opens.
+
+septum
+[L. fence]
+A partition, or cross wall, that divides a structure, such as a fungal hypha, into compartments.
+
+sessile
+[L. sedere, to sit]
+Attached; not free to move about.
+
+sex chromosomes
+The pair of chromosomes responsible for determining the sex of an individual.
+
+sex-linked genes
+Genes located on one sex chromosome but not the other.
+
+sex-linked trait
+An inherited trait, such as color discrimination, determined by a gene located on a sex chromosome and that therefore shows a different pattern of inheritance in males and females.
+
+sexual dimorphism
+(dy-mor-fiz-um)
+A special case of polymorphism based on the distinction between the secondary sex characteristics of males and females.
+
+sexual reproduction
+A type of reproduction in which two parents give rise to offspring that have unique combinations of genes inherited from the gametes of the two parents.
+
+sexual selection
+Selection based on variation in secondary sex characteristics, leading to the enhancement of sexual dimorphism.
+
+shoot system
+The aerial portion of a plant body, consisting of stems, leaves, and flowers.
+
+short-day plant
+A plant that flowers, usually in late summer, fall, or winter, only when the light period is shorter than a critical length.
+
+sieve tube member
+A chain of living cells that form sieve tubes in phloem.
+
+sign stimulus
+An external sensory stimulus that triggers a fixed action pattern.
+
+signal peptide
+A stretch of amino acids on polypeptides that targets proteins to specific destinations in eukaryotic cells.
+
+signal-transduction pathway
+A mechanism linking a mechanical or chemical stimulus to a cellular response.
+
+sink habitat
+A habitat where mortality exceeds reproduction.
+
+sinoatrial node
+[L. sinus, fold, hollow + atrium, yard, court, hall + nodus, knot]
+Area of the vertebrate heart that initiates the heartbeat; located where the superior vena cava enters the right atrium; the pacemaker.
+
+sister chromatids
+(kroh-muh-tidz)
+Replicated forms of a chromosome joined together by the centromere and eventually separated during mitosis or meiosis II.
+
+skeletal muscle
+Striated muscle generally responsible for the voluntary movements of the body.
+
+sliding-filament model
+The theory explaining how muscle contracts, based on change within a sarcomere, the basic unit of muscle organization, stating that thin (actin) filaments slide across thick (myosin) filaments, shortening the sarcomere; the shortening of all sarcomeres in a myofibril shortens the entire myofibril.
+
+small nuclear ribonucleoprotein (snRNP)
+(ry-boh-noo-klee-oh-pro-teen)
+One of a variety of small particles in the cell nucleus, composed of RNA and protein molecules; functions are not fully understood, but some form parts of spliceosomes, active in RNA splicing.
+
+smooth ER
+That portion of the endoplasmic reticulum that is free of ribosomes.
+
+smooth muscle
+A type of muscle lacking the striations of skeletal and cardiac muscle because of the uniform distribution of myosin filaments in the cell.
+
+social dominance
+A hierarchical pattern of social organization involving domination of some members of a group by other members in a relatively orderly and long-lasting pattern.
+
+society
+[L. socius, companion]
+An organization of individuals of the same species in which there are divisions of resources, divisions of labor, and mutual dependence; a society is held together by stimuli exchanged among members of the group.
+
+sociobiology
+The study of social behavior based on evolutionary theory.
+
+sodium-potassium pump
+A special transport protein in the plasma membrane of animal cells that transports sodium out of and potassium into the cell against their concentration gradients.
+
+solute
+(sol-yoot)
+A substance that is dissolved in a solution.
+
+solution
+A homogeneous, liquid mixture of two or more substances.
+
+solvent
+The dissolving agent of a solution. Water is the most versatile solvent known.
+
+somatic cell
+[Gk. soma, body]
+Any cell in a multicellular organism except a sperm or egg cell.
+
+somatic nervous system
+[Gk. soma, body]
+The branch of the motor division of the vertebrate peripheral nervous system composed of motor neurons that carry signals to skeletal muscles in response to external stimuli.
+
+somatotropin
+[Gk. soma, body + trope, a turning]
+A hormone, produced by the pituitary gland, that stimulates protein synthesis and promotes the growth of bone; also known as growth hormone.
+
+source habitat
+A habitat where reproduction exceeds mortality and from which excess individuals disperse.
+
+Southern blotting
+A hybridization technique that enables researchers to determine the presence of certain nucleotide sequences in a sample of DNA.
+
+specialized
+(1) Of cells, having particular functions in a multicellular organism. (2) Of organisms, having special adaptations to a particular habitat or mode of life.
+
+speciation
+The origin of new species in evolution.
+
+species pl. species
+[L. kind, sort]
+A particular kind of organism; members possess similar anatomical characteristics and have the ability to interbreed.
+
+species diversity
+The number and relative abundance of species in a biological community.
+
+species richness
+The number of species in a biological community.
+
+species selection
+A theory maintaining that species living the longest and generating the greatest number of species determine the direction of major evolutionary trends.
+
+species-specific
+Characteristic of (and limited to) a particular species.
+
+specific
+Unique; for example, the proteins in a given organism, the enzyme catalyzing a given reaction, or the antibody to a given antigen.
+
+specific heat
+The amount of heat that must be absorbed or lost for 1 g of a substance to change its temperature 1°C.
+
+spectrophotometer
+An instrument that measures the proportions of light of different wavelengths absorbed and transmitted by a pigment solution.
+
+sperm
+[Gk. sperma, seed]
+A male gamete.
+
+spermatid
+[Gk. sperma, seed]
+Each of four haploid (n) cells resulting from the meiotic divisions of a spermatocyte; each spermatid becomes differentiated into a sperm cell.
+
+spermatocytes
+[Gk. sperma, seed + kytos, vessel]
+The diploid (2n) cells formed by the enlargement and differentiation of the spermatogonia; they give rise by meiotic division to the spermatids.
+
+spermatogonia
+[Gk. sperma, seed + gonos, a child, the young]
+The unspecialized diploid (2n) cells on the walls of the seminiferous tubules that, by enlargement, differentiation, and meiotic division, become spermatocytes, then spermatids, then sperm cells.
+
+spermatogenesis
+The continuous and prolific production of mature sperm cells in the testis.
+
+sphincter
+(sfink-ter) [Gk. sphinkter, a band]
+A ringlike valve, consisting of modified muscles in a muscular tube, such as a digestive tract; closes off the tube like a drawstring.
+
+spinal cord
+Part of the vertebrate central nervous system; consists of a thick, dorsal, longitudinal bundle of nerve fibers extending posteriorly from the brain.
+
+spindle
+An assemblage of microtubules that orchestrates chromosome movement during eukaryotic cell division.
+
+spiracle
+[L. spirare, to breathe]
+One of the external openings of the respiratory system in terrestrial arthropods.
+
+spiral cleavage
+A type of embryonic development in protostomes, in which the planes of cell division that transform the zygote into a ball of cells occur obliquely to the polar axis, resulting in cells of each tier sitting in the grooves between cells of adjacent tiers.
+
+spliceosome
+(sply-see-oh-some)
+A complex assembly that interacts with the ends of an RNA intron in splicing RNA; releases an intron and joins two adjacent exons.
+
+splitting evolution
+See Cladogenesis.
+
+spongy parenchyma
+In plant leaves, a tissue composed of loosely arranged chloroplast-containing parenchyma cells.
+
+sporangiophore
+(spo-ran-ji-o-for) [Gk. spora, seed + phore, from phorein, to bear]
+A specialized hypha or a branch bearing one or more sporangia.
+
+sporangium pl. sporangia
+[Gk. spora, seed]
+A capsule in fungi and plants in which meiosis occurs and haploid spores develop.
+
+spore
+[Gk. spora, seed]
+In the life cycle of a plant or alga undergoing alternation of generations, a meiotically produced haploid cell that divides mitotically, generating a multicellular individual, the gametophyte, without fusing with another cell.
+
+sporophyte
+[Gk. spora, seed + phytos, growing]
+The multicellular diploid form in organisms undergoing alternation of generations that results from a union of gametes and that meiotically produces haploid spores that grow into the gametophyte generation.
+
+sporopollenin
+A secondary product, a polymer synthesized by a side branch of a major metabolic pathway of plants that is resistant to almost all kinds of environmental damage; especially important in the evolutionary move of plants onto land.
+
+stablizing selection
+Natural selection that favors intermediate variants by acting against extreme phenotypes.
+
+stamen
+[L. a thread]
+The pollen-producing male reproductive organ of a flower, consisting of an anther and filament.
+
+starch
+[M.E. sterchen, to stiffen]
+A storage polysaccharide in plants consisting entirely of glucose.
+
+statocyst
+[Gk. statos, standing + kystis, sac]
+A type of mechanoreceptor that functions in equilibrium in invertebrates through the use of statoliths, which stimulate hair cells in relation to gravity.
+
+stele
+The central vascular cylinder in roots where xylem and phloem are located.
+
+stem
+The aboveground part of the axis of vascular plants, as well as anatomically similar portions below ground (such as rhizomes).
+
+stem cells
+The common, self-regenerating cells in the marrow of long bones that give rise, by differentiation and division, to red blood cells and all of the different types of white blood cells.
+
+stereoisomer
+A molecule that is a mirror image of another molecule with the same molecular formula.
+
+stereoscopic vision
+[Gk. stereos, solid + optikos, pertaining to the eye]
+Ability to perceive a single, three-dimensional image from the simultaneous but separate images delivered to the brain by each eye.
+
+steroids
+A class of lipids characterized by a carbon skeleton consisting of four rings with various functional groups attached.
+
+stigma
+[Gk. stigme, a prick mark, puncture]
+In plants, the region of a carpel serving as a receptive surface for pollen grains, which germinate on it.
+
+stimulus
+[L. goad, incentive]
+Any internal or external change or signal that influences the activity of an organism or of part of an organism.
+
+stoma pl. stomata
+[Gk. mouth]
+A microscopic pore surrounded by guard cells in the epidermis of leaves and stems that allows gas exchange between the environment and the interior of the plant.
+
+strategy
+[Gk. strategein, to maneuver]
+A group of related traits, evolved under the influence of natural selection, that solve particular problems encountered by living organisms; often includes anatomical, physiological, and behavioral characteristics.
+
+striated muscle
+[L. from striare, to groove]
+Skeletal voluntary muscle and cardiac muscle. The name derives from the striped appearance, which reflects the arrangement of contractile elements.
+
+strict aerobe
+An organism that can survive only in an atmosphere of oxygen, which is used in aerobic respiration.
+
+strict anaerobe
+An organism that cannot survive in an atmosphere of oxygen. Other substances, such as sulfate or nitrate, are the terminal electron acceptors in the electron transport chains that generate their ATP.
+
+stroma
+[Gk. a bed, from stronnymi, to spread out]
+The fluid of the chloroplast surrounding the thylakoid membrane; involved in the synthesis of organic molecules from carbon dioxide and water.
+
+stromatolite
+Rock made of banded domes of sediment in which are found the most ancient forms of life: prokaryotes dating back as far as 3.5 billion years.
+
+structural formula
+A type of molecular notation in which the constituent atoms are joined by lines representing covalent bonds.
+
+structural gene
+A gene that codes for a polypeptide.
+
+style
+[L. stilus, stake, stalk]
+In angiosperms, the stalk of a carpel, down which the pollen tube grows.
+
+substrate
+[L. substratus, strewn under]
+(1) The substance on which an enzyme works. (2) The foundation to which an organism is attached.
+
+substrate-level phosphorylation
+The formation of ATP by directly transferring a phosphate group to ADP from an intermediate substrate in catabolism.
+
+succession
+See Ecological succession.
+
+sucrose
+Cane sugar; a common disaccharide found in many plants; a molecule of glucose linked to a molecule of fructose.
+
+sugar
+Any monosaccharide or disaccharide.
+
+summation
+A phenomenon of neural integration in which the membrane potential of the postsynaptic cell in a chemical synapse is determined by the total activity of all excitatory and inhibitory presynaptic impulses acting on it at any one time.
+
+suppressor T cell (TS)
+A type of T cell that causes B cells as well as other cells to ignore antigens.
+
+surface tension
+A measure of how difficult it is to stretch or break the surface of a liquid. Water has a high surface tension because of the hydrogen bonding of surface molecules.
+
+survivorship curve
+A plot of the number of members of a cohort that are still alive at each age; one way to represent age-specific mortality.
+
+suspension-feeder
+An aquatic animal, such as a clam or a baleen whale, that sifts small food particles from the water.
+
+sustainable agriculture
+Long-term productive farming methods that are environmentally safe.
+
+sustainable development
+The long-term prosperity of human societies and the ecosystems that support them.
+
+swim bladder
+An adaptation, derived from a lung, that enables bony fishes to adjust their density and thereby control their buoyancy.
+
+symbiont
+(sim-by-ont)
+The smaller participant in a symbiotic relationship, living in or on the host.
+
+symbiosis
+[Gk. syn, together with + bioonai, to live]
+An ecological relationship between organisms of two different species that live together in direct contact.
+
+sympathetic division
+One of two divisions of the autonomic nervous system of vertebrates; generally increases energy expenditure and prepares the body for action.
+
+sympatric speciation
+[Gk. syn, together with + patra, fatherland, country]
+A mode of speciation occurring as a result of a radical change in the genome that produces a reproductively isolated subpopulation in the midst of its parent population.
+
+symplast
+In plants, the continuum of cytoplasm connected by plasmodesmata between cells.
+
+synapomorphies
+Shared derived characters; homologies that evolved in an ancestor common to all species on one branch of a fork in a cladogram, but not common to species on the other branch.
+
+synapse
+(sin-aps) [Gk. synapsis, a union]
+The locus where one neuron communicates with another neuron in a neural pathway; a narrow gap between a synaptic terminal of an axon and a signal-receiving portion (dendrite or cell body) of another neuron or effector cell. Neurotransmitter molecules released by synaptic terminals diffuse across the synapse, relaying messages to the dendrite or effector.
+
+synapsis
+The pairing of replicated homologous chromosomes during prophase I of meiosis.
+
+synaptic cleft
+A narrow gap separating the synaptic knob of a transmitting neuron from a receiving neutron to an effector.
+
+synaptic knob
+The relay point at the tip of a transmitting neuron's axon, where signals are sent to another neuron or to an effector.
+
+synaptic terminal
+A bulb at the end of an axon in which neurotransmitter molecules are stored and released.
+
+syngamy
+(sin-gam-ee)
+The process of cellular union during fertilization.
+
+synthesis
+[Gk. syntheke, a putting together]
+The formation of a more complex substance from simpler ones.
+
+synthesis phase
+In the cell cycle, the phase in which the DNA of the chromosomes is replicated and DNA-associated proteins, such as histones, are synthesized.
+
+systematics
+The branch of biology that studies the diversity of life; encompasses taxonomy and is involved in reconstructing phylogenetic history.
+
+systemic acquired resistance (SAR)
+A defensive response in infected plants that helps protect healthy tissue from pathogenic invasion.
+
+systole
+(sis-toh-lee)
+The stage of the heart cycle in which the heart muscle contracts and the chambers pump blood.
+
+systolic pressure
+The pressure in an artery during the ventricular contraction phase of the heart cycle.

@@ -1,0 +1,368 @@
+ecdysone
+(ek-deh-sone)
+A steroid hormone that triggers molting in arthropods.
+
+ecological efficiency
+The ratio of net productivity at one trophic level to net productivity at the next lower level.
+
+ecological niche
+The sum total of an organism's utilization of the biotic and abiotic resources of its environment.
+
+ecological pyramid
+A graphic representation of the quantitative relationships of numbers of organisms, biomass, or energy flow between the trophic levels of an ecosystem. Because large amounts of energy and biomass are dissipated at every trophic level, these diagrams nearly always take the form of pyramids.
+
+ecological species concept
+The idea that ecological roles (niches) define species.
+
+ecological succession
+Transition in the species composition of a biological community, often following ecological disturbance of the community; the establishment of a biological community in an area virtually barren of life.
+
+ecology
+[Gk. oikos, home + logos, a discourse]
+The study of how organisms interact with their environments.
+
+ecosystem
+[Gk. oikos, home + systema, that which is put together]
+A level of ecological study that includes all the organisms in a given area as well as the abiotic factors with which they interact; a community and its physical environment.
+
+ecotype
+[Gk. oikos, home + L. typus, image]
+A locally adapted variant of a species, differing genetically from other ecotypes of the same species.
+
+ectoderm
+[Gk. ecto, outside + derma, skin]
+The outermost of the three primary germ layers in animal embryos; gives rise to the outer covering and, in some phyla, the nervous system, inner ear, and lens of the eye.
+
+ectotherm
+[Gk. ecto, outside + therme, heat]
+An animal such as a reptile, fish, or amphibian, that must use environmental energy and behavioral adaptations to regulate its body temperature.
+
+effector cell
+[L. ex, out of + facere, to make]
+A cell that carries out the final response or function of a particular process.
+
+efferent
+[L. ex, out of + ferre, to bear]
+Carrying away from a center, applied to nerves and blood vessels.
+
+egg
+A female gamete, which usually contains abundant cytoplasm and yolk; nonmotile and often larger than a male gamete.
+
+ejaculatory duct
+In the male, a duct from each testis that join to form the urethra.
+
+electric potential
+The difference in the amount of electric charge between a region of positive charge and a region of negative charge. The establishment of electric potentials across the plasma membrane and across organelle membranes makes possible a number of phenomena, including the chemiosmotic synthesis of ATP, the conduction of nerve impulses, and muscle contraction.
+
+electrochemical gradient
+The diffusion gradient of an ion, representing a type of potential energy that accounts for both the concentration difference of the ion across a membrane and its tendency to move relative to the membrane potential.
+
+electrogenic pump
+An ion transport protein generating voltage across the membrane.
+
+electromagnetic spectrum
+The entire spectrum of radiation; ranges in wavelength from less than a nanometer to more than a kilometer.
+
+electron
+A particle with a single negative charge; one or more electrons orbit the nucleus of the atom.
+
+electron acceptor
+Substance that accepts or receives electrons in an oxidation-reduction reaction, becoming reduced in the process.
+
+electron carrier
+A molecule that conveys electrons; one of several membrane proteins in electron transport chains in cells. Electron carriers shuttle electrons during the redox reactions that release energy used to make ATP.
+
+electron donor
+Substance that donates or gives up electrons in an oxidation-reduction reaction, becoming oxidized in the process.
+
+electron microscope (EM)
+A microscope that focuses an electron beam through a specimen, resulting in resolving power a thousandfold greater than that of a light microscope. A transmission electron microscope (TEM) is used to study the internal structure of thin sections of cells. A scanning electron microscope (SEM) is used to study the fine details of cell surfaces.
+
+electron shell
+An energy level at which an electron orbits the nucleus of an atom.
+
+electron transport chain
+A sequence of electron-carrier molecules (membrane proteins) that shuttle electrons during the redox reactions that release energy used to make ATP.
+
+electronegativity
+The tendency for an atom to pull electrons toward itself.
+
+element
+Any substance that cannot be broken down to any other substance.
+
+embryo
+(em-bree-oh) [Gk. en, in + bryein, to swell]
+A developing stage of multicellular organisms; in humans, the stage in the development of offspring from the first division of the zygote until body structures begin to appear; about the ninth week of gestation. See Fetus.
+
+embryo sac
+The female gametophyte of angiosperms, formed from the growth and division of the megaspore into a multicellular structure with eight haploid nuclei.
+
+enantiomer
+(eh-nan-she-uh-mer)
+One of a pair of molecules that are mirror-image isomers of each other.
+
+endangered species
+A species that is in danger of extinction throughout all or a significant portion of its range.
+
+endemic species
+Species that are confined to a specific, relatively small geographic area.
+
+endemic
+An organism found only in one particular location.
+
+endergonic reaction
+(en-dur-gon-ik) [Gk. endon, within + ergon, work]
+A nonspontaneous chemical reaction in which free energy is absorbed from the surroundings.
+
+endocrine gland
+(en-doh-krin) [Gk. endon, within + krinein, to separate]
+A ductless gland that secretes hormones directly into the bloodstream.
+
+endocrine system
+The internal system of chemical communication involving hormones, the ductless glands that secrete hormones, and the molecular receptors on or in target cells that respond to hormones; functions in concert with the nervous system to effect internal regulation and maintain homeostasis.
+
+endocytosis
+(en-doh-sy-toh-sis) [Gk. endon, within + kytos, vessel]
+The cellular uptake of macromolecules and particulate substances by localized regions of the plasma membrane that surround the substance and pinch off to form an intracellular vesicle.
+
+endoderm
+(en-doh-durm) [Gk. endon, within + derma, skin]
+The innermost of the three primary germ layers in animal embryos; lines the archenteron and gives rise to the liver, pancreas, lungs, and the lining of the digestive tract.
+
+endodermis
+(en-doh-dur-mis) [Gk. endon, within + derma, skin]
+The innermost layer of the cortex in plant roots; a cylinder one cell thick that forms the boundary between the cortex and the stele.
+
+endogenous
+Arising from internal structures or functional causes.
+
+endomembrane system
+The collection of membranes inside and around a eukaryotic cell, related either through direct physical contact or by the transfer of membranous vesicles.
+
+endometrium
+(en-doh-mee-tree-um) [Gk. endon, within + metrios, of the womb]
+The inner lining of the uterus, which is richly supplied with blood vessels.
+
+endoplasmic reticulum
+(en-doh-plaz-mik reh-tik-yoo-lum) [Gk. endon, within + plasma, from cytoplasm; L. reticulum, network]
+An extensive membranous network in eukaryotic cells, continuous with the outer nuclear membrane and composed of ribosome-studded (rough) and ribosome-free (smooth) regions.
+
+endorphin
+A hormone produced in the brain and anterior pituitary that inhibits pain perception.
+
+endoskeleton
+(en-doh-skel-eh-ton)
+A hard skeleton buried within the soft tissues of an animal, such as the spicules of sponges, the plates of echinoderms, and the bony skeletons of vertebrates.
+
+endosperm
+(en-doh-spurm) [Gk. endon, within + sperma, seed]
+A nutrient-rich tissue formed by the union of a sperm cell with two polar nuclei during double fertilization, which provides nourishment to the developing embryo in angiosperm seeds.
+
+endospore
+A thick-coated, resistant cell produced within a bacterial cell exposed to harsh conditions.
+
+endosymbiotic theory
+(en-doh-sim-by-ot-ic)
+A hypothesis about the origin of the eukaryotic cell, maintaining that the forerunners of eukaryotic cells were symbiotic associations of prokaryotic cells living inside larger prokaryotes.
+
+endothelium
+(en-doh-theel-ee-um) [Gk. endon, + thele, nipple]
+The innermost, simple squamous layer of cells lining the blood vessels; the only constituent structure of capillaries.
+
+endotherm
+(en-doh-thurm) [Gk. endon, within + therme, heat]
+An animal that uses metabolic energy to maintain a constant body temperature, such as a bird or mammal. See also Homeotherm.
+
+endotoxin
+(en-doh-toks-in)
+A component of the outer membranes of certain gram-negative bacteria responsible for generalized symptoms of fever and ache.
+
+energy
+The capacity to do work by moving matter against an opposing force.
+
+energy of activation (EA)
+The amount of energy that reactants must absorb before a chemical reaction will start.
+
+enhancer
+A DNA sequence that recognizes certain transcription factors that can stimulate transcription of nearby genes.
+
+entropy
+(en-truh-pee) [Gk. en, in + trope, turning]
+A quantitative measure of disorder or randomness, symbolized by S.
+
+environmental grain
+An ecological term for the effect of spatial variation, or patchiness, relative to the size and behavior of an organism.
+
+enzyme
+[Gk. en, in + zyme, leaven]
+A class of proteins serving as catalysts, chemical agents that change the rate of a reaction without being consumed by the reaction.
+
+epidermis
+(ep-eh-der-mis) [Gk. epi, on or over + derma, skin]
+(1) The dermal tissue system in plants. (2) The outer covering of animals.
+
+epigenesis
+(ep-eh-jen-eh-sis)
+The progressive development of form in an embryo.
+
+epididymis
+(ep-ih-did-eh-mis)
+A long coiled tube into which sperm pass from the testis and are stored until mature and ejaculated.
+
+epigenesis
+A cartilaginous flap that blocks the top of the windpipe, the glottis, during swallowing, which prevents the entry of food or fluid into the respiratory system.
+
+epinephrine
+A hormone produced as a response to stress; also called adrenaline. See Adrenaline.
+
+epiphyte
+(ep-eh-fite)
+A plant that nourishes itself but grows on the surface of another plant for support, usually on the branches or trunks of tropical trees.
+
+episome
+A plasmid capable of integrating into the bacterial chromosome.
+
+epistasis
+[Gk. a stopping]
+A phenomenon in which one gene alters the expression of another gene that is independently inherited.
+
+epithelial tissue
+(ep-eh-theel-ee-ul) [Gk. epi, on or over + thele, nipple]
+Sheets of tightly packed cells that line organs and body cavities.
+
+epitope
+A localized region on the surface of an antigen that is chemically recognized by antibodies; also called antigenic determinant.
+
+equilibrium
+[L. aequus, equal + libra, balance]
+The state of a system in which no further net change is occurring; result of counterbalancing forward and backward processes.
+
+equilibrium species
+Species characterized by low reproduction rates, long development times, large body size, and long adult life with repeated reproductions.
+
+erythrocyte
+(er-rith-ro-site) [Gk. erythros, red + kytos, vessel]
+A red blood cell; contains hemoglobin, which functions in transporting oxygen in the circulatory system.
+
+esophagus
+(eh-sof-eh-gus)
+A channel that conducts food, by peristalsis, from the pharynx to the stomach.
+
+essential amino acids
+The amino acids that an animal cannot synthesize itself and must obtain from food. Eight amino acids are essential in the human adult.
+
+estivation
+(es-teh-vay-shun)
+A physiological state characterized by slow metabolism and inactivity, which permits survival during long periods of elevated temperature and diminished water supplies.
+
+estrogens
+[Gk. oistros, frenzy + genos, origin, descent]
+The primary female steroid sex hormones, which are produced in the ovary by the developing follicle during the first half of the cycle and in smaller quantities by the corpus luteum during the second half. Estrogens stimulate the development and maintenance of the female reproductive system and secondary sex characteristics.
+
+estrous cycle
+(es-trus)
+A type of reproductive cycle in all female mammals except higher primates, in which the nonpregnant endometrium is reabsorbed rather than shed, and sexual response occurs only during midcycle at estrus.
+
+ethology
+[Gk. ethos, habit, custom + logos, discourse]
+The comparative study of patterns of animal behavior, with emphasis on their adaptive significance and evolutionary origin.
+
+ethylene
+(eth-ul-een)
+The only gaseous plant hormone, responsible for fruit ripening, growth inhibition, leaf abscission, and aging.
+
+etiolation
+[Fr. etioler, to blanch]
+In plants, a condition characterized by stem elongation, poor leaf development, and lack of chlorophyll; occurs in plants growing in the dark or with greatly reduced light.
+
+euchromatin
+(yoo-kroh-muh-tin)
+The more open, unraveled form of eukaryotic chromatin, which is available for transcription.
+
+eukaryotic cell
+A type of cell with a membrane-enclosed nucleus and membrane-enclosed organelles, present in protists, plants, fungi, and animals; also called eukaryote.
+
+eukaryote
+[Gk. eu, good + karyon, nut, kernel]
+An organism whose cells contain membraine-bound organelles and whose DNA is enclosed in a cell nucleus and is associated with proteins.
+
+eumetazoa
+(yoo-met-uh-zoh-uh)
+Members of the subkingdom that includes all animals except sponges.
+
+eusocial
+[Gk. eu, good + L. socius, companion]
+Applied to animal societies, such as those of certain insects, in which sterile individuals work on behalf of reproductive individuals.
+
+eutherian mammals
+Placental mammals; those whose young complete their embryonic development within the uterus, joined to the mother by the placenta.
+
+eutrophic lake
+A highly productive lake, having a high rate of biological productivity supported by a high rate of nutrient cycling.
+
+eutrophication
+A process in which an aquatic environment accumulates high nutrient levels due to factors such as industrial or urban pollution or run-off of fertilizers from nearby agricultural lands. The nutrients lead to dense blooms of algae and aquatic plants that cloud lake water, deplete specific minerals and dissolved gases, and can cause natural plant and animal populations to decline.
+
+evaporative cooling
+The property of a liquid whereby the surface becomes cooler during evaporation, owing to a loss of highly kinetic molecules to the gaseous state.
+
+evolution
+[L. e-, out + volvere, to roll]
+All the changes that have transformed life on Earth from its earliest beginnings to the diversity that characterizes it today.
+
+evolutionary species concept
+The idea that evolutionary lineages and ecological roles can form the basis of species identification.
+
+exaptation
+A structure that evolves and functions in one environmental context but that can perform additional functions when placed in some new environment.
+
+excitatory postsynaptic potential (EPSP)
+(post-sin-ap-tik)
+An electrical change (depolarization) in the membrane of a postsynaptic neuron caused by the binding of an excitatory neurotransmitter from a presynaptic cell to a postsynaptic receptor; makes it more likely for a postsynaptic neuron to generate an action potential.
+
+excretion
+The disposal of nitrogen-containing waste products of metabolism.
+
+excretory system
+The organ system that disposes of nitrogen-containing metabolic wastes.
+
+exergonic reaction
+(eks-ur-gon-ik) [Gk. ex, out of + ergon, work]
+A spontaneous chemical reaction in which there is a net release of free energy.
+
+exocrine glands
+[Gk. ex, out of + krinein, to separate]
+Glands, such as sweat glands and digestive glands, that secrete their products into ducts that empty onto surfaces, such as the skin, or into cavities, such as the interior of the stomach.
+
+exocytosis
+(eks-oh-sy-toh-sis) [Gk. ex, out of + kytos, vessel]
+The cellular secretion of macromolecules by the fusion of vesicles with the plasma membrane.
+
+exon
+The coding region of a eukaryotic gene that is expressed. Exons are separated from each other by introns.
+
+exoskeleton
+A hard encasement on the surface of an animal, such as the shells of mollusks or the cuticles of arthropods, that provides protection and points of attachment for muscles.
+
+exotoxin
+(eks-oh-toks-in)
+A toxic protein secreted by a bacterial cell that produces specific symptoms even in the absence of the bacterium.
+
+exponential growth
+In populations, the increasingly accelerated rate of growth due to the increasing number of individuals being added to the reproductive base. Exponential growth is very seldom approached or sustained in natural populations.
+
+expression vector
+A vector that allows a DNA sequence cloned into it to be transcribed when the vector is introduced into a cell.
+
+expressivity
+In genetics, the degree to which a particular genotype is expressed in the phenotype of individuals with that genotype.
+
+extinct
+[L. exstinctus, to be extinguished]
+No longer existing.
+
+extracellular matrix (ECM)
+The substance in which animal tissue cells are embedded; consists of protein and polysaccharides.
+
+extraembryonic membranes
+Four membranes (yolk sac, amnion, chorion, allantois) that support the developing embryo in reptiles, birds, and mammals.

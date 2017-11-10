@@ -1,0 +1,274 @@
+T cell
+A type of lymphocyte responsible for cell-mediated immunity that differentiates under the influence of the thymus.
+
+taiga
+(ty-guh)
+The coniferous or boreal forest biome, characterized by considerable snow, harsh winters, short summers, and evergreen trees.
+
+taxis
+(taks-iss)
+A movement toward or away from a stimulus.
+
+taxon pl. taxa
+[Gk. taxis, arrange, put in order]
+The named taxonomic unit at any given level.
+
+taxonomy
+[Gk. taxis, arrange, put in order + nomos, law]
+The branch of biology concerned with naming and classifying the diverse forms of life.
+
+telomerase
+An enzyme that catalyzes the lengthening of telomeres; the enzyme includes a molecule of RNA that serves as a template for new telomere segments.
+
+telomere
+The protective structure at each end of a eukaryotic chromosome. Specifically, the tandemly repetitive DNA (see Repetitive DNA) at the end of the chromosome's DNA molecule.
+
+telophase
+[Gk. telos, end + phasis, form]
+The fourth and final stage of mitosis, during which daughter nuclei form at the two poles of a cell. Telophase usually occurs together with cytokinesis.
+
+temperate bacteriophage
+A bacterial virus that may become incorporated into the host-cell chromosome.
+
+temperate deciduous forest
+A biome located throughout midlatitude regions where there is sufficient moisture to support the growth of large, broad-leaf deciduous trees.
+
+temperate virus
+A virus that can reproduce without killing the host.
+
+temperature
+A measure of the intensity of heat in degrees, reflecting the average kinetic energy of the molecules.
+
+template
+A pattern or mold guiding the formation of a negative or complementary copy.
+
+tendon
+A type of fibrous connective tissue that attaches muscle to bone.
+
+tentacles
+[L. tentare, to touch]
+Long, flexible protrusions located about the mouth of many invertebrates; usually prehensile or tactile.
+
+terminator
+A special sequence of nucleotides in DNA that marks the end of a gene; it signals RNA polymerase to release the newly made RNA molecule, which then departs from the gene.
+
+territory
+An area or space occupied and defended by an individual or a group; trespassers are attacked (and usually defeated); may be the site of breeding, nesting, food gathering, or any combination thereof.
+
+tertiary consumer
+(tur-shee-air-ee)
+A member of a trophic level of an ecosystem consisting of carnivores that eat mainly other carnivores.
+
+tertiary structure
+Irregular contortions of a protein molecule due to interactions of side chains involved in hydrophobic interactions, ionic bonds, hydrogen bonds, and disulfide bridges.
+
+testcross
+Breeding of an organism of unknown genotype with a homozygous recessive individual to determine the unknown genotype. The ratio of phenotypes in the offspring determines the unknown genotype.
+
+testis pl. testes
+[Gk. testicle]
+The male reproductive organ, or gonad, in which sperm and reproductive hormones are produced.
+
+testosterone
+[Gk. testis, testicle + steiras, barren]
+The most abundant androgen hormone in the male body.
+
+tetanus
+(tet-un-us)
+The maximal, sustained contraction of a skeletal muscle, caused by a very fast frequency of action potentials elicited by continual stimulation.
+
+tetrad
+[Gk. tetras, four]
+In genetics, a pair of homologous chromosomes that have replicated and come together in prophase I of meiosis; consists of four chromatids.
+
+tetrapod
+A vertebrate possessing two pairs of limbs, such as amphibians, reptiles, birds, and mammals.
+
+thalamus
+[Gk. thalamos, chamber]
+One of two integrating centers of the vertebrate forebrain. Neurons with cell bodies in the thalamus relay neural input to specific areas in the cerebral cortex and regulate what information goes to the cerebral cortex.
+
+thallus
+[Gk. thallos, a young twig]
+A simple plant or algal body without true roots, leaves, or stems.
+
+theory
+[Gk. theorein, to look at]
+A generalization based on many observations and experiments; a verified hypothesis.
+
+thermodynamics
+[Gk. therme, heat + dynamis, power]
+The study of transformations of energy. The first law of thermodynamics states that, in all processes, the total energy of a system plus its surroundings remains constant. The second law states that all natural processes tend to proceed in such a direction that the disorder or randomness of the system increases.
+
+thermoregulation
+The maintenance of internal temperature within a tolerable range.
+
+thick filament
+A filament composed of staggered arrays of myosin molecules; a component of myofibrils in muscle fibers.
+
+thigmomorphogenesis
+A response in plants to chronic mechanical stimulation, resulting from increased ethylene production; an example is thickening stems in response to strong winds.
+
+thigmotropism
+(thig-moh-troh-piz-um)
+The directional growth of a plant in relation to touch.
+
+thorax
+[Gk. breastplate]
+(1) In vertebrates, that portion of the trunk containing the heart and lungs. (2) In crustaceans and insects, the fused, leg-bearing segments between head and abdomen.
+
+threatened species
+Species that are likely to become endangered in the foreseeable future throughout all or a significant portion of their range.
+
+threshold potential
+The potential an excitable cell membrane must reach for an action potential to be initiated.
+
+thylakoid
+(thy-luh-koid) [Gk. thylakos, a small bag]
+A flattened membrane sac inside the chloroplast, used to convert light energy to chemical energy.
+
+thymus
+(thy-mus)
+An endocrine gland in the neck region of mammals that is active in establishing the immune system; secretes several messengers, including thymosin, that stimulate T cells.
+
+thyroid gland
+[Gk. thyra, a door]
+An endocrine gland that secretes iodine-containing hormones (T3 and T4), which stimulate metabolism and influence development and maturation in vertebrates, and cacitonin, which lowers blood calcium levels in mammals.
+
+thyroid-stimulating hormone (TSH)
+A hormone produced by the anterior pituitary that regulates the release of thyroid hormones.
+
+Ti plasmid
+A plasmid of a tumor-inducing bacterium that integrates a segment of its DNA into the host chromosome of a plant; frequently used as a carrier for genetic engineering in plants.
+
+tight junction
+A type of intercellular junction in animal cells that prevents the leakage of material between cells.
+
+tissue
+[L. texere, to weave]
+An integrated group of cells with a common structure and function.
+
+tonoplast
+A membrane that encloses the central vacuole in a plant cell, separating the cytosol from the cell sap.
+
+torpor
+In animals, a physiological state that conserves energy by slowing down the heart and respiratory systems.
+
+totipotency
+The ability of embryonic cells to retain the potential to form all parts of the animal.
+
+trace element
+An element indispensable for life but required in extremely minute amounts.
+
+trachea
+(tray-kee-uh)
+The windpipe; that portion of the respiratory tube that has C-shaped cartilagenous rings and passes from the larynx to two bronchi.
+
+trachea pl. tracheae
+(trake-ee-a) [Gk. tracheia, rough]
+Tiny air tubes that branch throughout the insect body for gas exchange.
+
+tracheal system
+A gas exchange system of branched, chitin-lined tubes that infiltrate the body and carry oxygen directly to cells in insects.
+
+tracheid
+(tray-key-idd) [Gk. tracheia, rough]
+A water-conducting and supportive element of xylem composed of long, thin cells with tapered ends and walls hardened with lignin.
+
+tract
+A group or bundle of nerve fibers with accompanying connective tissue, located within the central nervous system.
+
+transcription
+[L. trans, across + scribere, to write]
+The synthesis of RNA on a DNA template.
+
+transcription factor
+A regulatory protein that binds to DNA and stimulates transcription of specific genes.
+
+transduction
+[L. trans, across + ducere, to lead]
+The transfer of genetic material (DNA) from one cell to another by a virus.
+
+transfer RNA (tRNA)
+[L. trans, across + ferre, to bear or carry]
+An RNA molecule that functions as an interpreter between nucleic acid and protein language by picking up specific amino acids and recognizing the appropriate codons in the mRNA.
+
+transformation
+[L. trans, across + formare, to shape]
+(1) The conversion of a normal animal cell to a cancerous cell. (2) A phenomenon in which external DNA is assimilated by a cell.
+
+transgenic
+Having artificially altered genetic material. A transgenic organism is one that has had its genotype altered by the introduction of a gene or DNA sequence into its genome by genetic manipulation; the introduced gene or DNA segment is called a transgene.
+
+translation
+[L. trans, across + latus, that which is carried]
+The synthesis of a polypeptide using the genetic information encoded in an mRNA molecule. There is a change of "language" from nucleotides to amino acids.
+
+translocation
+[L. trans, across + locare, to put or place]
+(1) An aberration in chromosome structure resulting from an error in meiosis or from mutagens; attachment of a chromosomal fragment to a nonhomologous chromosome. (2) During protein synthesis, the third stage in the elongation cycle when the RNA carrying the growing polypeptide moves from the A site to the P site on the ribosome. (3) The transport via phloem of food in a plant.
+
+transpiration
+[L. trans, across + spirare, to breathe]
+The evaporative loss of water from a plant.
+
+transposon
+(trans-poh-son) [L. transponere, to change the position of]
+A transposable genetic element; a mobile segment of DNA that serves as an agent of genetic change.
+
+triplet code
+A set of three-nucleotide-long words that specify the amino acids for polypeptide chains.
+
+triploblastic
+Possessing three germ layers: the endoderm, mesoderm, and ectoderm. Most eumetazoa are triploblastic.
+
+trophic level
+[Gk. trophos, feeder]
+The division of species in an ecosystem on the basis of their main nutritional source. The trophic level that ultimately supports all others consists of autotrophs, or primary producers.
+
+trophic structure
+The different feeding relationships in an ecosystem that determine the route of energy flow and the pattern of chemical cycling.
+
+trophoblast
+[Gk. trophos, feeder + blastos, sprout]
+The outer epithelium of the blastocyst, which forms the fetal part of the placenta.
+
+tropic
+[Gk. trope, a turning]
+Pertaining to behavior or action brought about by specific stimuli, for example, phototropic ("light-oriented") motion, gonadotropic ("stimulating the gonads") hormone.
+
+tropic hormone
+A hormone that has another endocrine gland as a target.
+
+tropical rain forest
+The most complex of all communities, located near the equator where rainfall is abundant; harbors more species of plants and animals than all other terrestrial biomes combined.
+
+tropism
+A growth response that results in the curvature of whole plant organs toward or away from stimuli due to differential rates of cell elongation.
+
+tuber
+[L. tuber, bump, swelling]
+A much-enlarged, short, fleshy underground stem, such as that of the potato.
+
+tumor
+A mass that forms within otherwise normal tissue, caused by the uncontrolled growth of a transformed cell.
+
+tumor suppressor gene
+A gene whose protein products inhibit cell division, thereby preventing uncontrolled cell growth (cancer).
+
+tundra
+A biome at the extreme limits of plant growth; at the northernmost limits, it is called arctic tundra, and at high altitudes, where plant forms are limited to low shrubby or matlike vegetation, it is called alpine tundra.
+
+turgid
+(tur-jid)
+Firm; walled cells become turgid as a result of the entry of water from a hypotonic environment.
+
+turgor pressure
+[L. turgere, to swell]
+The force directed against a cell wall after the influx of water and the swelling of a walled cell due to osmosis.
+
+tyrosine kinase
+An enzyme that catalyzes the transfer of phosphate groups from ATP to the amino acid tyrosine in a substrate protein.
+
+tyrosine kinase receptor
+A receptor protein in the plasma membrane that responds to the binding of a signal molecule by catalyzing the transfer of phosphate groups from ATP to tyrosines on the cytoplasmic side of the receptor. The phosphorylated tyrosines activate other signal-transduction proteins within the cell.

@@ -1,0 +1,223 @@
+B cell
+A type of lymphocyte that develops in the bone marrow and later produces antibodies, which mediate humoral immunity.
+
+Bacteria
+One of two prokaryotic domains, the other being the Archaea.
+
+bacteriophage
+[L. bacterium + Gk. phagein, to eat]
+A virus that parasitizes a bacterial cell.
+
+bacterium pl. bacteria
+A prokaryotic microorganism in Domain Bacteria.
+
+balanced polymorphism
+A type of polymorphism in which the frequencies of the coexisting forms do not change noticeably over many generations.
+
+bark
+All tissues external to the vascular cambium in a plant growing in thickness, consisting of phloem, phelloderm, cork cambium, and cork.
+
+Barr body
+A dense object lying along the inside of the nuclear envelope in female mammalian cells, representing an inactivated X chromosome.
+
+basal body
+[Gk. basis, foundation]
+A eukaryotic cell organelle consisting of a 9 + 0 arrangement of microtubule triplets; may organize the microtubule assembly of a cilium or flagellum; structurally identical to a centriole.
+
+basal metabolic rate (BMR)
+[Gk. basis, foundation + metabole, change]
+The minimal number of kilocalories a resting animal requires to fuel itself for a given time.
+
+base
+A substance that reduces the hydrogen ion concentration in a solution. See Alkaline.
+
+basement membrane
+The floor of an epithelial membrane on which the basal cells rest.
+
+base-pair substitution
+A point mutation; the replacement of one nucleotide and its partner from the complementary DNA strand by another pair of nucleotides.
+
+base-pairing principle
+In the formation of nucleic acids, the requirement that adenine must always pair with thymine (or uracil) and guanine with cytosine.
+
+basidium pl. basidia
+A reproductive appendage that produces sexual spores on the gills of mushrooms. The fungal division Basidiomycota is named for this structure.
+
+Batesian mimicry
+(baytz-ee-un mim-ih-kree)
+A type of mimicry in which a harmless species looks like a different species that is poisonous or otherwise harmful to predators.
+
+behavior
+All of the acts an organism performs, as in, for example, seeking a suitable habitat, obtaining food, avoiding predators, and seeking a mate and reproducing.
+
+behavioral ecology
+A heuristic approach based on the expectation that Darwinian fitness (reproductive success) is improved by optimal behavior.
+
+benthic zone
+The bottom surfaces of aquatic environments.
+
+biennial
+(by-en-ee-ul) [L. biennium, a space of two years; bi, twice + annus, year]
+A plant that requires two years to complete its life cycle.
+
+bilateral symmetry
+[L. bi, twice, two + lateris, side; Gk. summetros, symmetry]
+Characterizing a body form with a central longitudinal plane that divides the body into two equal but opposite halves.
+
+bilateria
+(by-leh-teer-ee-uh) [L. bi, twice, two + lateris, side]
+Members of the branch of eumetazoans possessing bilateral symmetry.
+
+bile
+A yellow secretion of the vertebrate liver, temporarily stored in the gallbladder and composed of organic salts that emulsify fats in the small intestine.
+
+binary fission
+The type of cell division by which prokaryotes reproduce; each dividing daughter cell receives a copy of the single parental chromosome.
+
+binomial
+[L. bi, twice, two + Gk. nomos, usage, law]
+The two-part Latinized name of a species, consisting of genus and specific epithet.
+
+biochemical pathway
+[Gk. bios, life + chemeia, alchemy]
+An ordered series of chemical reactions in a living cell, in which each step is catalyzed by a specific enzyme; different biochemical pathways serve different functions in the life of the cell.
+
+biodiversity hotspot
+A relatively small area with an exceptional concentration of species.
+
+bioenergetics
+The study of how organisms manage their energy resources.
+
+biogeochemical cycles
+[Gk. bios, life + geo, earth + chemeia, alchemy; kyklos, circle, wheel]
+The various nutrient circuits, which involve both biotic and abiotic components of ecosystems.
+
+biogeography
+The study of the past and present distribution of species.
+
+biological clock
+[Gk. bios, life + logos, discourse]
+Proposed internal factor(s) in organisms that governs functions that occur rhythmically in the absence of external stimuli.
+
+biological magnification
+A trophic process in which retained substances become more concentrated with each link in the food chain.
+
+biological species
+A population or group of populations whose members have the potential to interbreed.
+
+biomass
+[Gk. bios, life]
+The dry weight of organic matter comprising a group of organisms in a particular habitat.
+
+biome
+(by-ome)
+One of the world's major communities, classified according to the predominant vegetation and characterized by adaptations of organisms to that particular environment.
+
+biosphere
+(by-oh-sfeer) [Gk. bios, life + sphaira, globe]
+The entire portion of Earth that is inhabited by life; the sum of all the planet's communities and ecosystems.
+
+biosynthesis
+[Gk. bios, life + synthesis, a putting together]
+Formation by living organisms of organic compounds from elements or simple compounds.
+
+biotechnology
+The industrial use of living organisms or their components to improve human health and food production.
+
+biotic
+(by-ot-ik) [Gk. bios, life]
+Pertaining to the living organisms in the environment.
+
+bipedal
+[L. bi, twice, two + pes, foot]
+Walking upright on two feet.
+
+blade
+(1) The broad, expanded part of a leaf. (2) The broad, expanded photosynthetic part of the thallus of a multicellular alga or a simple plant.
+
+blastocoel
+(blas-toh-seel) [Gk. blastos, sprout + koilos, a hollow]
+The fluid-filled cavity that forms in the center of the blastula embryo.
+
+blastocyst
+[Gk. blastos, sprout + kystis, sac]
+An embryonic stage in mammals; a hollow ball of cells produced one week after fertilization in humans.
+
+blastodisc
+[Gk. blastos, sprout + discos, a round plate]
+Disklike area on the surface of a large, yolky egg that undergoes cleavage and gives rise to the embryo.
+
+blastopore
+(blas-toh-por) [Gk. blastos, sprout + poros, a way, means, path]
+The opening of the archenteron in the gastrula that develops into the mouth in protostomes and the anus in deuterostomes.
+
+blastula
+(blas-tyoo-la) [Gk. blastos, sprout]
+The hollow ball of cells marking the end stage of cleavage during early embryonic development.
+
+blood
+A type of connective tissue with a fluid matrix called plasma in which blood cells are suspended.
+
+blood-brain barrier
+A specialized capillary arrangement in the brain that restricts the passage of most substances into the brain, thereby preventing dramatic fluctuations in the brain's environment.
+
+blood pressure
+The hydrostatic force that blood exerts against the wall of a vessel.
+
+bond energy
+The quantity of energy that must be absorbed to break a particular kind of chemical bond; equal to the quantity of energy the bond releases when it forms.
+
+bond strength
+The strength with which a chemical bond holds two atoms together; conventionally measured in terms of the amount of energy, in kilocalories per mole, required to break the bond.
+
+book lungs
+Organs of gas exchange in spiders, consisting of stacked plates contained in an internal chamber.
+
+botany
+[Gk. botanikos, of herbs]
+The study of plants.
+
+bottleneck effect
+Genetic drift resulting from the reduction of a population, typically by a natural disaster, such that the surviving population is no longer genetically representative of the original population.
+
+Bowman's capsule
+A cup-shaped receptacle in the vertebrate kidney that is the initial, expanded segment of the nephron where filtrate enters from the blood.
+
+box
+A small portion of a gene or protein that appears in many genes or proteins that are related in structure; the box usually has some specific function, sometimes called a "motif", like binding DNA or interacting with specific proteins or other molecules.
+
+brain
+The master control center in an animal; in vertebrates, the brain and spinal cord make up the central nervous system.
+
+brainstem
+The hindbrain and midbrain of the vertebrate central nervous system. In humans, it forms a cap on the anterior end of the spinal cord, extending to about the middle of the brain.
+
+bryophyte
+(bry-oh-fite)
+The mosses, liverworts, and hornworts; a group of nonvascular plants that inhabit the land but lack many of the terrestrial adaptations of vascular plants.
+
+bronchus pl. bronchi
+(bronk-us, bronk- eye) [Gk. bronchos, windpipe]
+One of a pair of respiratory tubes branching into either lung at the lower end of the trachea; it subdivides into progressively finer passageways, the bronchioles, culminating in the alveoli.
+
+bud
+(1) In plants, an embryonic shoot, including rudimentary leaves, often protected by special bud scales. (2) In animals, an asexually produced outgrowth that develops into a new individual.
+
+budding
+An asexual means of propagation in which outgrowths from the parent form and pinch off to live independently or else remain attached to eventually form extensive colonies.
+
+buffer
+A substance that consists of acid and base forms in solution and that minimizes changes in pH when extraneous acids or bases are added to the solution.
+
+bulb
+A modified bud with thickened leaves adapted for underground food storage.
+
+bulbourethral gland
+(bul-bo-you-ree-thral)
+One of a pair of glands near the base of the penis in the human male that secrete fluid that lubricates and neutralizes acids in the urethra during sexual arousal.
+
+bulk flow
+The movement of water due to a difference in pressure between two locations.
+
+bundle of His
+In the vertebrate heart, a group of muscle fibers that carry impulses from the atrioventricular node to the walls of the ventricles; the only electrical bridge between the atria and the ventricles.

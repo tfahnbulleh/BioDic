@@ -1,0 +1,182 @@
+obligate aerobe
+(ob-lig-it air-obe)
+An organism that requires oxygen for cellular respiration and cannot live without it.
+
+obligate anaerobe
+(an-ur-obe)
+An organism that cannot use oxygen and is poisoned by it.
+
+oceanic zone
+The region of water lying over deep areas beyond the continental shelf.
+
+oligotrophic lake
+A nutrient-poor, clear, deep lake with minimum phytoplankton.
+
+omnivore
+[L. omnis, all + vorare, to devour]
+A heterotrophic animal that consumes both meat and plant material.
+
+oncogene
+(on-koh-jeen) [Gk. onkos, tumor + genos, birth, race]
+A gene found in viruses or as part of the normal genome that is involved in triggering cancerous characteristics.
+
+ontogeny
+(on-toj-en-ee)
+The embryonic development of an organism.
+
+oocyte
+(o-uh-sight) [Gk. oion, egg + kytos, vessel]
+A cell that gives rise by meiosis to an ovum.
+
+oogamy
+(oh-og-um-ee)
+A condition in which male and female gametes differ, such that a small, flagellated sperm fertilizes a large, nonmotile egg.
+
+oogenesis
+(oo-oh-jen-eh-sis)
+The process in the ovary that results in the production of female gametes.
+
+open circulatory system
+An arrangement of internal transport in which blood bathes the organs directly and there is no distinction between blood and interstitial fluid.
+
+operant conditioning
+A type of associative learning that directly affects behavior in a natural context; also called trial-and-error learning.
+
+operator
+A segment of DNA that interacts with a repressor protein to regulate the transcription of the structural genes of an operon.
+
+operon
+(op-ur-on) [L. opus, operis, work]
+A unit of genetic function common in bacteria and phages, consisting of coordinately regulated clusters of genes with related functions.
+
+opportunistic species
+Species characterized by high reproduction rates, rapid development, early reproduction, small body size, and uncertain adult survival.
+
+opsonization
+An immune response in which the binding of antibodies to the surface of a microbe facilitates phagocytosis of the microbe by a macrophage.
+
+orbital
+[L. orbis, circle, disk]
+In the current model of atomic structure, the volume of space surrounding the atomic nucleus in which an electron will be found 90 percent of the time.
+
+order
+A taxonomic grouping of related, similar families; the category below class and above family.
+
+organ
+[Gk. organon, tool]
+A specialized center of body function composed of several different types of tissues.
+
+organ-identity gene
+A plant gene in which a mutation causes a floral organ to develop in the wrong location.
+
+organ of Corti
+The actual hearing organ of the vertebrate ear, located in the floor of the cochlear canal in the inner ear; contains the receptor cells (hair cells) of the ear.
+
+organelle
+(or-guh-nel) [Gk. organon, instrument, tool]
+One of several formed bodies with a specialized function, suspended in the cytoplasm and found in eukaryotic cells.
+
+organic
+[Gk. organon, instrument, tool]
+Pertaining to (1) organisms or living things generally, or (2) compounds formed by living organisms, or (3) the chemistry of compounds containing carbon.
+
+organic chemistry
+The study of carbon compounds (organic compounds).
+
+organic compound
+A chemical comound containing the element carbon and usually synthesized by cells.
+
+organism
+An individual living thing, such as a bacterium, fungus, protist, plant or animal.
+
+organogenesis
+(or-gan-oh-jen-eh-sis) [Gk. organon, instrument, tool + genos, origin, descent]
+An early period of rapid embryonic development in which the organs take form from the primary germ layers.
+
+orgasm
+Rhythmic, involuntary contractions of certain reproductive structures in both sexes during the human sexual response cycle.
+
+origin of replication
+A specific sequence of bases in a nucleic acid molecule to which the enzymes responsible for replicating the nucleic acid bind to initiate the copying process.
+
+osmoconformer
+An animal that does not actively adjust its internal osmolarity because it is isotonic with its environment.
+
+osmolarity
+(oz-moh-lar-eh-tee)
+Solute concentration expressed as molarity.
+
+osmoregulation
+Adaptations to control the water balance in organisms living in hypertonic, hypotonic, or terrestrial environments.
+
+osmoregulator
+An animal whose body fluids have a different osmolarity than the environment, and that must either discharge excess water if it lives in a hypotonic environment or take in water if it inhabits a hypertonic environment.
+
+osmosis
+(oz-moh-sis) [Gk. osmos, impulse, thrust]
+The diffusion of water across a selectively permeable membrane.
+
+osmotic potential
+(oz-mot-ik) [Gk. osmos, impulse, thrust]
+The tendency of water to move across a selectively permeable membrane into a solution; it is determined by measuring the pressure required to stop the osmotic movement of water into the solution.
+
+osmotic pressure
+A measure of the tendency of a solution to take up water when separated from pure water by a selectively permeable membrane.
+
+Osteichthyes
+The vertebrate class of bony fishes, characterized by a skeleton reinforced by calcium phosphate; the most abundant and diverse vertebrates.
+
+ostracoderm
+(os-trak-uh-durm)
+An extinct agnathan; a fishlike creature encased in an armor of bony plates.
+
+outgroup
+A species or group of species that is closely related to the group of species being studied, but clearly not as closely related as any study-group members are to each other.
+
+ovarian cycle
+(oh-vair-ee-un)
+The cyclic recurrence of the follicular phase, ovulation, and the luteal phase in the mammalian ovary, regulated by hormones.
+
+ovarian follicle
+[L. ovum, egg + folliculus, small ball]
+A developing oocyte and the specialized cells surrounding it; located near the surface of the ovary; following ovulation, forms the corpus luteum.
+
+ovary
+(oh-vur-ee) [L. ovum, egg]
+1) In flowers, the portion of a carpel in which the egg-containing ovules develop. (2) In animals, the structure that produces female gametes and reproductive hormones.
+
+oviduct
+[L. ovum, egg + ductus, duct]
+A tube passing from the ovary to the vagina in invertebrates or to the uterus in vertebrates.
+
+oviparous
+(oh-vip-ur-us)
+Referring to a type of development in which young hatch from eggs laid outside the mother's body.
+
+ovoviviparous
+(oh-voh-vy-vip-ur-us)
+Referring to a type of development in which young hatch from eggs that are retained in the mother's uterus.
+
+ovulation
+The release of an egg from ovaries. In humans, an ovarian follicle releases an egg during each menstrual cycle.
+
+ovule
+(ov-yool) [L. dim. of ovum, egg]
+A structure that develops in the plant ovary and contains the female gametophyte.
+
+ovum pl. ova
+(oh-vum) [L. egg]
+The female gamete; the haploid, unfertilized egg, which is usually a relatively large, nonmotile cell.
+
+oxidation
+The loss of electrons from a substance involved in a redox reaction.
+
+oxidative phosphorylation
+(fos-for-eh-lay-shun)
+The production of ATP using energy derived from the redox reactions of an electron transport chain.
+
+oxidizing agent
+The electron acceptor in a redox reaction.
+
+oxygen debt
+In muscle, the cumulative deficit of oxygen that develops during strenuous exercise when the supply of oxygen is inadequate for the demand; ATP is produced anaerobically by glycolysis, and the resulting pyruvic acid is converted to lactic acid, which is subsequently metabolized when adequate oxygen is available.
